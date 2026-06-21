@@ -1,0 +1,22 @@
+[
+  {
+    "order": 1,
+    "text": "Pilih Jurusan",
+    "status": "current"
+  },
+  {
+    "order": 2,
+    "text": "Assign Job",
+    "status": "uncompleted"
+  },
+  {
+    "order": 3,
+    "text": "Absensi",
+    "status": "uncompleted"
+  },
+  {
+    "order": 4,
+    "text": "Mulai Perjalanan",
+    "status": "uncompleted"
+  }
+]
