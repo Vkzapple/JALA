@@ -1,0 +1,5382 @@
+[
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA ADM. JAKARTA PUSAT",
+  "kecamatan": "GAMBIR",
+  "kelurahan": "GAMBIR",
+  "nama_halte": "HARMONI",
+  "lokasi": "JALAN HAYAM WURUK",
+  "koordinat_x": "-6.162687",
+  "koordinat_y": "106.81992"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA ADM. JAKARTA BARAT",
+  "kecamatan": "TAMAN SARI",
+  "kelurahan": "TAMAN SARI",
+  "nama_halte": "SAWAH BESAR",
+  "lokasi": "JALAN HAYAM WURUK",
+  "koordinat_x": "-6.157368",
+  "koordinat_y": "106.818661"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA ADM. JAKARTA SELATAN",
+  "kecamatan": "TEBET",
+  "kelurahan": "TEBET",
+  "nama_halte": "TIMUR ST. MANGGARAI",
+  "lokasi": "JALAN MANGGARAI UTARA II",
+  "koordinat_x": "-6.209745",
+  "koordinat_y": "106.850673"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA ADM. JAKARTA UTARA",
+  "kecamatan": "TANJUNG PRIOK",
+  "kelurahan": "TANJUNG PRIOK",
+  "nama_halte": "JAKARTA INTERNATIONAL STADIUM",
+  "lokasi": "JALAN DANAU SUNTER UTARA",
+  "koordinat_x": "-6.126689",
+  "koordinat_y": "106.855865"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA ADM. JAKARTA BARAT",
+  "kecamatan": "TAMAN SARI",
+  "kelurahan": "TAMAN SARI",
+  "nama_halte": "MANGGA BESAR",
+  "lokasi": "JALAN GAJAH MADA",
+  "koordinat_x": "-6.15325",
+  "koordinat_y": "106.817536"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA ADM. JAKARTA TIMUR",
+  "kecamatan": "CAWANG",
+  "kelurahan": "KRAMAT JATI",
+  "nama_halte": "CAWANG",
+  "lokasi": "JALAN LETNAN JENDERAL MT HARYONO",
+  "koordinat_x": "-6.245863",
+  "koordinat_y": "106.871143"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA ADM. JAKARTA BARAT",
+  "kecamatan": "TAMAN SARI",
+  "kelurahan": "TAMAN SARI",
+  "nama_halte": "TAMAN SARI",
+  "lokasi": "JALAN HAYAM WURUK",
+  "koordinat_x": "-6.1493",
+  "koordinat_y": "106.81669"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA ADM. JAKARTA BARAT",
+  "kecamatan": "TAMAN SARI",
+  "kelurahan": "TAMAN SARI",
+  "nama_halte": "GLODOK",
+  "lokasi": "JALAN HAYAM WURUK",
+  "koordinat_x": "-6.143393",
+  "koordinat_y": "106.815136"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA ADM. JAKARTA BARAT",
+  "kecamatan": "TAMAN SARI",
+  "kelurahan": "TAMAN SARI",
+  "nama_halte": "KOTA",
+  "lokasi": "JALAN GAJAH MADA",
+  "koordinat_x": "-6.13679",
+  "koordinat_y": "106.814904"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA ADM. JAKARTA SELATAN",
+  "kecamatan": "SETIABUDI",
+  "kelurahan": "SETIABUDI",
+  "nama_halte": "GALUNGGUNG",
+  "lokasi": "JALAN GALUNGGUNG",
+  "koordinat_x": "-6.204399",
+  "koordinat_y": "106.823381"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA BEKASI",
+  "kecamatan": "TARUMAJAYA",
+  "kelurahan": "PUSAKARAKYAT",
+  "nama_halte": "TRANSERA HARAPAN INDAH",
+  "lokasi": "JALAN BOULEVARD HARAPAN INDAH",
+  "koordinat_x": "-6.152257",
+  "koordinat_y": "106.975764"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA ADM. JAKARTA PUSAT",
+  "kecamatan": "SENEN",
+  "kelurahan": "SENEN",
+  "nama_halte": "TANAH TINGGI",
+  "lokasi": "JALAN TANAH TINGGI BARAT",
+  "koordinat_x": "-6.171373",
+  "koordinat_y": "106.8521885"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA ADM. JAKARTA UTARA",
+  "kecamatan": "TANJUNG PRIOK",
+  "kelurahan": "TANJUNG PRIOK",
+  "nama_halte": "DANAU SUNTER",
+  "lokasi": "JALAN DANAU SUNTER BARAT",
+  "koordinat_x": "-6.14121",
+  "koordinat_y": "106.85699"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA ADM. JAKARTA UTARA",
+  "kecamatan": "TANJUNG PRIOK",
+  "kelurahan": "TANJUNG PRIOK",
+  "nama_halte": "JEMBATAN ITEM",
+  "lokasi": "JALAN DANAU SUNTER UTARA",
+  "koordinat_x": "-6.13098",
+  "koordinat_y": "106.85515"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA ADM. JAKARTA PUSAT",
+  "kecamatan": "KEMAYORAN",
+  "kelurahan": "KEMAYORAN",
+  "nama_halte": "KEMAYORAN",
+  "lokasi": "JALAN BENYAMIN SUEB",
+  "koordinat_x": "-6.15889",
+  "koordinat_y": "106.85151"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA ADM. JAKARTA PUSAT",
+  "kecamatan": "TANAH ABANG",
+  "kelurahan": "TANAH ABANG",
+  "nama_halte": "BENDUNGAN HILIR",
+  "lokasi": "JALAN JENDERAL SUDIRMAN",
+  "koordinat_x": "-6.217137",
+  "koordinat_y": "106.815283"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA ADM. JAKARTA SELATAN",
+  "kecamatan": "SETIABUDI",
+  "kelurahan": "SETIABUDI",
+  "nama_halte": "RASUNA SAID",
+  "lokasi": "JALAN HAJJAH R. RASUNA SAID",
+  "koordinat_x": "-6.221618",
+  "koordinat_y": "106.832245"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA ADM. JAKARTA BARAT",
+  "kecamatan": "GROGOL PETAMBURAN",
+  "kelurahan": "GROGOL PETAMBURAN",
+  "nama_halte": "GROGOL",
+  "lokasi": "JALAN KYAI TAPA",
+  "koordinat_x": "-6.166824",
+  "koordinat_y": "106.789705"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA ADM. JAKARTA BARAT",
+  "kecamatan": "GROGOL PETAMBURAN",
+  "kelurahan": "GROGOL PETAMBURAN",
+  "nama_halte": "GROGOL REFORMASI",
+  "lokasi": "JALAN S PARMAN",
+  "koordinat_x": "-6.16717",
+  "koordinat_y": "106.78818"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA ADM. JAKARTA UTARA",
+  "kecamatan": "PADEMANGAN",
+  "kelurahan": "PADEMANGAN",
+  "nama_halte": "GUNUNG SAHARI",
+  "lokasi": "JALAN GUNUNG SAHARI RAYA",
+  "koordinat_x": "-6.136817",
+  "koordinat_y": "106.832367"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA ADM. JAKARTA SELATAN",
+  "kecamatan": "SETIABUDI",
+  "kelurahan": "SETIABUDI",
+  "nama_halte": "HALIMUN",
+  "lokasi": "JALAN GALUNGGUNG",
+  "koordinat_x": "-6.205137",
+  "koordinat_y": "106.833383"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA ADM. JAKARTA SELATAN",
+  "kecamatan": "PANCORAN",
+  "kelurahan": "PANCORAN",
+  "nama_halte": "WARUNG BUNCIT",
+  "lokasi": "JALAN HAJI TUTTY ALAWIYAH",
+  "koordinat_x": "-6.256977",
+  "koordinat_y": "106.828078"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA ADM. JAKARTA TIMUR",
+  "kecamatan": "JATINEGARA",
+  "kelurahan": "JATINEGARA",
+  "nama_halte": "FLYOVER CIPINANG",
+  "lokasi": "JALAN HAJI DARIP",
+  "koordinat_x": "-6.214632",
+  "koordinat_y": "106.882268"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA ADM. JAKARTA BARAT",
+  "kecamatan": "KEBON JERUK",
+  "kelurahan": "KEBON JERUK",
+  "nama_halte": "DAMAI",
+  "lokasi": "JALAN DAAN MOGOT",
+  "koordinat_x": "-6.163376",
+  "koordinat_y": "106.775143"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA ADM. JAKARTA PUSAT",
+  "kecamatan": "GAMBIR",
+  "kelurahan": "SAWAH BESAR",
+  "nama_halte": "ISTIQLAL",
+  "lokasi": "JALAN PERWIRA",
+  "koordinat_x": "-6.172252",
+  "koordinat_y": "106.830932"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA ADM. JAKARTA PUSAT",
+  "kecamatan": "TANAH ABANG",
+  "kelurahan": "TANAH ABANG",
+  "nama_halte": "TRANSJAKARTA TANAH ABANG 1",
+  "lokasi": "JALAN JATIBARU",
+  "koordinat_x": "-6.185496",
+  "koordinat_y": "106.81105"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA ADM. JAKARTA SELATAN",
+  "kecamatan": "PASAR MINGGU",
+  "kelurahan": "PASAR MINGGU",
+  "nama_halte": "JATI PADANG",
+  "lokasi": "JALAN WARUNG JATI BARAT",
+  "koordinat_x": "-6.285431",
+  "koordinat_y": "106.826264"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA ADM. JAKARTA TIMUR",
+  "kecamatan": "JATINEGARA",
+  "kelurahan": "JATINEGARA",
+  "nama_halte": "JATINEGARA",
+  "lokasi": "JALAN JATINEGARA TIMUR",
+  "koordinat_x": "-6.221412",
+  "koordinat_y": "106.868071"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA ADM. JAKARTA BARAT",
+  "kecamatan": "GROGOL PETAMBURAN",
+  "kelurahan": "GROGOL PETAMBURAN",
+  "nama_halte": "JELAMBAR",
+  "lokasi": "JALAN DAAN MOGOT",
+  "koordinat_x": "-6.166548",
+  "koordinat_y": "106.786505"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA ADM. JAKARTA BARAT",
+  "kecamatan": "CENGKARENG",
+  "kelurahan": "CENGKARENG",
+  "nama_halte": "JEMBATAN BARU",
+  "lokasi": "JALAN DAAN MOGOT",
+  "koordinat_x": "-6.154831",
+  "koordinat_y": "106.730378"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA ADM. JAKARTA BARAT",
+  "kecamatan": "TAMBORA",
+  "kelurahan": "TAMBORA",
+  "nama_halte": "JEMBATAN BESI",
+  "lokasi": "JALAN PROFESOR DOKTOR LATUMETEN",
+  "koordinat_x": "-6.152005",
+  "koordinat_y": "106.794901"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA ADM. JAKARTA BARAT",
+  "kecamatan": "TAMBORA",
+  "kelurahan": "TAMBORA",
+  "nama_halte": "JEMBATAN DUA",
+  "lokasi": "JALAN JEMBATAN DUA FLYOVER",
+  "koordinat_x": "-6.143279",
+  "koordinat_y": "106.793516"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA ADM. JAKARTA BARAT",
+  "kecamatan": "CENGKARENG",
+  "kelurahan": "CENGKARENG",
+  "nama_halte": "JEMBATAN GANTUNG",
+  "lokasi": "JALAN DAAN MOGOT",
+  "koordinat_x": "-6.155513",
+  "koordinat_y": "106.749464"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA ADM. JAKARTA PUSAT",
+  "kecamatan": "SAWAH BESAR",
+  "kelurahan": "SAWAH BESAR",
+  "nama_halte": "JEMBATAN MERAH",
+  "lokasi": "JALAN GUNUNG SAHARI RAYA",
+  "koordinat_x": "-6.146731",
+  "koordinat_y": "106.834274"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA ADM. JAKARTA UTARA",
+  "kecamatan": "PENJARINGAN",
+  "kelurahan": "PENJARINGAN",
+  "nama_halte": "JEMBATAN TIGA",
+  "lokasi": "JALAN JEMBATAN TIGA RAYA",
+  "koordinat_x": "-6.133383",
+  "koordinat_y": "106.792666"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA ADM. JAKARTA UTARA",
+  "kecamatan": "PADEMANGAN",
+  "kelurahan": "PADEMANGAN",
+  "nama_halte": "JIEXPO KEMAYORAN",
+  "lokasi": "JALAN PESANGGRAHAN RAYA",
+  "koordinat_x": "-6.144845",
+  "koordinat_y": "106.848645"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA ADM. JAKARTA SELATAN",
+  "kecamatan": "PESANGGRAHAN",
+  "kelurahan": "PESANGGRAHAN",
+  "nama_halte": "JORR",
+  "lokasi": "JALAN CILEDUG RAYA",
+  "koordinat_x": "-6.236104",
+  "koordinat_y": "106.75488"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA ADM. JAKARTA PUSAT",
+  "kecamatan": "SAWAH BESAR",
+  "kelurahan": "SAWAH BESAR",
+  "nama_halte": "JUANDA",
+  "lokasi": "JALAN INSINYUR HAJI JUANDA",
+  "koordinat_x": "-6.168048",
+  "koordinat_y": "106.830885"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA ADM. JAKARTA BARAT",
+  "kecamatan": "TAMBORA",
+  "kelurahan": "TAMBORA",
+  "nama_halte": "KALI BESAR",
+  "lokasi": "JALAN KALI BESAR TIMUR",
+  "koordinat_x": "-6.135355",
+  "koordinat_y": "106.811432"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA ADM. JAKARTA BARAT",
+  "kecamatan": "KALIDERES",
+  "kelurahan": "KALIDERES",
+  "nama_halte": "KALIDERES",
+  "lokasi": "JALAN MADRASAH RAYA",
+  "koordinat_x": "-6.154412",
+  "koordinat_y": "106.705503"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA ADM. JAKARTA TIMUR",
+  "kecamatan": "JATINEGARA",
+  "kelurahan": "JATINEGARA",
+  "nama_halte": "KAMPUNG MELAYU",
+  "lokasi": "JALAN JENDERAL BASUKI RAHMAT",
+  "koordinat_x": "-6.224673",
+  "koordinat_y": "106.866821"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA ADM. JAKARTA TIMUR",
+  "kecamatan": "CIRACAS",
+  "kelurahan": "RAMBUTAN",
+  "nama_halte": "KAMPUNG RAMBUTAN",
+  "lokasi": "JALAN TERMINAL KAMPUNG RAMBUTAN",
+  "koordinat_x": "-6.309885",
+  "koordinat_y": "106.882155"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA ADM. JAKARTA TIMUR",
+  "kecamatan": "DUREN SAWIT",
+  "kelurahan": "DUREN SAWIT",
+  "nama_halte": "KAMPUNG SUMUR",
+  "lokasi": "JALAN I GUSTI NGURAH RAI",
+  "koordinat_x": "-6.214412",
+  "koordinat_y": "106.911885"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA ADM. JAKARTA SELATAN",
+  "kecamatan": "SETIABUDI",
+  "kelurahan": "SETIABUDI",
+  "nama_halte": "KARET KUNINGAN",
+  "lokasi": "JALAN HAJJAH R. RASUNA SAID",
+  "koordinat_x": "-6.21667",
+  "koordinat_y": "106.830737"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA ADM. JAKARTA PUSAT",
+  "kecamatan": "TANAH ABANG",
+  "kelurahan": "TANAH ABANG",
+  "nama_halte": "POLDA METRO JAYA",
+  "lokasi": "JALAN JENDERAL SUDIRMAN",
+  "koordinat_x": "-6.221094",
+  "koordinat_y": "106.810279"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA ADM. JAKARTA TIMUR",
+  "kecamatan": "PULO GADUNG",
+  "kelurahan": "CEMPAKA PUTIH",
+  "nama_halte": "KAYU PUTIH RAWASARI",
+  "lokasi": "JALAN AHMAD YANI",
+  "koordinat_x": "-6.187453",
+  "koordinat_y": "106.875417"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA ADM. JAKARTA SELATAN",
+  "kecamatan": "KEBAYORAN LAMA",
+  "kelurahan": "KEBAYORAN LAMA",
+  "nama_halte": "KEBAYORAN LAMA",
+  "lokasi": "JALAN CILEDUG RAYA",
+  "koordinat_x": "-6.23834",
+  "koordinat_y": "106.777515"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA ADM. JAKARTA SELATAN",
+  "kecamatan": "KEBAYORAN LAMA",
+  "kelurahan": "KEBAYORAN LAMA",
+  "nama_halte": "BUNGUR",
+  "lokasi": "JALAN SULTAN ISKANDAR MUDA",
+  "koordinat_x": "-6.252688",
+  "koordinat_y": "106.781642"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA ADM. JAKARTA BARAT",
+  "kecamatan": "KEBON JERUK",
+  "kelurahan": "KEBON JERUK",
+  "nama_halte": "KEBON JERUK",
+  "lokasi": "JALAN PANJANG RAYA",
+  "koordinat_x": "-6.194311",
+  "koordinat_y": "106.768874"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA ADM. JAKARTA TIMUR",
+  "kecamatan": "JATINEGARA",
+  "kelurahan": "JATINEGARA",
+  "nama_halte": "MATRAMAN BARU",
+  "lokasi": "JALAN MATRAMAN",
+  "koordinat_x": "-6.21288",
+  "koordinat_y": "106.861152"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA ADM. JAKARTA BARAT",
+  "kecamatan": "KEBON JERUK",
+  "kelurahan": "KEBON JERUK",
+  "nama_halte": "KEDOYA PANJANG",
+  "lokasi": "JALAN PANJANG RAYA",
+  "koordinat_x": "-6.174495",
+  "koordinat_y": "106.765854"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA ADM. JAKARTA BARAT",
+  "kecamatan": "KEBON JERUK",
+  "kelurahan": "KEBON JERUK",
+  "nama_halte": "KEDOYA",
+  "lokasi": "JALAN PANJANG RAYA",
+  "koordinat_x": "-6.164435",
+  "koordinat_y": "106.763013"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA ADM. JAKARTA BARAT",
+  "kecamatan": "KEBON JERUK",
+  "kelurahan": "KEBON JERUK",
+  "nama_halte": "KELAPA DUA SASAK",
+  "lokasi": "JALAN PANJANG RAYA",
+  "koordinat_x": "-6.205551",
+  "koordinat_y": "106.769526"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA ADM. JAKARTA UTARA",
+  "kecamatan": "PADEMANGAN",
+  "kelurahan": "PADEMANGAN",
+  "nama_halte": "LANDASAN PACU",
+  "lokasi": "JALAN HAJI BAGINDO RAJO MOTIK",
+  "koordinat_x": "-6.152181",
+  "koordinat_y": "106.854238"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA ADM. JAKARTA SELATAN",
+  "kecamatan": "SETIABUDI",
+  "kelurahan": "SETIABUDI",
+  "nama_halte": "DENPASAR ARAH TIMUR",
+  "lokasi": "JALAN GATOT SUBROTO",
+  "koordinat_x": "-6.232602",
+  "koordinat_y": "106.82162"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA BEKASI",
+  "kecamatan": "MEDAN SATRIA",
+  "kelurahan": "MEDANSATRIA",
+  "nama_halte": "KOTA HARAPAN INDAH 1",
+  "lokasi": "JALAN SULTAN AGUNG",
+  "koordinat_x": "-6.193598",
+  "koordinat_y": "106.973352"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA BEKASI",
+  "kecamatan": "MEDAN SATRIA",
+  "kelurahan": "MEDANSATRIA",
+  "nama_halte": "KOTA HARAPAN INDAH 2",
+  "lokasi": "JALAN SULTAN AGUNG",
+  "koordinat_x": "-6.193912",
+  "koordinat_y": "106.973564"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA ADM. JAKARTA PUSAT",
+  "kecamatan": "SENEN",
+  "kelurahan": "SENEN",
+  "nama_halte": "KRAMAT SENTIONG",
+  "lokasi": "JALAN KRAMAT RAYA",
+  "koordinat_x": "-6.18798",
+  "koordinat_y": "106.845951"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA ADM. JAKARTA SELATAN",
+  "kecamatan": "SETIABUDI",
+  "kelurahan": "MAMPANG PRAPATAN",
+  "nama_halte": "SIMPANG KUNINGAN",
+  "lokasi": "JALAN GATOT SUBROTO",
+  "koordinat_x": "-6.23725",
+  "koordinat_y": "106.82794"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA ADM. JAKARTA SELATAN",
+  "kecamatan": "SETIABUDI",
+  "kelurahan": "SETIABUDI",
+  "nama_halte": "KUNINGAN MADYA",
+  "lokasi": "JALAN HAJJAH R. RASUNA SAID",
+  "koordinat_x": "-6.213414",
+  "koordinat_y": "106.830472"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA ADM. JAKARTA SELATAN",
+  "kecamatan": "SETIABUDI",
+  "kelurahan": "SETIABUDI",
+  "nama_halte": "UNDERPASS KUNINGAN",
+  "lokasi": "JALAN HAJJAH R. RASUNA SAID",
+  "koordinat_x": "-6.234731",
+  "koordinat_y": "106.829015"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA ADM. JAKARTA PUSAT",
+  "kecamatan": "SENEN",
+  "kelurahan": "SENEN",
+  "nama_halte": "KWITANG",
+  "lokasi": "JALAN PRAJURIT KKO USMAN & HARUN",
+  "koordinat_x": "-6.181051",
+  "koordinat_y": "106.83866"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA ADM. JAKARTA UTARA",
+  "kecamatan": "PENJARINGAN",
+  "kelurahan": "PENJARINGAN",
+  "nama_halte": "PLUIT SELATAN",
+  "lokasi": "JALAN PLUIT SELATAN RAYA",
+  "koordinat_x": "-6.125258",
+  "koordinat_y": "106.799714"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA ADM. JAKARTA PUSAT",
+  "kecamatan": "MENTENG",
+  "kelurahan": "MENTENG",
+  "nama_halte": "FLYOVER KUNINGAN",
+  "lokasi": "JALAN PURWOREJO",
+  "koordinat_x": "-6.202761",
+  "koordinat_y": "106.827706"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA ADM. JAKARTA SELATAN",
+  "kecamatan": "MAMPANG PRAPATAN",
+  "kelurahan": "MAMPANG PRAPATAN",
+  "nama_halte": "DENPASAR ARAH BARAT",
+  "lokasi": "JALAN JENDERAL GATOT SUBROTO",
+  "koordinat_x": "-6.233551",
+  "koordinat_y": "106.822084"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA ADM. JAKARTA SELATAN",
+  "kecamatan": "SETIABUDI",
+  "kelurahan": "SETIABUDI",
+  "nama_halte": "WIDYA CHANDRA TELKOMSEL ARAH TIMUR",
+  "lokasi": "JALAN GATOT SUBROTO",
+  "koordinat_x": "-6.226549",
+  "koordinat_y": "106.8174"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA ADM. JAKARTA TIMUR",
+  "kecamatan": "PULO GADUNG",
+  "kelurahan": "PULO GADUNG",
+  "nama_halte": "LAYUR",
+  "lokasi": "JALAN PEMUDA",
+  "koordinat_x": "-6.193539",
+  "koordinat_y": "106.89909"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA ADM. JAKARTA SELATAN",
+  "kecamatan": "CILANDAK",
+  "kelurahan": "CILANDAK",
+  "nama_halte": "LEBAK BULUS",
+  "lokasi": "JALAN RAYA PASAR JUMAT",
+  "koordinat_x": "-6.289413",
+  "koordinat_y": "106.774151"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA ADM. JAKARTA SELATAN",
+  "kecamatan": "MAMPANG PRAPATAN",
+  "kelurahan": "MAMPANG PRAPATAN",
+  "nama_halte": "MAMPANG PRAPATAN",
+  "lokasi": "JALAN MAMPANG PRAPATAN RAYA",
+  "koordinat_x": "-6.242699",
+  "koordinat_y": "106.825717"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA ADM. JAKARTA PUSAT",
+  "kecamatan": "SAWAH BESAR",
+  "kelurahan": "SAWAH BESAR",
+  "nama_halte": "MANGGA DUA",
+  "lokasi": "JALAN MANGGA DUA RAYA",
+  "koordinat_x": "-6.136148",
+  "koordinat_y": "106.825968"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA ADM. JAKARTA SELATAN",
+  "kecamatan": "SETIABUDI",
+  "kelurahan": "MENTENG",
+  "nama_halte": "MANGGARAI",
+  "lokasi": "JALAN SULTAN AGUNG",
+  "koordinat_x": "-6.20888",
+  "koordinat_y": "106.847391"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA ADM. JAKARTA PUSAT",
+  "kecamatan": "TANAH ABANG",
+  "kelurahan": "TANAH ABANG",
+  "nama_halte": "KARET",
+  "lokasi": "JALAN JENDERAL SUDIRMAN",
+  "koordinat_x": "-6.212457",
+  "koordinat_y": "106.820031"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA ADM. JAKARTA TIMUR",
+  "kecamatan": "MATRAMAN",
+  "kelurahan": "MATRAMAN",
+  "nama_halte": "MATRAMAN",
+  "lokasi": "JALAN MATRAMAN",
+  "koordinat_x": "-6.19998",
+  "koordinat_y": "106.854429"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA ADM. JAKARTA PUSAT",
+  "kecamatan": "SENEN",
+  "kelurahan": "SENEN",
+  "nama_halte": "FLYOVER PRAMUKA",
+  "lokasi": "FLYOVER PRAMUKA MATRAMAN",
+  "koordinat_x": "-6.19891",
+  "koordinat_y": "106.854496"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA ADM. JAKARTA SELATAN",
+  "kecamatan": "KEBAYORAN BARU",
+  "kelurahan": "KEBAYORAN BARU",
+  "nama_halte": "MAYESTIK",
+  "lokasi": "JALAN KYAI MAJA",
+  "koordinat_x": "-6.241921",
+  "koordinat_y": "106.790767"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA ADM. JAKARTA PUSAT",
+  "kecamatan": "TANAH ABANG",
+  "kelurahan": "TANAH ABANG",
+  "nama_halte": "DUKUH ATAS",
+  "lokasi": "JALAN JENDERAL SUDIRMAN",
+  "koordinat_x": "-6.205702",
+  "koordinat_y": "106.822225"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA ADM. JAKARTA BARAT",
+  "kecamatan": "TAMAN SARI",
+  "kelurahan": "TAMAN SARI",
+  "nama_halte": "MUSEUM SEJARAH JAKARTA",
+  "lokasi": "JALAN KUNIR",
+  "koordinat_x": "-6.13393",
+  "koordinat_y": "106.812088"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA ADM. JAKARTA PUSAT",
+  "kecamatan": "MENTENG",
+  "kelurahan": "MENTENG",
+  "nama_halte": "TOSARI",
+  "lokasi": "JALAN JENDERAL SUDIRMAN",
+  "koordinat_x": "-6.196892",
+  "koordinat_y": "106.823092"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA ADM. JAKARTA UTARA",
+  "kecamatan": "PADEMANGAN",
+  "kelurahan": "PADEMANGAN",
+  "nama_halte": "PADEMANGAN",
+  "lokasi": "JALAN GUNUNG SAHARI RAYA",
+  "koordinat_x": "-6.133704",
+  "koordinat_y": "106.831637"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA ADM. JAKARTA UTARA",
+  "kecamatan": "PENJARINGAN",
+  "kelurahan": "PENJARINGAN",
+  "nama_halte": "PAKIN",
+  "lokasi": "JALAN GEDONG PANJANG",
+  "koordinat_x": "-6.127982",
+  "koordinat_y": "106.804743"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA ADM. JAKARTA PUSAT",
+  "kecamatan": "SENEN",
+  "kelurahan": "SENEN",
+  "nama_halte": "PAL PUTIH",
+  "lokasi": "JALAN KRAMAT RAYA",
+  "koordinat_x": "-6.1846309999999995",
+  "koordinat_y": "106.844024"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA ADM. JAKARTA SELATAN",
+  "kecamatan": "MAMPANG PRAPATAN",
+  "kelurahan": "KEBAYORAN BARU",
+  "nama_halte": "WIDYA CHANDRA TELKOMSEL ARAH BARAT",
+  "lokasi": "JALAN JENDERAL GATOT SUBROTO",
+  "koordinat_x": "-6.227392",
+  "koordinat_y": "106.817628"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA ADM. JAKARTA BARAT",
+  "kecamatan": "GROGOL PETAMBURAN",
+  "kelurahan": "GROGOL PETAMBURAN",
+  "nama_halte": "KALI GROGOL ARAH UTARA",
+  "lokasi": "JALAN PROF. DR. LATUMENTEN",
+  "koordinat_x": "-6.16106",
+  "koordinat_y": "106.790397"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA ADM. JAKARTA SELATAN",
+  "kecamatan": "TEBET",
+  "kelurahan": "PANCORAN",
+  "nama_halte": "PANCORAN TUGU",
+  "lokasi": "JALAN MT HARYONO",
+  "koordinat_x": "-6.2433",
+  "koordinat_y": "106.84388"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA ADM. JAKARTA BARAT",
+  "kecamatan": "TAMAN SARI",
+  "kelurahan": "TAMAN SARI",
+  "nama_halte": "MANGGA DUA RAYA",
+  "lokasi": "JALAN MANGGA DUA RAYA",
+  "koordinat_x": "-6.137611",
+  "koordinat_y": "106.817918"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA ADM. JAKARTA PUSAT",
+  "kecamatan": "SAWAH BESAR",
+  "kelurahan": "SAWAH BESAR",
+  "nama_halte": "PASAR BARU",
+  "lokasi": "JALAN POS",
+  "koordinat_x": "-6.166129",
+  "koordinat_y": "106.834834"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA ADM. JAKARTA PUSAT",
+  "kecamatan": "KEMAYORAN",
+  "kelurahan": "SAWAH BESAR",
+  "nama_halte": "PASAR BARU TIMUR",
+  "lokasi": "JALAN GUNUNG SAHARI RAYA",
+  "koordinat_x": "-6.162272",
+  "koordinat_y": "106.838114"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA ADM. JAKARTA PUSAT",
+  "kecamatan": "CEMPAKA PUTIH",
+  "kelurahan": "CEMPAKA PUTIH",
+  "nama_halte": "PASAR CEMPAKA PUTIH",
+  "lokasi": "JALAN LETNAN JENDERAL SUPRAPTO",
+  "koordinat_x": "-6.172325",
+  "koordinat_y": "106.862455"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA ADM. JAKARTA TIMUR",
+  "kecamatan": "JATINEGARA",
+  "kelurahan": "JATINEGARA",
+  "nama_halte": "PASAR ENJO",
+  "lokasi": "JALAN HAJI DARIP",
+  "koordinat_x": "-6.214881",
+  "koordinat_y": "106.878194"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA ADM. JAKARTA PUSAT",
+  "kecamatan": "CEMPAKA PUTIH",
+  "kelurahan": "CEMPAKA PUTIH",
+  "nama_halte": "PASAR GENJING",
+  "lokasi": "JALAN PRAMUKA",
+  "koordinat_x": "-6.194446",
+  "koordinat_y": "106.860915"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA ADM. JAKARTA TIMUR",
+  "kecamatan": "KRAMAT JATI",
+  "kelurahan": "RAMBUTAN",
+  "nama_halte": "PASAR INDUK",
+  "lokasi": "JALAN RAYA BOGOR",
+  "koordinat_x": "-6.294215",
+  "koordinat_y": "106.872032"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA ADM. JAKARTA TIMUR",
+  "kecamatan": "JATINEGARA",
+  "kelurahan": "JATINEGARA",
+  "nama_halte": "BALI MESTER",
+  "lokasi": "JALAN JATINEGARA TIMUR",
+  "koordinat_x": "-6.215744",
+  "koordinat_y": "106.866318"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA ADM. JAKARTA SELATAN",
+  "kecamatan": "KEBAYORAN LAMA",
+  "kelurahan": "KEBAYORAN LAMA",
+  "nama_halte": "KEBAYORAN",
+  "lokasi": "JALAN TEUKU NYAK ARIEF",
+  "koordinat_x": "-6.238413",
+  "koordinat_y": "106.783229"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA ADM. JAKARTA TIMUR",
+  "kecamatan": "KRAMAT JATI",
+  "kelurahan": "KRAMAT JATI",
+  "nama_halte": "KRAMAT JATI",
+  "lokasi": "JALAN RAYA BOGOR",
+  "koordinat_x": "-6.268822",
+  "koordinat_y": "106.866632"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KAB. BEKASI",
+  "kecamatan": "MEDAN SATRIA",
+  "kelurahan": "MEDANSATRIA",
+  "nama_halte": "PASAR MODERN HARAPAN INDAH",
+  "lokasi": "JALAN HARAPAN INDAH BULEVAR",
+  "koordinat_x": "-6.168544",
+  "koordinat_y": "106.97431"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA ADM. JAKARTA TIMUR",
+  "kecamatan": "PULO GADUNG",
+  "kelurahan": "PULO GADUNG",
+  "nama_halte": "PASAR PULO GADUNG",
+  "lokasi": "JALAN BEKASI RAYA",
+  "koordinat_x": "-6.187434",
+  "koordinat_y": "106.905913"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA ADM. JAKARTA SELATAN",
+  "kecamatan": "SETIABUDI",
+  "kelurahan": "SETIABUDI",
+  "nama_halte": "PASAR RUMPUT",
+  "lokasi": "JALAN SULTAN AGUNG",
+  "koordinat_x": "-6.207125",
+  "koordinat_y": "106.841118"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA ADM. JAKARTA SELATAN",
+  "kecamatan": "SETIABUDI",
+  "kelurahan": "SETIABUDI",
+  "nama_halte": "PATRA KUNINGAN",
+  "lokasi": "JALAN HAJJAH R. RASUNA SAID",
+  "koordinat_x": "-6.232677",
+  "koordinat_y": "106.832087"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA ADM. JAKARTA PUSAT",
+  "kecamatan": "GAMBIR",
+  "kelurahan": "GAMBIR",
+  "nama_halte": "PECENONGAN",
+  "lokasi": "JALAN INSINYUR HAJI JUANDA",
+  "koordinat_x": "-6.16771",
+  "koordinat_y": "106.82819"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA ADM. JAKARTA TIMUR",
+  "kecamatan": "JATINEGARA",
+  "kelurahan": "JATINEGARA",
+  "nama_halte": "PEDATI PRUMPUNG",
+  "lokasi": "JALAN DI PANJAITAN",
+  "koordinat_x": "-6.22016",
+  "koordinat_y": "106.874386"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA ADM. JAKARTA TIMUR",
+  "kecamatan": "PULO GADUNG",
+  "kelurahan": "PULO GADUNG",
+  "nama_halte": "PEDONGKELAN",
+  "lokasi": "JALAN PERINTIS KEMERDEKAAN",
+  "koordinat_x": "-6.167962",
+  "koordinat_y": "106.882464"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA ADM. JAKARTA SELATAN",
+  "kecamatan": "PASAR MINGGU",
+  "kelurahan": "PASAR MINGGU",
+  "nama_halte": "PEJATEN",
+  "lokasi": "JALAN BUNCIT RAYA",
+  "koordinat_x": "-6.278404",
+  "koordinat_y": "106.829724"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA ADM. JAKARTA TIMUR",
+  "kecamatan": "PULO GADUNG",
+  "kelurahan": "PULO GADUNG",
+  "nama_halte": "PEMUDA PRAMUKA",
+  "lokasi": "JEMBATAN PENYEBRANGAN ORANG PEMUDA PRAMUKA",
+  "koordinat_x": "-6.192795",
+  "koordinat_y": "106.874979"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA ADM. JAKARTA TIMUR",
+  "kecamatan": "PULO GADUNG",
+  "kelurahan": "PULO GADUNG",
+  "nama_halte": "PEMUDA RAWAMANGUN",
+  "lokasi": "JALAN PEMUDA",
+  "koordinat_x": "-6.193488",
+  "koordinat_y": "106.89165"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA ADM. JAKARTA TIMUR",
+  "kecamatan": "JATINEGARA",
+  "kelurahan": "JATINEGARA",
+  "nama_halte": "HALIM",
+  "lokasi": "JALAN DI PANJAITAN",
+  "koordinat_x": "-6.23907",
+  "koordinat_y": "106.878"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA ADM. JAKARTA TIMUR",
+  "kecamatan": "CAKUNG",
+  "kelurahan": "PENGGILINGAN",
+  "nama_halte": "PENGGILINGAN",
+  "lokasi": "PENGGILINGAN RAYA",
+  "koordinat_x": "-6.214132",
+  "koordinat_y": "106.939609"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA ADM. JAKARTA UTARA",
+  "kecamatan": "PENJARINGAN",
+  "kelurahan": "PENJARINGAN",
+  "nama_halte": "PENJARINGAN",
+  "lokasi": "JALAN PLUIT SELATAN RAYA",
+  "koordinat_x": "-6.126306",
+  "koordinat_y": "106.792026"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA ADM. JAKARTA UTARA",
+  "kecamatan": "TANJUNG PRIOK",
+  "kelurahan": "KOJA",
+  "nama_halte": "KOJA",
+  "lokasi": "JALAN YOS SUDARSO",
+  "koordinat_x": "-6.11413",
+  "koordinat_y": "106.89309"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA ADM. JAKARTA SELATAN",
+  "kecamatan": "KEBAYORAN LAMA",
+  "kelurahan": "KEBAYORAN LAMA",
+  "nama_halte": "PERMATA HIJAU",
+  "lokasi": "JALAN LETNAN JENDERAL SOEPENO",
+  "koordinat_x": "-6.221427",
+  "koordinat_y": "106.783246"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA ADM. JAKARTA BARAT",
+  "kecamatan": "KEBON JERUK",
+  "kelurahan": "KEBON JERUK",
+  "nama_halte": "ARTERI",
+  "lokasi": "JALAN ARTERI POS PENGUMBEN",
+  "koordinat_x": "-6.218401",
+  "koordinat_y": "106.777613"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA ADM. JAKARTA TIMUR",
+  "kecamatan": "DUREN SAWIT",
+  "kelurahan": "DUREN SAWIT",
+  "nama_halte": "FLYOVER PONDOK KOPI",
+  "lokasi": "JALAN I GUSTI NGURAH RAI",
+  "koordinat_x": "-6.216689",
+  "koordinat_y": "106.93054"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA ADM. JAKARTA BARAT",
+  "kecamatan": "KALIDERES",
+  "kelurahan": "KALIDERES",
+  "nama_halte": "PESAKIH",
+  "lokasi": "JALAN DAAN MOGOT",
+  "koordinat_x": "-6.154803",
+  "koordinat_y": "106.715266"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA ADM. JAKARTA PUSAT",
+  "kecamatan": "GAMBIR",
+  "kelurahan": "GAMBIR",
+  "nama_halte": "PETOJO",
+  "lokasi": "JALAN SURYOPRANOTO",
+  "koordinat_x": "-6.169984",
+  "koordinat_y": "106.816983"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA ADM. JAKARTA TIMUR",
+  "kecamatan": "KRAMAT JATI",
+  "kelurahan": "CILILITAN",
+  "nama_halte": "CILILITAN",
+  "lokasi": "JALAN MAYOR JENDERAL SUTOYO",
+  "koordinat_x": "-6.262494",
+  "koordinat_y": "106.866352"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA ADM. JAKARTA TIMUR",
+  "kecamatan": "KRAMAT JATI",
+  "kelurahan": "CILILITAN",
+  "nama_halte": "PGC",
+  "lokasi": "TRANSJAKARTA BUSWAY KORIDOR 10",
+  "koordinat_x": "-6.2619",
+  "koordinat_y": "106.865696"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA ADM. JAKARTA TIMUR",
+  "kecamatan": "MAKASAR",
+  "kelurahan": "MAKASAR",
+  "nama_halte": "PINANG RANTI",
+  "lokasi": "GANG GOMBRANG II",
+  "koordinat_x": "-6.291075",
+  "koordinat_y": "106.886338"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA ADM. JAKARTA UTARA",
+  "kecamatan": "PENJARINGAN",
+  "kelurahan": "PENJARINGAN",
+  "nama_halte": "PLUIT",
+  "lokasi": "JALAN PLUIT PERMAI",
+  "koordinat_x": "-6.115795",
+  "koordinat_y": "106.790371"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA ADM. JAKARTA UTARA",
+  "kecamatan": "TANJUNG PRIOK",
+  "kelurahan": "KOJA",
+  "nama_halte": "PLUMPANG",
+  "lokasi": "JALAN YOS SUDARSO",
+  "koordinat_x": "-6.12848",
+  "koordinat_y": "106.8937"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA ADM. JAKARTA PUSAT",
+  "kecamatan": "MENTENG",
+  "kelurahan": "MENTENG",
+  "nama_halte": "BUNDARAN HI ASTRA",
+  "lokasi": "JALAN MOHAMMAD HUSNI THAMRIN",
+  "koordinat_x": "-6.193021",
+  "koordinat_y": "106.822997"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA ADM. JAKARTA SELATAN",
+  "kecamatan": "KEBAYORAN LAMA",
+  "kelurahan": "KEBAYORAN LAMA",
+  "nama_halte": "UNDERPASS LEBAK BULUS",
+  "lokasi": "JALAN METRO PONDOK INDAH",
+  "koordinat_x": "-6.286761",
+  "koordinat_y": "106.779986"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA ADM. JAKARTA SELATAN",
+  "kecamatan": "KEBAYORAN LAMA",
+  "kelurahan": "KEBAYORAN LAMA",
+  "nama_halte": "PONDOK INDAH",
+  "lokasi": "JALAN METRO PONDOK INDAH",
+  "koordinat_x": "-6.267231",
+  "koordinat_y": "106.783649"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA ADM. JAKARTA SELATAN",
+  "kecamatan": "KEBAYORAN LAMA",
+  "kelurahan": "KEBAYORAN LAMA",
+  "nama_halte": "PONDOK PINANG",
+  "lokasi": "JALAN PONDOK PINANG RAYA",
+  "koordinat_x": "-6.28217",
+  "koordinat_y": "106.772043"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA ADM. JAKARTA BARAT",
+  "kecamatan": "KEBON JERUK",
+  "kelurahan": "KEBON JERUK",
+  "nama_halte": "POS PENGUMBEN",
+  "lokasi": "JALAN PANJANG RAYA",
+  "koordinat_x": "-6.212935",
+  "koordinat_y": "106.77226"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA ADM. JAKARTA PUSAT",
+  "kecamatan": "CEMPAKA PUTIH",
+  "kelurahan": "CEMPAKA PUTIH",
+  "nama_halte": "SIMPANG PRAMUKA",
+  "lokasi": "JALAN PRAMUKA",
+  "koordinat_x": "-6.192192",
+  "koordinat_y": "106.874011"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA ADM. JAKARTA PUSAT",
+  "kecamatan": "CEMPAKA PUTIH",
+  "kelurahan": "CEMPAKA PUTIH",
+  "nama_halte": "PRAMUKA SARI",
+  "lokasi": "JALAN PRAMUKA",
+  "koordinat_x": "-6.192238",
+  "koordinat_y": "106.868576"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA ADM. JAKARTA TIMUR",
+  "kecamatan": "CAKUNG",
+  "kelurahan": "RAWATRATE",
+  "nama_halte": "PTC PULO GADUNG",
+  "lokasi": "JALAN BEKASI RAYA",
+  "koordinat_x": "-6.182622",
+  "koordinat_y": "106.915612"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA ADM. JAKARTA TIMUR",
+  "kecamatan": "PULO GADUNG",
+  "kelurahan": "PULO GADUNG",
+  "nama_halte": "PULO GADUNG",
+  "lokasi": "JALAN BEKASI RAYA",
+  "koordinat_x": "-6.183325",
+  "koordinat_y": "106.90885"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA ADM. JAKARTA TIMUR",
+  "kecamatan": "CAKUNG",
+  "kelurahan": "PULO GEBANG",
+  "nama_halte": "PULO GEBANG",
+  "lokasi": "JALAN TOL LINGKAR LUAR JAKARTA",
+  "koordinat_x": "-6.212697",
+  "koordinat_y": "106.952651"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA ADM. JAKARTA TIMUR",
+  "kecamatan": "PULO GADUNG",
+  "kelurahan": "KELAPA GADING",
+  "nama_halte": "PULO MAS",
+  "lokasi": "JALAN PERINTIS KEMERDEKAAN",
+  "koordinat_x": "-6.174736",
+  "koordinat_y": "106.892774"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA BEKASI",
+  "kecamatan": "BEKASI UTARA",
+  "kelurahan": "SUMMARECON",
+  "nama_halte": "SUMMARECON BEKASI",
+  "lokasi": "JALAN BULEVAR AHMAD YANI",
+  "koordinat_x": "-6.225566",
+  "koordinat_y": "107.002805"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA ADM. JAKARTA BARAT",
+  "kecamatan": "CENGKARENG",
+  "kelurahan": "CENGKARENG",
+  "nama_halte": "SUMUR BOR",
+  "lokasi": "JALAN DAAN MOGOT",
+  "koordinat_x": "-6.153046",
+  "koordinat_y": "106.719288"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA ADM. JAKARTA TIMUR",
+  "kecamatan": "PULO GADUNG",
+  "kelurahan": "PULO GADUNG",
+  "nama_halte": "KAYU JATI",
+  "lokasi": "JALAN PEMUDA",
+  "koordinat_x": "-6.193267",
+  "koordinat_y": "106.883668"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA ADM. JAKARTA UTARA",
+  "kecamatan": "TANJUNG PRIOK",
+  "kelurahan": "TANJUNG PRIOK",
+  "nama_halte": "SUNTER BOULEVARD BARAT",
+  "lokasi": "JALAN YOS SUDARSO",
+  "koordinat_x": "-6.14965",
+  "koordinat_y": "106.888995"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA ADM. JAKARTA UTARA",
+  "kecamatan": "TANJUNG PRIOK",
+  "kelurahan": "TANJUNG PRIOK",
+  "nama_halte": "SUNTER KARYA",
+  "lokasi": "JALAN DANAU SUNTER UTARA",
+  "koordinat_x": "-6.137625",
+  "koordinat_y": "106.870813"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA ADM. JAKARTA UTARA",
+  "kecamatan": "TANJUNG PRIOK",
+  "kelurahan": "TANJUNG PRIOK",
+  "nama_halte": "SUNTER KELAPA GADING",
+  "lokasi": "SIMPANG SUSUN TANJUNG PRIOK",
+  "koordinat_x": "-6.1429",
+  "koordinat_y": "106.89076"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA ADM. JAKARTA SELATAN",
+  "kecamatan": "PESANGGRAHAN",
+  "kelurahan": "PESANGGRAHAN",
+  "nama_halte": "SWADARMA PARAGONCORP",
+  "lokasi": "JALAN SWADARMA RAYA",
+  "koordinat_x": "-6.23755",
+  "koordinat_y": "106.760648"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA ADM. JAKARTA BARAT",
+  "kecamatan": "CENGKARENG",
+  "kelurahan": "CENGKARENG",
+  "nama_halte": "TAMAN KOTA",
+  "lokasi": "JALAN DAAN MOGOT",
+  "koordinat_x": "-6.157176",
+  "koordinat_y": "106.757893"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA BEKASI",
+  "kecamatan": "MEDAN SATRIA",
+  "kelurahan": "PEJUANG",
+  "nama_halte": "TANAH APIT",
+  "lokasi": "JALAN TANAFIT",
+  "koordinat_x": "-6.182793",
+  "koordinat_y": "106.976077"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA ADM. JAKARTA SELATAN",
+  "kecamatan": "KEBAYORAN LAMA",
+  "kelurahan": "KEBAYORAN LAMA",
+  "nama_halte": "TANAH KUSIR",
+  "lokasi": "JALAN SULTAN ISKANDAR MUDA",
+  "koordinat_x": "-6.256997",
+  "koordinat_y": "106.781684"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA ADM. JAKARTA TIMUR",
+  "kecamatan": "CIRACAS",
+  "kelurahan": "SUSUKAN",
+  "nama_halte": "TANAH MERDEKA ARAH BARAT",
+  "lokasi": "JALAN SUPRIYADI",
+  "koordinat_x": "-6.308216",
+  "koordinat_y": "106.873928"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA ADM. JAKARTA TIMUR",
+  "kecamatan": "CIRACAS",
+  "kelurahan": "RAMBUTAN",
+  "nama_halte": "TANAH MERDEKA ARAH TIMUR",
+  "lokasi": "JALAN SUPRIYADI",
+  "koordinat_x": "-6.307866",
+  "koordinat_y": "106.873886"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA ADM. JAKARTA UTARA",
+  "kecamatan": "TANJUNG PRIOK",
+  "kelurahan": "TANJUNG PRIOK",
+  "nama_halte": "TANJUNG PRIOK",
+  "lokasi": "JALAN TAMAN STASIUN TANJUNG PRIOK",
+  "koordinat_x": "-6.10959",
+  "koordinat_y": "106.88214"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA ADM. JAKARTA SELATAN",
+  "kecamatan": "TEBET",
+  "kelurahan": "TEBET",
+  "nama_halte": "TEBET ECO PARK ARAH TIMUR",
+  "lokasi": "JALAN LETNAN JENDERAL MT HARYONO",
+  "koordinat_x": "-6.243056",
+  "koordinat_y": "106.852075"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA ADM. JAKARTA SELATAN",
+  "kecamatan": "PANCORAN",
+  "kelurahan": "PANCORAN",
+  "nama_halte": "TEBET ECO PARK ARAH BARAT",
+  "lokasi": "JALAN LETNAN JENDERAL MT HARYONO",
+  "koordinat_x": "-6.243338",
+  "koordinat_y": "106.852115"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA ADM. JAKARTA SELATAN",
+  "kecamatan": "SETIABUDI",
+  "kelurahan": "SETIABUDI",
+  "nama_halte": "TEGAL PARANG ARAH TIMUR",
+  "lokasi": "JALAN JENDERAL GATOT SUBROTO",
+  "koordinat_x": "-6.239005",
+  "koordinat_y": "106.831056"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA ADM. JAKARTA SELATAN",
+  "kecamatan": "MAMPANG PRAPATAN",
+  "kelurahan": "MAMPANG PRAPATAN",
+  "nama_halte": "TEGAL PARANG ARAH BARAT",
+  "lokasi": "JALAN JENDERAL GATOT SUBROTO",
+  "koordinat_x": "-6.238863",
+  "koordinat_y": "106.830219"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA ADM. JAKARTA TIMUR",
+  "kecamatan": "MATRAMAN",
+  "kelurahan": "MATRAMAN",
+  "nama_halte": "TEGALAN",
+  "lokasi": "JALAN MATRAMAN",
+  "koordinat_x": "-6.203101",
+  "koordinat_y": "106.85715"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA ADM. JAKARTA SELATAN",
+  "kecamatan": "MAMPANG PRAPATAN",
+  "kelurahan": "MAMPANG PRAPATAN",
+  "nama_halte": "TEGAL MAMPANG",
+  "lokasi": "JALAN KAPTEN TENDEAN",
+  "koordinat_x": "-6.240213",
+  "koordinat_y": "106.831021"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA BEKASI",
+  "kecamatan": "BEKASI TIMUR",
+  "kelurahan": "RAWASEMUT",
+  "nama_halte": "TERMINAL BEKASI",
+  "lokasi": "JALAN INSINYUR HAJI JUANDA",
+  "koordinat_x": "-6.249502",
+  "koordinat_y": "107.01339"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA ADM. JAKARTA TIMUR",
+  "kecamatan": "CAKUNG",
+  "kelurahan": "RAWATRATE",
+  "nama_halte": "TIPAR CAKUNG",
+  "lokasi": "JALAN RAYA BEKASI",
+  "koordinat_x": "-6.183387",
+  "koordinat_y": "106.924628"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA ADM. JAKARTA SELATAN",
+  "kecamatan": "KEBAYORAN BARU",
+  "kelurahan": "KEBAYORAN BARU",
+  "nama_halte": "PASAR SANTA",
+  "lokasi": "JALAN ROBERT WOLTER MONGINSIDI",
+  "koordinat_x": "-6.239207",
+  "koordinat_y": "106.807771"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA ADM. JAKARTA BARAT",
+  "kecamatan": "PALMERAH",
+  "kelurahan": "GROGOL PETAMBURAN",
+  "nama_halte": "TOMANG RAYA",
+  "lokasi": "JALAN TOMANG RAYA",
+  "koordinat_x": "-6.176875",
+  "koordinat_y": "106.800374"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA ADM. JAKARTA PUSAT",
+  "kecamatan": "GAMBIR",
+  "kelurahan": "GAMBIR",
+  "nama_halte": "KEBON SIRIH ARAH UTARA",
+  "lokasi": "JALAN MOHAMMAD HUSNI THAMRIN",
+  "koordinat_x": "-6.182776",
+  "koordinat_y": "106.822799"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA ADM. JAKARTA TIMUR",
+  "kecamatan": "PULO GADUNG",
+  "kelurahan": "PULO GADUNG",
+  "nama_halte": "PEMUDA MERDEKA",
+  "lokasi": "JALAN PEMUDA",
+  "koordinat_x": "-6.19241",
+  "koordinat_y": "106.904886"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA ADM. JAKARTA TIMUR",
+  "kecamatan": "PULO GADUNG",
+  "kelurahan": "PULO GADUNG",
+  "nama_halte": "RAWAMANGUN",
+  "lokasi": "JALAN PEMUDA",
+  "koordinat_x": "-6.192931",
+  "koordinat_y": "106.880332"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA ADM. JAKARTA PUSAT",
+  "kecamatan": "CEMPAKA PUTIH",
+  "kelurahan": "CEMPAKA PUTIH",
+  "nama_halte": "UTAN KAYU",
+  "lokasi": "JALAN PRAMUKA",
+  "koordinat_x": "-6.192728",
+  "koordinat_y": "106.86457"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA ADM. JAKARTA TIMUR",
+  "kecamatan": "PULO GADUNG",
+  "kelurahan": "PULO GADUNG",
+  "nama_halte": "UTAN KAYU RAWAMANGUN",
+  "lokasi": "JALAN AHMAD YANI",
+  "koordinat_x": "-6.197515",
+  "koordinat_y": "106.874036"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA ADM. JAKARTA SELATAN",
+  "kecamatan": "KEBAYORAN BARU",
+  "kelurahan": "KEBAYORAN BARU",
+  "nama_halte": "VELBAK",
+  "lokasi": "JALAN KEBAYORAN BARU",
+  "koordinat_x": "-6.239433",
+  "koordinat_y": "106.785521"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA ADM. JAKARTA TIMUR",
+  "kecamatan": "PULO GADUNG",
+  "kelurahan": "PULO GADUNG",
+  "nama_halte": "VELODROME",
+  "lokasi": "JALAN PEMUDA",
+  "koordinat_x": "-6.193468",
+  "koordinat_y": "106.8883"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA ADM. JAKARTA TIMUR",
+  "kecamatan": "CAKUNG",
+  "kelurahan": "PENGGILINGAN",
+  "nama_halte": "WALIKOTA KOTA ADM. JAKARTA TIMUR",
+  "lokasi": "JALAN DOKTOR SUMARNO",
+  "koordinat_x": "-6.21254",
+  "koordinat_y": "106.945367"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA ADM. JAKARTA UTARA",
+  "kecamatan": "TANJUNG PRIOK",
+  "kelurahan": "TANJUNG PRIOK",
+  "nama_halte": "WALIKOTA KOTA ADM. JAKARTA UTARA ARAH UTARA",
+  "lokasi": "JALAN YOS SUDARSO",
+  "koordinat_x": "-6.118842",
+  "koordinat_y": "106.893135"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA ADM. JAKARTA UTARA",
+  "kecamatan": "KOJA",
+  "kelurahan": "KOJA",
+  "nama_halte": "WALIKOTA KOTA ADM. JAKARTA UTARA ARAH SELATAN",
+  "lokasi": "JALAN YOS SUDARSO",
+  "koordinat_x": "-6.118845",
+  "koordinat_y": "106.893468"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA ADM. JAKARTA SELATAN",
+  "kecamatan": "PANCORAN",
+  "kelurahan": "PANCORAN",
+  "nama_halte": "WARUNG JATI",
+  "lokasi": "JALAN MAMPANG PRAPATAN RAYA",
+  "koordinat_x": "-6.262364",
+  "koordinat_y": "106.829766"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA ADM. JAKARTA UTARA",
+  "kecamatan": "KELAPA GADING",
+  "kelurahan": "TANJUNG PRIOK",
+  "nama_halte": "KODAMAR",
+  "lokasi": "JALAN YOS SUDARSO",
+  "koordinat_x": "-6.162043",
+  "koordinat_y": "106.881693"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA ADM. JAKARTA SELATAN",
+  "kecamatan": "KEBAYORAN BARU",
+  "kelurahan": "KEBAYORAN BARU",
+  "nama_halte": "CSW 2",
+  "lokasi": "JALAN KYAI MAJA",
+  "koordinat_x": "-6.239861",
+  "koordinat_y": "106.797833"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA ADM. JAKARTA PUSAT",
+  "kecamatan": "MENTENG",
+  "kelurahan": "MENTENG",
+  "nama_halte": "KEBON SIRIH ARAH SELATAN",
+  "lokasi": "JALAN MOHAMMAD HUSNI THAMRIN",
+  "koordinat_x": "-6.184195",
+  "koordinat_y": "106.8232317"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA ADM. JAKARTA PUSAT",
+  "kecamatan": "GAMBIR",
+  "kelurahan": "GAMBIR",
+  "nama_halte": "MONUMEN NASIONAL",
+  "lokasi": "JALAN MEDAN MERDEKA BARAT",
+  "koordinat_x": "-6.176248",
+  "koordinat_y": "106.822855"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA ADM. JAKARTA TIMUR",
+  "kecamatan": "PULO GADUNG",
+  "kelurahan": "PULO GADUNG",
+  "nama_halte": "PULO MAS BYPASS",
+  "lokasi": "JALAN AHMAD YANI",
+  "koordinat_x": "-6.176953",
+  "koordinat_y": "106.876002"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA TANGERANG",
+  "kecamatan": "CILEDUG",
+  "kelurahan": "LARANGAN UTARA",
+  "nama_halte": "PURI BETA 1",
+  "lokasi": "JALAN CILEDUG RAYA",
+  "koordinat_x": "-6.230596",
+  "koordinat_y": "106.726023"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA TANGERANG",
+  "kecamatan": "CILEDUG",
+  "kelurahan": "LARANGAN UTARA",
+  "nama_halte": "PURI BETA 2",
+  "lokasi": "JALAN HAJI OEMAR SAID COKROAMINOTO",
+  "koordinat_x": "-6.230532",
+  "koordinat_y": "106.723705"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA ADM. JAKARTA SELATAN",
+  "kecamatan": "PASAR MINGGU",
+  "kelurahan": "PASAR MINGGU",
+  "nama_halte": "RAGUNAN",
+  "lokasi": "TRANS JAKARTA BUSWAY KORIDOR 6",
+  "koordinat_x": "-6.305769",
+  "koordinat_y": "106.819485"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA ADM. JAKARTA SELATAN",
+  "kecamatan": "KEBAYORAN BARU",
+  "kelurahan": "KEBAYORAN BARU",
+  "nama_halte": "RAWA BARAT",
+  "lokasi": "JALAN ROBERT WOLTER MONGINSIDI",
+  "koordinat_x": "-6.238947",
+  "koordinat_y": "106.816243"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA ADM. JAKARTA BARAT",
+  "kecamatan": "CENGKARENG",
+  "kelurahan": "CENGKARENG",
+  "nama_halte": "RAWA BUAYA",
+  "lokasi": "JALAN DAAN MOGOT",
+  "koordinat_x": "-6.153916",
+  "koordinat_y": "106.726188"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA ADM. JAKARTA PUSAT",
+  "kecamatan": "CEMPAKA PUTIH",
+  "kelurahan": "CEMPAKA PUTIH",
+  "nama_halte": "RAWA SELATAN",
+  "lokasi": "JALAN LETNAN JENDERAL SUPRAPTO",
+  "koordinat_x": "-6.173925",
+  "koordinat_y": "106.858088"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA ADM. JAKARTA TIMUR",
+  "kecamatan": "CAKUNG",
+  "kelurahan": "UJUNG MENTENG",
+  "nama_halte": "RAYA BEKASI PULO GEBANG",
+  "lokasi": "JALAN BEKASI RAYA",
+  "koordinat_x": "-6.187604",
+  "koordinat_y": "106.959869"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA ADM. JAKARTA TIMUR",
+  "kecamatan": "CIRACAS",
+  "kelurahan": "PASAR REBO",
+  "nama_halte": "TRIKORA",
+  "lokasi": "JALAN RAYA BOGOR",
+  "koordinat_x": "-6.301956",
+  "koordinat_y": "106.868028"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA ADM. JAKARTA BARAT",
+  "kecamatan": "GROGOL PETAMBURAN",
+  "kelurahan": "GROGOL PETAMBURAN",
+  "nama_halte": "KALI GROGOL ARAH SELATAN",
+  "lokasi": "JALAN LATU MENTEN",
+  "koordinat_x": "-6.160376",
+  "koordinat_y": "106.790973"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA ADM. JAKARTA SELATAN",
+  "kecamatan": "TEBET",
+  "kelurahan": "TEBET",
+  "nama_halte": "PANCORAN ARAH TIMUR",
+  "lokasi": "JALAN MT HARYONO",
+  "koordinat_x": "-6.241571",
+  "koordinat_y": "106.838075"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA ADM. JAKARTA PUSAT",
+  "kecamatan": "CEMPAKA PUTIH",
+  "kelurahan": "CEMPAKA PUTIH",
+  "nama_halte": "SUMUR BATU",
+  "lokasi": "JALAN LETNAN JENDERAL SUPRAPTO",
+  "koordinat_x": "-6.168676",
+  "koordinat_y": "106.87027"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA ADM. JAKARTA BARAT",
+  "kecamatan": "GROGOL PETAMBURAN",
+  "kelurahan": "GROGOL PETAMBURAN",
+  "nama_halte": "ROXY",
+  "lokasi": "JALAN KYAI TAPA",
+  "koordinat_x": "-6.166294",
+  "koordinat_y": "106.796746"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA ADM. JAKARTA PUSAT",
+  "kecamatan": "GAMBIR",
+  "kelurahan": "GAMBIR",
+  "nama_halte": "TARAKAN",
+  "lokasi": "JALAN KYAI CARINGIN",
+  "koordinat_x": "-6.171146",
+  "koordinat_y": "106.81011"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA ADM. JAKARTA PUSAT",
+  "kecamatan": "SENEN",
+  "kelurahan": "SENEN",
+  "nama_halte": "RSPAD",
+  "lokasi": "SAL PHB JALAN KWINI",
+  "koordinat_x": "-6.175485",
+  "koordinat_y": "106.836739"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA ADM. JAKARTA SELATAN",
+  "kecamatan": "PANCORAN",
+  "kelurahan": "PANCORAN",
+  "nama_halte": "PANCORAN ARAH BARAT",
+  "lokasi": "JALAN JENDERAL GATOT SUBROTO",
+  "koordinat_x": "-6.241672",
+  "koordinat_y": "106.8372"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA ADM. JAKARTA BARAT",
+  "kecamatan": "PALMERAH",
+  "kelurahan": "PALMERAH",
+  "nama_halte": "KOTA BAMBU ARAH UTARA",
+  "lokasi": "JALAN LETNAN JENDERAL SISWONDO PARMAN",
+  "koordinat_x": "-6.184489",
+  "koordinat_y": "106.796743"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA ADM. JAKARTA PUSAT",
+  "kecamatan": "SENEN",
+  "kelurahan": "SENEN",
+  "nama_halte": "PASEBAN",
+  "lokasi": "JALAN SALEMBA RAYA",
+  "koordinat_x": "-6.196781",
+  "koordinat_y": "106.851016"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA ADM. JAKARTA PUSAT",
+  "kecamatan": "SENEN",
+  "kelurahan": "SENEN",
+  "nama_halte": "SALEMBA",
+  "lokasi": "JALAN SALEMBA RAYA",
+  "koordinat_x": "-6.193373",
+  "koordinat_y": "106.848912"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA ADM. JAKARTA PUSAT",
+  "kecamatan": "MENTENG",
+  "kelurahan": "MENTENG",
+  "nama_halte": "MH THAMRIN",
+  "lokasi": "JALAN MOHAMMAD HUSNI THAMRIN",
+  "koordinat_x": "-6.188149",
+  "koordinat_y": "106.822987"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA ADM. JAKARTA BARAT",
+  "kecamatan": "PALMERAH",
+  "kelurahan": "PALMERAH",
+  "nama_halte": "KOTA BAMBU ARAH SELATAN",
+  "lokasi": "JALAN S PARMAN",
+  "koordinat_x": "-6.185221",
+  "koordinat_y": "106.797088"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA ADM. JAKARTA BARAT",
+  "kecamatan": "GROGOL PETAMBURAN",
+  "kelurahan": "GROGOL PETAMBURAN",
+  "nama_halte": "TANJUNG DUREN ARAH BARAT",
+  "lokasi": "JALAN LETNAN JENDERAL S. PARMAN",
+  "koordinat_x": "-6.175587",
+  "koordinat_y": "106.792228"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA ADM. JAKARTA BARAT",
+  "kecamatan": "GROGOL PETAMBURAN",
+  "kelurahan": "GROGOL PETAMBURAN",
+  "nama_halte": "TANJUNG DUREN ARAH TIMUR",
+  "lokasi": "JALAN LETNAN JENDERAL S. PARMAN",
+  "koordinat_x": "-6.175799",
+  "koordinat_y": "106.793075"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA ADM. JAKARTA PUSAT",
+  "kecamatan": "SENEN",
+  "kelurahan": "SENEN",
+  "nama_halte": "PASAR SENEN",
+  "lokasi": "JALAN LETNAN JENDERAL SUPRAPTO",
+  "koordinat_x": "-6.178211",
+  "koordinat_y": "106.842505"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA ADM. JAKARTA PUSAT",
+  "kecamatan": "SENEN",
+  "kelurahan": "SENEN",
+  "nama_halte": "SENEN SENTRAL",
+  "lokasi": "JALAN KRAMAT RAYA",
+  "koordinat_x": "-6.178287",
+  "koordinat_y": "106.841973"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA ADM. JAKARTA SELATAN",
+  "kecamatan": "KEBAYORAN LAMA",
+  "kelurahan": "KEBAYORAN LAMA",
+  "nama_halte": "SESKOAL",
+  "lokasi": "JALAN CILEDUG RAYA",
+  "koordinat_x": "-6.238064",
+  "koordinat_y": "106.771205"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA ADM. JAKARTA SELATAN",
+  "kecamatan": "SETIABUDI",
+  "kelurahan": "SETIABUDI",
+  "nama_halte": "SETIABUDI",
+  "lokasi": "JALAN HAJJAH R. RASUNA SAID",
+  "koordinat_x": "-6.209189",
+  "koordinat_y": "106.830237"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA ADM. JAKARTA SELATAN",
+  "kecamatan": "KEBAYORAN LAMA",
+  "kelurahan": "KEBAYORAN LAMA",
+  "nama_halte": "SIMPRUG",
+  "lokasi": "JALAN TEUKU NYAK ARIEF",
+  "koordinat_x": "-6.233935",
+  "koordinat_y": "106.786471"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA ADM. JAKARTA TIMUR",
+  "kecamatan": "MATRAMAN",
+  "kelurahan": "MATRAMAN",
+  "nama_halte": "KESATRIAN",
+  "lokasi": "JALAN MATRAMAN",
+  "koordinat_x": "-6.208533",
+  "koordinat_y": "106.859289"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA ADM. JAKARTA PUSAT",
+  "kecamatan": "TANAH ABANG",
+  "kelurahan": "TANAH ABANG",
+  "nama_halte": "GERBANG PEMUDA ARAH BARAT",
+  "lokasi": "JALAN JENDERAL GATOT SUBROTO",
+  "koordinat_x": "-6.213906",
+  "koordinat_y": "106.808407"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA ADM. JAKARTA PUSAT",
+  "kecamatan": "TANAH ABANG",
+  "kelurahan": "TANAH ABANG",
+  "nama_halte": "GERBANG PEMUDA ARAH TIMUR",
+  "lokasi": "JALAN GATOT SUBROTO",
+  "koordinat_x": "-6.214145",
+  "koordinat_y": "106.809004"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA ADM. JAKARTA BARAT",
+  "kecamatan": "PALMERAH",
+  "kelurahan": "PALMERAH",
+  "nama_halte": "KEMANGGISAN ARAH UTARA",
+  "lokasi": "JALAN LETNAN JENDERAL SISWONDO PARMAN",
+  "koordinat_x": "-6.189906",
+  "koordinat_y": "106.796941"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA ADM. JAKARTA SELATAN",
+  "kecamatan": "PASAR MINGGU",
+  "kelurahan": "PASAR MINGGU",
+  "nama_halte": "JATI BARAT",
+  "lokasi": "JALAN BUNCIT RAYA",
+  "koordinat_x": "-6.290967",
+  "koordinat_y": "106.823649"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA ADM. JAKARTA UTARA",
+  "kecamatan": "TANJUNG PRIOK",
+  "kelurahan": "TANJUNG PRIOK",
+  "nama_halte": "SUNTER UTARA",
+  "lokasi": "JALAN DANAU SUNTER UTARA",
+  "koordinat_x": "-6.139776",
+  "koordinat_y": "106.859202"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA ADM. JAKARTA BARAT",
+  "kecamatan": "PALMERAH",
+  "kelurahan": "PALMERAH",
+  "nama_halte": "KEMANGGISAN ARAH SELATAN",
+  "lokasi": "JALAN S PARMAN",
+  "koordinat_x": "-6.189781",
+  "koordinat_y": "106.797259"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA ADM. JAKARTA TIMUR",
+  "kecamatan": "JATINEGARA",
+  "kelurahan": "JATINEGARA",
+  "nama_halte": "STASIUN JATINEGARA",
+  "lokasi": "JALAN BEKASI BARAT RAYA",
+  "koordinat_x": "-6.215601",
+  "koordinat_y": "106.868051"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA ADM. JAKARTA TIMUR",
+  "kecamatan": "DUREN SAWIT",
+  "kelurahan": "DUREN SAWIT",
+  "nama_halte": "STASIUN KLENDER",
+  "lokasi": "JALAN I GUSTI NGURAH RAI",
+  "koordinat_x": "-6.213532",
+  "koordinat_y": "106.898656"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA ADM. JAKARTA SELATAN",
+  "kecamatan": "TEBET",
+  "kelurahan": "TEBET",
+  "nama_halte": "STASIUN TEBET",
+  "lokasi": "JALAN K. HAJI ABDUL SYAFI'IE",
+  "koordinat_x": "-6.225503",
+  "koordinat_y": "106.858139"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA ADM. JAKARTA PUSAT",
+  "kecamatan": "GAMBIR",
+  "kelurahan": "GAMBIR",
+  "nama_halte": "TRANSJAKARTA TANAH ABANG 2",
+  "lokasi": "JALAN JATIBARU RAYA",
+  "koordinat_x": "-6.183885",
+  "koordinat_y": "106.811648"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA ADM. JAKARTA PUSAT",
+  "kecamatan": "TANAH ABANG",
+  "kelurahan": "TANAH ABANG",
+  "nama_halte": "PS. PALMERAH",
+  "lokasi": "JALAN TENTARA PELAJAR",
+  "koordinat_x": "-6.207817",
+  "koordinat_y": "106.796954"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA ADM. JAKARTA SELATAN",
+  "kecamatan": "TEBET",
+  "kelurahan": "TEBET",
+  "nama_halte": "PLAZA ST. MANGGARAI",
+  "lokasi": "JALAN MANGGARAI UTARA I",
+  "koordinat_x": "-6.210225",
+  "koordinat_y": "106.85099"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA ADM. JAKARTA PUSAT",
+  "kecamatan": "TANAH ABANG",
+  "kelurahan": "TANAH ABANG",
+  "nama_halte": "ST. PALMERAH",
+  "lokasi": "JALAN TENTARA PELAJAR",
+  "koordinat_x": "-6.208908",
+  "koordinat_y": "106.79706"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA ADM. JAKARTA SELATAN",
+  "kecamatan": "PESANGGRAHAN",
+  "kelurahan": "PESANGGRAHAN",
+  "nama_halte": "PETUKANGAN UTARA",
+  "lokasi": "JALAN CILEDUG RAYA",
+  "koordinat_x": "-6.236466",
+  "koordinat_y": "106.74786"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA ADM. JAKARTA TIMUR",
+  "kecamatan": "PULO GADUNG",
+  "kelurahan": "PULO GADUNG",
+  "nama_halte": "PISANGAN",
+  "lokasi": "JALAN AHMAD YANI",
+  "koordinat_x": "-6.205526",
+  "koordinat_y": "106.873775"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA ADM. JAKARTA UTARA",
+  "kecamatan": "PADEMANGAN",
+  "kelurahan": "PADEMANGAN",
+  "nama_halte": "ANCOL",
+  "lokasi": "JALAN KARANG BOLONG HAILAI",
+  "koordinat_x": "-6.127563",
+  "koordinat_y": "106.830391"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA ADM. JAKARTA TIMUR",
+  "kecamatan": "PULO GADUNG",
+  "kelurahan": "KELAPA GADING",
+  "nama_halte": "PERINTIS KEMERDEKAAN",
+  "lokasi": "JALAN PERINTIS KEMERDEKAAN",
+  "koordinat_x": "-6.171797",
+  "koordinat_y": "106.888799"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA ADM. JAKARTA PUSAT",
+  "kecamatan": "SENEN",
+  "kelurahan": "SENEN",
+  "nama_halte": "SENEN RAYA",
+  "lokasi": "JALAN HAJI IMAM SAPI'IE",
+  "koordinat_x": "-6.176251",
+  "koordinat_y": "106.840232"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA ADM. JAKARTA PUSAT",
+  "kecamatan": "GAMBIR",
+  "kelurahan": "GAMBIR",
+  "nama_halte": "BALAI KOTA",
+  "lokasi": "JALAN MEDAN MERDEKA SELATAN",
+  "koordinat_x": "-6.180488",
+  "koordinat_y": "106.826456"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA ADM. JAKARTA BARAT",
+  "kecamatan": "TAMBORA",
+  "kelurahan": "TAMBORA",
+  "nama_halte": "BANDENGAN",
+  "lokasi": "JALAN BANDENGAN SELATAN",
+  "koordinat_x": "-6.136318",
+  "koordinat_y": "106.803472"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA BEKASI",
+  "kecamatan": "BEKASI BARAT",
+  "kelurahan": "RAWA PANJANG",
+  "nama_halte": "BEKASI BARAT",
+  "lokasi": "JALAN AHMAD YANI",
+  "koordinat_x": "-6.250045",
+  "koordinat_y": "106.99167"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA ADM. JAKARTA SELATAN",
+  "kecamatan": "KEBAYORAN BARU",
+  "kelurahan": "KEBAYORAN BARU",
+  "nama_halte": "BLOK M",
+  "lokasi": "JALAN PALATEHAN",
+  "koordinat_x": "-6.243312",
+  "koordinat_y": "106.801751"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA ADM. JAKARTA TIMUR",
+  "kecamatan": "PULO GADUNG",
+  "kelurahan": "KELAPA GADING",
+  "nama_halte": "BERMIS",
+  "lokasi": "JALAN PERINTIS KEMERDEKAAN",
+  "koordinat_x": "-6.178203",
+  "koordinat_y": "106.898594"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA ADM. JAKARTA TIMUR",
+  "kecamatan": "JATINEGARA",
+  "kelurahan": "JATINEGARA",
+  "nama_halte": "BIDARA CINA",
+  "lokasi": "JALAN OTTO ISKANDAR DINATA",
+  "koordinat_x": "-6.229724",
+  "koordinat_y": "106.867208"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA ADM. JAKARTA TIMUR",
+  "kecamatan": "KRAMAT JATI",
+  "kelurahan": "CILILITAN",
+  "nama_halte": "CAWANG CILILITAN",
+  "lokasi": "JALAN MAYOR JENDERAL SUTOYO",
+  "koordinat_x": "-6.257751",
+  "koordinat_y": "106.869998"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA ADM. JAKARTA SELATAN",
+  "kecamatan": "KEBAYORAN BARU",
+  "kelurahan": "KEBAYORAN BARU",
+  "nama_halte": "ASEAN",
+  "lokasi": "JALAN TRUNOJOYO",
+  "koordinat_x": "-6.239889",
+  "koordinat_y": "106.798972"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA ADM. JAKARTA TIMUR",
+  "kecamatan": "JATINEGARA",
+  "kelurahan": "CAWANG",
+  "nama_halte": "BNN",
+  "lokasi": "JALAN LETNAN JENDERAL MT HARYONO",
+  "koordinat_x": "-6.24651",
+  "koordinat_y": "106.87318"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA ADM. JAKARTA TIMUR",
+  "kecamatan": "DUREN SAWIT",
+  "kelurahan": "DUREN SAWIT",
+  "nama_halte": "BUARAN",
+  "lokasi": "JALAN I GUSTI NGURAH RAI",
+  "koordinat_x": "-6.215132",
+  "koordinat_y": "106.917684"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA ADM. JAKARTA PUSAT",
+  "kecamatan": "KEMAYORAN",
+  "kelurahan": "SAWAH BESAR",
+  "nama_halte": "LAPANGAN BANTENG",
+  "lokasi": "JALAN GUNUNG SAHARI RAYA",
+  "koordinat_x": "-6.166063",
+  "koordinat_y": "106.839063"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA ADM. JAKARTA SELATAN",
+  "kecamatan": "PANCORAN",
+  "kelurahan": "PANCORAN",
+  "nama_halte": "BUNCIT INDAH",
+  "lokasi": "JALAN BUNCIT RAYA",
+  "koordinat_x": "-6.274333",
+  "koordinat_y": "106.830293"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA ADM. JAKARTA SELATAN",
+  "kecamatan": "KEBAYORAN BARU",
+  "kelurahan": "KEBAYORAN BARU",
+  "nama_halte": "KEJAKSAAN AGUNG",
+  "lokasi": "JALAN PANGLIMA POLIM RAYA",
+  "koordinat_x": "-6.2405",
+  "koordinat_y": "106.798444"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA ADM. JAKARTA SELATAN",
+  "kecamatan": "KEBAYORAN BARU",
+  "kelurahan": "KEBAYORAN BARU",
+  "nama_halte": "MASJID AGUNG",
+  "lokasi": "JALAN SISINGAMANGARAJA",
+  "koordinat_x": "-6.236483",
+  "koordinat_y": "106.798447"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA ADM. JAKARTA TIMUR",
+  "kecamatan": "CAKUNG",
+  "kelurahan": "KAYU TINGGI",
+  "nama_halte": "CAKUNG CILINCING",
+  "lokasi": "JALAN BEKASI RAYA",
+  "koordinat_x": "-6.184223",
+  "koordinat_y": "106.942312"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA ADM. JAKARTA TIMUR",
+  "kecamatan": "CAKUNG",
+  "kelurahan": "CAKUNG BARAT",
+  "nama_halte": "CAKUNG UNITED TRACTORS",
+  "lokasi": "JALAN RAYA BEKASI",
+  "koordinat_x": "-6.18324",
+  "koordinat_y": "106.92998"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA ADM. JAKARTA SELATAN",
+  "kecamatan": "SETIABUDI",
+  "kelurahan": "KEBAYORAN BARU",
+  "nama_halte": "SEMANGGI",
+  "lokasi": "JALAN GATOT SUBROTO",
+  "koordinat_x": "-6.22111",
+  "koordinat_y": "106.81354"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA ADM. JAKARTA TIMUR",
+  "kecamatan": "JATINEGARA",
+  "kelurahan": "JATINEGARA",
+  "nama_halte": "CAWANG BARU",
+  "lokasi": "JALAN OTTO ISKANDAR DINATA",
+  "koordinat_x": "-6.243607",
+  "koordinat_y": "106.868763"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA ADM. JAKARTA TIMUR",
+  "kecamatan": "JATINEGARA",
+  "kelurahan": "JATINEGARA",
+  "nama_halte": "SIMPANG CAWANG",
+  "lokasi": "JALAN CAWANG UNDERPASS",
+  "koordinat_x": "-6.244771",
+  "koordinat_y": "106.875983"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA ADM. JAKARTA TIMUR",
+  "kecamatan": "KRAMAT JATI",
+  "kelurahan": "MAKASAR",
+  "nama_halte": "CAWANG SENTRAL",
+  "lokasi": "JALAN MAYOR JENDERAL SUTOYO",
+  "koordinat_x": "-6.250309",
+  "koordinat_y": "106.873603"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA TANGERANG",
+  "kecamatan": "CILEDUG",
+  "kelurahan": "KARANG TENGAH",
+  "nama_halte": "CBD CILEDUG",
+  "lokasi": "JALAN PALEM GANDA ASRI",
+  "koordinat_x": "-6.223629",
+  "koordinat_y": "106.709039"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA ADM. JAKARTA UTARA",
+  "kecamatan": "KELAPA GADING",
+  "kelurahan": "KELAPA GADING",
+  "nama_halte": "SIMPANG CEMPAKA",
+  "lokasi": "JALAN YOS SUDARSO",
+  "koordinat_x": "-6.165888",
+  "koordinat_y": "106.879198"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA ADM. JAKARTA TIMUR",
+  "kecamatan": "PULO GADUNG",
+  "kelurahan": "CEMPAKA PUTIH",
+  "nama_halte": "CEMPAKA PUTIH",
+  "lokasi": "JALAN AHMAD YANI",
+  "koordinat_x": "-6.174207",
+  "koordinat_y": "106.876423"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA ADM. JAKARTA PUSAT",
+  "kecamatan": "CEMPAKA PUTIH",
+  "kelurahan": "CEMPAKA PUTIH",
+  "nama_halte": "CEMPAKA BARU",
+  "lokasi": "JALAN LETNAN JENDERAL SUPRAPTO",
+  "koordinat_x": "-6.170398",
+  "koordinat_y": "106.86659"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA ADM. JAKARTA PUSAT",
+  "kecamatan": "CEMPAKA PUTIH",
+  "kelurahan": "CEMPAKA PUTIH",
+  "nama_halte": "CEMPAKA MAS",
+  "lokasi": "JALAN LETNAN JENDERAL SUPRAPTO",
+  "koordinat_x": "-6.166584",
+  "koordinat_y": "106.875911"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA ADM. JAKARTA PUSAT",
+  "kecamatan": "TANAH ABANG",
+  "kelurahan": "TANAH ABANG",
+  "nama_halte": "PETAMBURAN",
+  "lokasi": "JALAN GATOT SUBROTO",
+  "koordinat_x": "-6.20203",
+  "koordinat_y": "106.79989"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA ADM. JAKARTA TIMUR",
+  "kecamatan": "JATINEGARA",
+  "kelurahan": "JATINEGARA",
+  "nama_halte": "FLYOVER JATINEGARA",
+  "lokasi": "JALAN AHMAD YANI",
+  "koordinat_x": "-6.215139",
+  "koordinat_y": "106.874152"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA ADM. JAKARTA TIMUR",
+  "kecamatan": "JATINEGARA",
+  "kelurahan": "JATINEGARA",
+  "nama_halte": "CIPINANG",
+  "lokasi": "JALAN I GUSTI NGURAH RAI",
+  "koordinat_x": "-6.213664",
+  "koordinat_y": "106.889864"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA ADM. JAKARTA TIMUR",
+  "kecamatan": "JATINEGARA",
+  "kelurahan": "JATINEGARA",
+  "nama_halte": "KEBON NANAS",
+  "lokasi": "JALAN DI PANJAITAN",
+  "koordinat_x": "-6.231659",
+  "koordinat_y": "106.876366"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA ADM. JAKARTA SELATAN",
+  "kecamatan": "KEBAYORAN LAMA",
+  "kelurahan": "KEBAYORAN LAMA",
+  "nama_halte": "CIPULIR",
+  "lokasi": "JALAN CILEDUG RAYA",
+  "koordinat_x": "-6.237818",
+  "koordinat_y": "106.765411"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA ADM. JAKARTA SELATAN",
+  "kecamatan": "KEBAYORAN BARU",
+  "kelurahan": "KEBAYORAN BARU",
+  "nama_halte": "CSW 1",
+  "lokasi": "JALAN KYAI MAJA",
+  "koordinat_x": "-6.23994",
+  "koordinat_y": "106.798434"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA ADM. JAKARTA UTARA",
+  "kecamatan": "TANJUNG PRIOK",
+  "kelurahan": "TANJUNG PRIOK",
+  "nama_halte": "DANAU AGUNG",
+  "lokasi": "JALAN DANAU SUNTER BARAT",
+  "koordinat_x": "-6.146869",
+  "koordinat_y": "106.858054"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA ADM. JAKARTA SELATAN",
+  "kecamatan": "SETIABUDI",
+  "kelurahan": "SETIABUDI",
+  "nama_halte": "KUNINGAN",
+  "lokasi": "JALAN HAJJAH R. RASUNA SAID",
+  "koordinat_x": "-6.228794",
+  "koordinat_y": "106.833205"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA ADM. JAKARTA SELATAN",
+  "kecamatan": "PASAR MINGGU",
+  "kelurahan": "PASAR MINGGU",
+  "nama_halte": "SIMPANG RAGUNAN AR-RAUDHAH",
+  "lokasi": "JALAN RM HARSONO",
+  "koordinat_x": "-6.294641",
+  "koordinat_y": "106.822125"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA ADM. JAKARTA PUSAT",
+  "kecamatan": "SENEN",
+  "kelurahan": "SENEN",
+  "nama_halte": "PEJAMBON",
+  "lokasi": "JALAN ABDULRAHMAN SALEH",
+  "koordinat_x": "-6.173503",
+  "koordinat_y": "106.834717"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA ADM. JAKARTA BARAT",
+  "kecamatan": "CENGKARENG",
+  "kelurahan": "CENGKARENG",
+  "nama_halte": "PULO NANGKA",
+  "lokasi": "JALAN DAAN MOGOT",
+  "koordinat_x": "-6.154634",
+  "koordinat_y": "106.738097"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA ADM. JAKARTA PUSAT",
+  "kecamatan": "TANAH ABANG",
+  "kelurahan": "KEBAYORAN BARU",
+  "nama_halte": "BUNDARAN SENAYAN",
+  "lokasi": "JALAN JENDERAL SUDIRMAN",
+  "koordinat_x": "-6.227869",
+  "koordinat_y": "106.800939"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA ADM. JAKARTA SELATAN",
+  "kecamatan": "MAMPANG PRAPATAN",
+  "kelurahan": "MAMPANG PRAPATAN",
+  "nama_halte": "DUREN TIGA",
+  "lokasi": "JALAN MAMPANG PRAPATAN RAYA",
+  "koordinat_x": "-6.252377",
+  "koordinat_y": "106.826972"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA ADM. JAKARTA BARAT",
+  "kecamatan": "KEBON JERUK",
+  "kelurahan": "KEBON JERUK",
+  "nama_halte": "DURI KEPA",
+  "lokasi": "JALAN PANJANG RAYA",
+  "koordinat_x": "-6.185266",
+  "koordinat_y": "106.768418"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA ADM. JAKARTA UTARA",
+  "kecamatan": "TANJUNG PRIOK",
+  "kelurahan": "TANJUNG PRIOK",
+  "nama_halte": "MAMBO",
+  "lokasi": "JALAN ENGGANO",
+  "koordinat_x": "-6.11015",
+  "koordinat_y": "106.892419"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA ADM. JAKARTA PUSAT",
+  "kecamatan": "TANAH ABANG",
+  "kelurahan": "TANAH ABANG",
+  "nama_halte": "EXPLORER TANAH ABANG",
+  "lokasi": "JALAN JATIBARU",
+  "koordinat_x": "-6.184305",
+  "koordinat_y": "106.81158"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA ADM. JAKARTA TIMUR",
+  "kecamatan": "DUREN SAWIT",
+  "kelurahan": "KLENDER",
+  "nama_halte": "KLENDER",
+  "lokasi": "JALAN I GUSTI NGURAH RAI",
+  "koordinat_x": "-6.213596",
+  "koordinat_y": "106.903063"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA ADM. JAKARTA TIMUR",
+  "kecamatan": "DUREN SAWIT",
+  "kelurahan": "DUREN SAWIT",
+  "nama_halte": "SIMPANG BUARAN",
+  "lokasi": "JALAN I GUSTI NGURAH RAI",
+  "koordinat_x": "-6.215982",
+  "koordinat_y": "106.924383"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA ADM. JAKARTA TIMUR",
+  "kecamatan": "CIRACAS",
+  "kelurahan": "SUSUKAN",
+  "nama_halte": "FLYOVER RAYA BOGOR",
+  "lokasi": "JALAN SUPRIYADI",
+  "koordinat_x": "-6.3065",
+  "koordinat_y": "106.8657"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA ADM. JAKARTA PUSAT",
+  "kecamatan": "JOHAR BARU",
+  "kelurahan": "JOHAR BARU",
+  "nama_halte": "GALUR",
+  "lokasi": "JALAN LETNAN JENDERAL SUPRAPTO",
+  "koordinat_x": "-6.174388",
+  "koordinat_y": "106.854845"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA ADM. JAKARTA PUSAT",
+  "kecamatan": "GAMBIR",
+  "kelurahan": "GAMBIR",
+  "nama_halte": "GAMBIR",
+  "lokasi": "JALAN MEDAN MERDEKA TIMUR",
+  "koordinat_x": "-6.174612",
+  "koordinat_y": "106.830402"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA ADM. JAKARTA PUSAT",
+  "kecamatan": "GAMBIR",
+  "kelurahan": "GAMBIR",
+  "nama_halte": "GAMBIR 2",
+  "lokasi": "JALAN MEDAN MERDEKA SELATAN",
+  "koordinat_x": "-6.178929",
+  "koordinat_y": "106.831062"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA ADM. JAKARTA TIMUR",
+  "kecamatan": "MAKASAR",
+  "kelurahan": "MAKASAR",
+  "nama_halte": "MAKASAR",
+  "lokasi": "JALAN PONDOK GEDE",
+  "koordinat_x": "-6.290154",
+  "koordinat_y": "106.881164"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA ADM. JAKARTA TIMUR",
+  "kecamatan": "JATINEGARA",
+  "kelurahan": "JATINEGARA",
+  "nama_halte": "CILIWUNG ARAH TIMUR",
+  "lokasi": "JALAN MT HARYONO",
+  "koordinat_x": "-6.243012",
+  "koordinat_y": "106.863537"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA ADM. JAKARTA TIMUR",
+  "kecamatan": "KRAMAT JATI",
+  "kelurahan": "CAWANG",
+  "nama_halte": "CILIWUNG ARAH BARAT",
+  "lokasi": "JALAN LETNAN JENDERAL MT HARYONO",
+  "koordinat_x": "-6.243292",
+  "koordinat_y": "106.863589"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA ADM. JAKARTA SELATAN",
+  "kecamatan": "TEBET",
+  "kelurahan": "PANCORAN",
+  "nama_halte": "CIKOKO ARAH TIMUR",
+  "lokasi": "JALAN MT HARYONO",
+  "koordinat_x": "-6.243028",
+  "koordinat_y": "106.858144"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA ADM. JAKARTA SELATAN",
+  "kecamatan": "PANCORAN",
+  "kelurahan": "PANCORAN",
+  "nama_halte": "CIKOKO ARAH BARAT",
+  "lokasi": "JALAN LETNAN JENDERAL MT HARYONO",
+  "koordinat_x": "-6.243359",
+  "koordinat_y": "106.858147"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA ADM. JAKARTA BARAT",
+  "kecamatan": "TAMBORA",
+  "kelurahan": "TAMBORA",
+  "nama_halte": "GEDONG PANJANG",
+  "lokasi": "JALAN GEDONG PANJANG",
+  "koordinat_x": "-6.132617",
+  "koordinat_y": "106.805957"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA ADM. JAKARTA TIMUR",
+  "kecamatan": "JATINEGARA",
+  "kelurahan": "JATINEGARA",
+  "nama_halte": "GELANGGANG REMAJA",
+  "lokasi": "JALAN OTTO ISKANDAR DINATA",
+  "koordinat_x": "-6.235445",
+  "koordinat_y": "106.867954"
+ },
+ {
+  "periode_data": 2024,
+  "wilayah": "KOTA ADM. JAKARTA PUSAT",
+  "kecamatan": "TANAH ABANG",
+  "kelurahan": "TANAH ABANG",
+  "nama_halte": "SENAYAN BANK DKI",
+  "lokasi": "JALAN JENDERAL SUDIRMAN",
+  "koordinat_x": "-6.224217",
+  "koordinat_y": "106.805795"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA ADM. JAKARTA PUSAT",
+  "kecamatan": "GAMBIR",
+  "kelurahan": "GAMBIR",
+  "nama_halte": "TRANSJAKARTA TANAH ABANG 2",
+  "lokasi": "JALAN JATIBARU RAYA",
+  "koordinat_x": "-6.183.885",
+  "koordinat_y": "106.811.648"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA ADM. JAKARTA PUSAT",
+  "kecamatan": "TANAH ABANG",
+  "kelurahan": "GELORA",
+  "nama_halte": "PS. PALMERAH",
+  "lokasi": "JALAN TENTARA PELAJAR",
+  "koordinat_x": "-6.207.817",
+  "koordinat_y": "106.796.954"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA ADM. JAKARTA SELATAN",
+  "kecamatan": "TEBET",
+  "kelurahan": "MANGGARAI",
+  "nama_halte": "PLAZA ST. MANGGARAI",
+  "lokasi": "JALAN MANGGARAI UTARA I",
+  "koordinat_x": "-6.210.225",
+  "koordinat_y": "10.685.099"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA ADM. JAKARTA PUSAT",
+  "kecamatan": "TANAH ABANG",
+  "kelurahan": "GELORA",
+  "nama_halte": "ST. PALMERAH",
+  "lokasi": "JALAN TENTARA PELAJAR",
+  "koordinat_x": "-6.208.908",
+  "koordinat_y": "10.679.706"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA ADM. JAKARTA SELATAN",
+  "kecamatan": "PESANGGRAHAN",
+  "kelurahan": "PESANGGRAHAN",
+  "nama_halte": "PETUKANGAN UTARA",
+  "lokasi": "JALAN CILEDUG RAYA",
+  "koordinat_x": "-6.236.466",
+  "koordinat_y": "10.674.786"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA ADM. JAKARTA TIMUR",
+  "kecamatan": "PULOGADUNG",
+  "kelurahan": "PULO GADUNG",
+  "nama_halte": "PISANGAN",
+  "lokasi": "JALAN AHMAD YANI",
+  "koordinat_x": "-6.205.526",
+  "koordinat_y": "106.873.775"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA ADM. JAKARTA UTARA",
+  "kecamatan": "PADEMANGAN",
+  "kelurahan": "ANCOL",
+  "nama_halte": "ANCOL",
+  "lokasi": "JALAN KARANG BOLONG HAILAI",
+  "koordinat_x": "-6.127.563",
+  "koordinat_y": "106.830.391"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA ADM. JAKARTA TIMUR",
+  "kecamatan": "KELAPA GADING",
+  "kelurahan": "KAYU PUTIH",
+  "nama_halte": "PERINTIS KEMERDEKAAN",
+  "lokasi": "JALAN PERINTIS KEMERDEKAAN",
+  "koordinat_x": "-6.171.797",
+  "koordinat_y": "106.888.799"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA ADM. JAKARTA PUSAT",
+  "kecamatan": "SENEN",
+  "kelurahan": "SENEN",
+  "nama_halte": "SENEN RAYA",
+  "lokasi": "JALAN HAJI IMAM SAPI'IE",
+  "koordinat_x": "-6.176.251",
+  "koordinat_y": "106.840.232"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA ADM. JAKARTA PUSAT",
+  "kecamatan": "GAMBIR",
+  "kelurahan": "GAMBIR",
+  "nama_halte": "BALAI KOTA",
+  "lokasi": "JALAN MEDAN MERDEKA SELATAN",
+  "koordinat_x": "-6.180.488",
+  "koordinat_y": "106.826.456"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA ADM. JAKARTA BARAT",
+  "kecamatan": "TAMBORA",
+  "kelurahan": "TAMBORA",
+  "nama_halte": "BANDENGAN",
+  "lokasi": "JALAN BANDENGAN SELATAN",
+  "koordinat_x": "-6.136.318",
+  "koordinat_y": "106.803.472"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA BEKASI",
+  "kecamatan": "BEKASI BARAT",
+  "kelurahan": "RAWA PANJANG",
+  "nama_halte": "BEKASI BARAT",
+  "lokasi": "JALAN AHMAD YANI",
+  "koordinat_x": "-6.250.045",
+  "koordinat_y": "10.699.167"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA ADM. JAKARTA SELATAN",
+  "kecamatan": "KEBAYORAN BARU",
+  "kelurahan": "MELAWAI",
+  "nama_halte": "BLOK M",
+  "lokasi": "JALAN PALATEHAN",
+  "koordinat_x": "-6.243.312",
+  "koordinat_y": "106.801.751"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA ADM. JAKARTA TIMUR",
+  "kecamatan": "KELAPA GADING",
+  "kelurahan": "PULO GADUNG",
+  "nama_halte": "BERMIS",
+  "lokasi": "JALAN PERINTIS KEMERDEKAAN",
+  "koordinat_x": "-6.178.203",
+  "koordinat_y": "106.898.594"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA ADM. JAKARTA TIMUR",
+  "kecamatan": "JATINEGARA",
+  "kelurahan": "JATINEGARA",
+  "nama_halte": "BIDARA CINA",
+  "lokasi": "JALAN OTTO ISKANDAR DINATA",
+  "koordinat_x": "-6.229.724",
+  "koordinat_y": "106.867.208"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA ADM. JAKARTA TIMUR",
+  "kecamatan": "KRAMATJATI",
+  "kelurahan": "CILILITAN",
+  "nama_halte": "CAWANG CILILITAN",
+  "lokasi": "JALAN MAYOR JENDERAL SUTOYO",
+  "koordinat_x": "-6.257.751",
+  "koordinat_y": "106.869.998"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA ADM. JAKARTA SELATAN",
+  "kecamatan": "KEBAYORAN BARU",
+  "kelurahan": "SELONG",
+  "nama_halte": "ASEAN",
+  "lokasi": "JALAN TRUNOJOYO",
+  "koordinat_x": "-6.239.889",
+  "koordinat_y": "106.798.972"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA ADM. JAKARTA TIMUR",
+  "kecamatan": "JATINEGARA",
+  "kelurahan": "CAWANG",
+  "nama_halte": "BNN",
+  "lokasi": "JALAN LETNAN JENDERAL MT HARYONO",
+  "koordinat_x": "-624.651",
+  "koordinat_y": "10.687.318"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA ADM. JAKARTA TIMUR",
+  "kecamatan": "DUREN SAWIT",
+  "kelurahan": "DUREN SAWIT",
+  "nama_halte": "BUARAN",
+  "lokasi": "JALAN I GUSTI NGURAH RAI",
+  "koordinat_x": "-6.215.132",
+  "koordinat_y": "106.917.684"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA ADM. JAKARTA PUSAT",
+  "kecamatan": "KEMAYORAN",
+  "kelurahan": "GUNUNG SAHARI SELATAN",
+  "nama_halte": "LAPANGAN BANTENG",
+  "lokasi": "JALAN GUNUNG SAHARI RAYA",
+  "koordinat_x": "-6.166.063",
+  "koordinat_y": "106.839.063"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA ADM. JAKARTA SELATAN",
+  "kecamatan": "PANCORAN",
+  "kelurahan": "PANCORAN",
+  "nama_halte": "BUNCIT INDAH",
+  "lokasi": "JALAN BUNCIT RAYA",
+  "koordinat_x": "-6.274.333",
+  "koordinat_y": "106.830.293"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA ADM. JAKARTA SELATAN",
+  "kecamatan": "KEBAYORAN BARU",
+  "kelurahan": "MELAWAI",
+  "nama_halte": "KEJAKSAAN AGUNG",
+  "lokasi": "JALAN PANGLIMA POLIM RAYA",
+  "koordinat_x": "-62.405",
+  "koordinat_y": "106.798.444"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA ADM. JAKARTA SELATAN",
+  "kecamatan": "KEBAYORAN BARU",
+  "kelurahan": "SELONG",
+  "nama_halte": "MASJID AGUNG",
+  "lokasi": "JALAN SISINGAMANGARAJA",
+  "koordinat_x": "-6.236.483",
+  "koordinat_y": "106.798.447"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA ADM. JAKARTA TIMUR",
+  "kecamatan": "CAKUNG",
+  "kelurahan": "CAKUNG TIMUR",
+  "nama_halte": "CAKUNG CILINCING",
+  "lokasi": "JALAN BEKASI RAYA",
+  "koordinat_x": "-6.184.223",
+  "koordinat_y": "106.942.312"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA ADM. JAKARTA TIMUR",
+  "kecamatan": "CAKUNG",
+  "kelurahan": "CAKUNG BARAT",
+  "nama_halte": "CAKUNG UNITED TRACTORS",
+  "lokasi": "JALAN RAYA BEKASI",
+  "koordinat_x": "-618.324",
+  "koordinat_y": "10.692.998"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA ADM. JAKARTA SELATAN",
+  "kecamatan": "SETIABUDI",
+  "kelurahan": "KARET SEMANGGI",
+  "nama_halte": "SEMANGGI",
+  "lokasi": "JALAN GATOT SUBROTO",
+  "koordinat_x": "-622.111",
+  "koordinat_y": "10.681.354"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA ADM. JAKARTA TIMUR",
+  "kecamatan": "JATINEGARA",
+  "kelurahan": "JATINEGARA",
+  "nama_halte": "CAWANG BARU",
+  "lokasi": "JALAN OTTO ISKANDAR DINATA",
+  "koordinat_x": "-6.243.607",
+  "koordinat_y": "106.868.763"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA ADM. JAKARTA TIMUR",
+  "kecamatan": "JATINEGARA",
+  "kelurahan": "JATINEGARA",
+  "nama_halte": "SIMPANG CAWANG",
+  "lokasi": "JALAN CAWANG UNDERPASS",
+  "koordinat_x": "-6.244.771",
+  "koordinat_y": "106.875.983"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA ADM. JAKARTA TIMUR",
+  "kecamatan": "MAKASAR",
+  "kelurahan": "MAKASAR",
+  "nama_halte": "CAWANG SENTRAL",
+  "lokasi": "JALAN MAYOR JENDERAL SUTOYO",
+  "koordinat_x": "-6.250.309",
+  "koordinat_y": "106.873.603"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA TANGERANG",
+  "kecamatan": "CILEDUG",
+  "kelurahan": "KARANG TENGAH",
+  "nama_halte": "CBD CILEDUG",
+  "lokasi": "JALAN PALEM GANDA ASRI",
+  "koordinat_x": "-6.223.629",
+  "koordinat_y": "106.709.039"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA ADM. JAKARTA UTARA",
+  "kecamatan": "KELAPA GADING",
+  "kelurahan": "KELAPA GADING BARAT",
+  "nama_halte": "SIMPANG CEMPAKA",
+  "lokasi": "JALAN YOS SUDARSO",
+  "koordinat_x": "-6.165.888",
+  "koordinat_y": "106.879.198"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA ADM. JAKARTA TIMUR",
+  "kecamatan": "CEMPAKA PUTIH",
+  "kelurahan": "KAYU PUTIH",
+  "nama_halte": "CEMPAKA PUTIH",
+  "lokasi": "JALAN AHMAD YANI",
+  "koordinat_x": "-6.174.207",
+  "koordinat_y": "106.876.423"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA ADM. JAKARTA PUSAT",
+  "kecamatan": "CEMPAKA PUTIH",
+  "kelurahan": "CEMPAKA PUTIH TIMUR",
+  "nama_halte": "CEMPAKA BARU",
+  "lokasi": "JALAN LETNAN JENDERAL SUPRAPTO",
+  "koordinat_x": "-6.170.398",
+  "koordinat_y": "10.686.659"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA ADM. JAKARTA PUSAT",
+  "kecamatan": "CEMPAKA PUTIH",
+  "kelurahan": "CEMPAKA PUTIH TIMUR",
+  "nama_halte": "CEMPAKA MAS",
+  "lokasi": "JALAN LETNAN JENDERAL SUPRAPTO",
+  "koordinat_x": "-6.166.584",
+  "koordinat_y": "106.875.911"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA ADM. JAKARTA PUSAT",
+  "kecamatan": "TANAH ABANG",
+  "kelurahan": "PETAMBURAN",
+  "nama_halte": "PETAMBURAN",
+  "lokasi": "JALAN GATOT SUBROTO",
+  "koordinat_x": "-620.203",
+  "koordinat_y": "10.679.989"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA ADM. JAKARTA TIMUR",
+  "kecamatan": "JATINEGARA",
+  "kelurahan": "JATINEGARA",
+  "nama_halte": "FLYOVER JATINEGARA",
+  "lokasi": "JALAN AHMAD YANI",
+  "koordinat_x": "-6.215.139",
+  "koordinat_y": "106.874.152"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA ADM. JAKARTA TIMUR",
+  "kecamatan": "JATINEGARA",
+  "kelurahan": "JATINEGARA",
+  "nama_halte": "CIPINANG",
+  "lokasi": "JALAN I GUSTI NGURAH RAI",
+  "koordinat_x": "-6.213.664",
+  "koordinat_y": "106.889.864"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA ADM. JAKARTA TIMUR",
+  "kecamatan": "JATINEGARA",
+  "kelurahan": "JATINEGARA",
+  "nama_halte": "KEBON NANAS",
+  "lokasi": "JALAN DI PANJAITAN",
+  "koordinat_x": "-6.231.659",
+  "koordinat_y": "106.876.366"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA ADM. JAKARTA PUSAT",
+  "kecamatan": "TANAH ABANG",
+  "kelurahan": "BENDUNGAN HILIR",
+  "nama_halte": "GERBANG PEMUDA ARAH TIMUR",
+  "lokasi": "JALAN GATOT SUBROTO",
+  "koordinat_x": "-6.214.145",
+  "koordinat_y": "106.809.004"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA ADM. JAKARTA BARAT",
+  "kecamatan": "PAL MERAH",
+  "kelurahan": "PALMERAH",
+  "nama_halte": "KEMANGGISAN ARAH UTARA",
+  "lokasi": "JALAN LETNAN JENDERAL SISWONDO PARMAN",
+  "koordinat_x": "-6.189.906",
+  "koordinat_y": "106.796.941"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA ADM. JAKARTA SELATAN",
+  "kecamatan": "PASAR MINGGU",
+  "kelurahan": "PASAR MINGGU",
+  "nama_halte": "JATI BARAT",
+  "lokasi": "JALAN BUNCIT RAYA",
+  "koordinat_x": "-6.290.967",
+  "koordinat_y": "106.823.649"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA ADM. JAKARTA UTARA",
+  "kecamatan": "TANJUNG PRIOK",
+  "kelurahan": "TANJUNG PRIOK",
+  "nama_halte": "SUNTER UTARA",
+  "lokasi": "JALAN DANAU SUNTER UTARA",
+  "koordinat_x": "-6.139.776",
+  "koordinat_y": "106.859.202"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA ADM. JAKARTA BARAT",
+  "kecamatan": "PAL MERAH",
+  "kelurahan": "PALMERAH",
+  "nama_halte": "KEMANGGISAN ARAH SELATAN",
+  "lokasi": "JALAN S PARMAN",
+  "koordinat_x": "-6.189.781",
+  "koordinat_y": "106.797.259"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA ADM. JAKARTA TIMUR",
+  "kecamatan": "JATINEGARA",
+  "kelurahan": "JATINEGARA",
+  "nama_halte": "STASIUN JATINEGARA",
+  "lokasi": "JALAN BEKASI BARAT RAYA",
+  "koordinat_x": "-6.215.601",
+  "koordinat_y": "106.868.051"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA ADM. JAKARTA TIMUR",
+  "kecamatan": "DUREN SAWIT",
+  "kelurahan": "DUREN SAWIT",
+  "nama_halte": "STASIUN KLENDER",
+  "lokasi": "JALAN I GUSTI NGURAH RAI",
+  "koordinat_x": "-6.213.532",
+  "koordinat_y": "106.898.656"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA ADM. JAKARTA SELATAN",
+  "kecamatan": "TEBET",
+  "kelurahan": "TEBET TIMUR",
+  "nama_halte": "STASIUN TEBET",
+  "lokasi": "JALAN K. HAJI ABDUL SYAFI'IE",
+  "koordinat_x": "-6.225.503",
+  "koordinat_y": "106.858.139"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA BEKASI",
+  "kecamatan": "BEKASI UTARA",
+  "kelurahan": "SUMMARECON",
+  "nama_halte": "SUMMARECON BEKASI",
+  "lokasi": "JALAN BULEVAR AHMAD YANI",
+  "koordinat_x": "-6.225.566",
+  "koordinat_y": "107.002.805"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA ADM. JAKARTA BARAT",
+  "kecamatan": "CENGKARENG",
+  "kelurahan": "CENGKARENG BARAT",
+  "nama_halte": "SUMUR BOR",
+  "lokasi": "JALAN DAAN MOGOT",
+  "koordinat_x": "-6.153.046",
+  "koordinat_y": "106.719.288"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA ADM. JAKARTA TIMUR",
+  "kecamatan": "PULOGADUNG",
+  "kelurahan": "PULO GADUNG",
+  "nama_halte": "KAYU JATI",
+  "lokasi": "JALAN PEMUDA",
+  "koordinat_x": "-6.193.267",
+  "koordinat_y": "106.883.668"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA ADM. JAKARTA UTARA",
+  "kecamatan": "TANJUNG PRIOK",
+  "kelurahan": "TANJUNG PRIOK",
+  "nama_halte": "SUNTER BOULEVARD BARAT",
+  "lokasi": "JALAN YOS SUDARSO",
+  "koordinat_x": "-614.965",
+  "koordinat_y": "106.888.995"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA ADM. JAKARTA UTARA",
+  "kecamatan": "TANJUNG PRIOK",
+  "kelurahan": "TANJUNG PRIOK",
+  "nama_halte": "SUNTER KARYA",
+  "lokasi": "JALAN DANAU SUNTER UTARA",
+  "koordinat_x": "-6.137.625",
+  "koordinat_y": "106.870.813"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA ADM. JAKARTA UTARA",
+  "kecamatan": "TANJUNG PRIOK",
+  "kelurahan": "TANJUNG PRIOK",
+  "nama_halte": "SUNTER KELAPA GADING",
+  "lokasi": "SIMPANG SUSUN TANJUNG PRIOK",
+  "koordinat_x": "-61.429",
+  "koordinat_y": "10.689.076"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA ADM. JAKARTA SELATAN",
+  "kecamatan": "PESANGGRAHAN",
+  "kelurahan": "PESANGGRAHAN",
+  "nama_halte": "SWADARMA PARAGONCORP",
+  "lokasi": "JALAN SWADARMA RAYA",
+  "koordinat_x": "-623.755",
+  "koordinat_y": "106.760.648"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA ADM. JAKARTA BARAT",
+  "kecamatan": "CENGKARENG",
+  "kelurahan": "KEDAUNG KALI ANGKE",
+  "nama_halte": "TAMAN KOTA",
+  "lokasi": "JALAN DAAN MOGOT",
+  "koordinat_x": "-6.157.176",
+  "koordinat_y": "106.757.893"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA BEKASI",
+  "kecamatan": "MEDAN SATRIA",
+  "kelurahan": "PEJUANG",
+  "nama_halte": "TANAH APIT",
+  "lokasi": "JALAN TANAFIT",
+  "koordinat_x": "-6.182.793",
+  "koordinat_y": "106.976.077"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA ADM. JAKARTA SELATAN",
+  "kecamatan": "KEBAYORAN LAMA",
+  "kelurahan": "KEBAYORAN LAMA SELATAN",
+  "nama_halte": "TANAH KUSIR",
+  "lokasi": "JALAN SULTAN ISKANDAR MUDA",
+  "koordinat_x": "-6.256.997",
+  "koordinat_y": "106.781.684"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA ADM. JAKARTA TIMUR",
+  "kecamatan": "CIRACAS",
+  "kelurahan": "SUSUKAN",
+  "nama_halte": "TANAH MERDEKA ARAH BARAT",
+  "lokasi": "JALAN SUPRIYADI",
+  "koordinat_x": "-6.308.216",
+  "koordinat_y": "106.873.928"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA ADM. JAKARTA TIMUR",
+  "kecamatan": "CIRACAS",
+  "kelurahan": "RAMBUTAN",
+  "nama_halte": "TANAH MERDEKA ARAH TIMUR",
+  "lokasi": "JALAN SUPRIYADI",
+  "koordinat_x": "-6.307.866",
+  "koordinat_y": "106.873.886"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA ADM. JAKARTA UTARA",
+  "kecamatan": "TANJUNG PRIOK",
+  "kelurahan": "TANJUNG PRIOK",
+  "nama_halte": "TANJUNG PRIOK",
+  "lokasi": "JALAN TAMAN STASIUN TANJUNG PRIOK",
+  "koordinat_x": "-610.959",
+  "koordinat_y": "10.688.214"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA ADM. JAKARTA SELATAN",
+  "kecamatan": "TEBET",
+  "kelurahan": "TEBET BARAT",
+  "nama_halte": "TEBET ECO PARK ARAH TIMUR",
+  "lokasi": "JALAN LETNAN JENDERAL MT HARYONO",
+  "koordinat_x": "-6.243.056",
+  "koordinat_y": "106.852.075"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA ADM. JAKARTA SELATAN",
+  "kecamatan": "PANCORAN",
+  "kelurahan": "PANCORAN",
+  "nama_halte": "TEBET ECO PARK ARAH BARAT",
+  "lokasi": "JALAN LETNAN JENDERAL MT HARYONO",
+  "koordinat_x": "-6.243.338",
+  "koordinat_y": "106.852.115"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA ADM. JAKARTA SELATAN",
+  "kecamatan": "SETIABUDI",
+  "kelurahan": "KUNINGAN TIMUR",
+  "nama_halte": "TEGAL PARANG ARAH TIMUR",
+  "lokasi": "JALAN JENDERAL GATOT SUBROTO",
+  "koordinat_x": "-6.239.005",
+  "koordinat_y": "106.831.056"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA ADM. JAKARTA SELATAN",
+  "kecamatan": "MAMPANG PRAPATAN",
+  "kelurahan": "MAMPANG PRAPATAN",
+  "nama_halte": "TEGAL PARANG ARAH BARAT",
+  "lokasi": "JALAN JENDERAL GATOT SUBROTO",
+  "koordinat_x": "-6.238.863",
+  "koordinat_y": "106.830.219"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA ADM. JAKARTA TIMUR",
+  "kecamatan": "MATRAMAN",
+  "kelurahan": "PALMERIAM",
+  "nama_halte": "TEGALAN",
+  "lokasi": "JALAN MATRAMAN",
+  "koordinat_x": "-6.203.101",
+  "koordinat_y": "10.685.715"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA ADM. JAKARTA SELATAN",
+  "kecamatan": "MAMPANG PRAPATAN",
+  "kelurahan": "MAMPANG PRAPATAN",
+  "nama_halte": "TEGAL MAMPANG",
+  "lokasi": "JALAN KAPTEN TENDEAN",
+  "koordinat_x": "-6.240.213",
+  "koordinat_y": "106.831.021"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA BEKASI",
+  "kecamatan": "BEKASI TIMUR",
+  "kelurahan": "RAWASEMUT",
+  "nama_halte": "TERMINAL BEKASI",
+  "lokasi": "JALAN INSINYUR HAJI JUANDA",
+  "koordinat_x": "-6.249.502",
+  "koordinat_y": "10.701.339"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA ADM. JAKARTA TIMUR",
+  "kecamatan": "CAKUNG",
+  "kelurahan": "RAWA TERATE",
+  "nama_halte": "TIPAR CAKUNG",
+  "lokasi": "JALAN RAYA BEKASI",
+  "koordinat_x": "-6.183.387",
+  "koordinat_y": "106.924.628"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA ADM. JAKARTA SELATAN",
+  "kecamatan": "KEBAYORAN BARU",
+  "kelurahan": "PETOGOGAN",
+  "nama_halte": "PASAR SANTA",
+  "lokasi": "JALAN ROBERT WOLTER MONGINSIDI",
+  "koordinat_x": "-6.239.207",
+  "koordinat_y": "106.807.771"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA ADM. JAKARTA BARAT",
+  "kecamatan": "GROGOL PETAMBURAN",
+  "kelurahan": "JATIPULO",
+  "nama_halte": "TOMANG RAYA",
+  "lokasi": "JALAN TOMANG RAYA",
+  "koordinat_x": "-6.176.875",
+  "koordinat_y": "106.800.374"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA ADM. JAKARTA PUSAT",
+  "kecamatan": "GAMBIR",
+  "kelurahan": "GAMBIR",
+  "nama_halte": "KEBON SIRIH ARAH UTARA",
+  "lokasi": "JALAN MOHAMMAD HUSNI THAMRIN",
+  "koordinat_x": "-6.182.776",
+  "koordinat_y": "106.822.799"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA ADM. JAKARTA TIMUR",
+  "kecamatan": "PULOGADUNG",
+  "kelurahan": "PULO GADUNG",
+  "nama_halte": "PEMUDA MERDEKA",
+  "lokasi": "JALAN PEMUDA",
+  "koordinat_x": "-619.241",
+  "koordinat_y": "106.904.886"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA ADM. JAKARTA TIMUR",
+  "kecamatan": "PULOGADUNG",
+  "kelurahan": "PULO GADUNG",
+  "nama_halte": "RAWAMANGUN",
+  "lokasi": "JALAN PEMUDA",
+  "koordinat_x": "-6.192.931",
+  "koordinat_y": "106.880.332"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA ADM. JAKARTA PUSAT",
+  "kecamatan": "CEMPAKA PUTIH",
+  "kelurahan": "RAWASARI",
+  "nama_halte": "UTAN KAYU",
+  "lokasi": "JALAN PRAMUKA",
+  "koordinat_x": "-6.192.728",
+  "koordinat_y": "10.686.457"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA ADM. JAKARTA TIMUR",
+  "kecamatan": "PULOGADUNG",
+  "kelurahan": "PULO GADUNG",
+  "nama_halte": "UTAN KAYU RAWAMANGUN",
+  "lokasi": "JALAN AHMAD YANI",
+  "koordinat_x": "-6.197.515",
+  "koordinat_y": "106.874.036"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA ADM. JAKARTA SELATAN",
+  "kecamatan": "KEBAYORAN BARU",
+  "kelurahan": "GUNUNG",
+  "nama_halte": "VELBAK",
+  "lokasi": "JALAN KEBAYORAN BARU",
+  "koordinat_x": "-6.239.433",
+  "koordinat_y": "106.785.521"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA ADM. JAKARTA TIMUR",
+  "kecamatan": "PULOGADUNG",
+  "kelurahan": "PULO GADUNG",
+  "nama_halte": "VELODROME",
+  "lokasi": "JALAN PEMUDA",
+  "koordinat_x": "-6.193.468",
+  "koordinat_y": "1.068.883"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA ADM. JAKARTA TIMUR",
+  "kecamatan": "CAKUNG",
+  "kelurahan": "PENGGILINGAN",
+  "nama_halte": "WALIKOTA KOTA ADM. JAKARTA TIMUR",
+  "lokasi": "JALAN DOKTOR SUMARNO",
+  "koordinat_x": "-621.254",
+  "koordinat_y": "106.945.367"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA ADM. JAKARTA UTARA",
+  "kecamatan": "TANJUNG PRIOK",
+  "kelurahan": "TANJUNG PRIOK",
+  "nama_halte": "WALIKOTA KOTA ADM. JAKARTA UTARA ARAH UTARA",
+  "lokasi": "JALAN YOS SUDARSO",
+  "koordinat_x": "-6.118.842",
+  "koordinat_y": "106.893.135"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA ADM. JAKARTA UTARA",
+  "kecamatan": "KOJA",
+  "kelurahan": "KOJA",
+  "nama_halte": "WALIKOTA KOTA ADM. JAKARTA UTARA ARAH SELATAN",
+  "lokasi": "JALAN YOS SUDARSO",
+  "koordinat_x": "-6.118.845",
+  "koordinat_y": "106.893.468"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA ADM. JAKARTA SELATAN",
+  "kecamatan": "PANCORAN",
+  "kelurahan": "PANCORAN",
+  "nama_halte": "WARUNG JATI",
+  "lokasi": "JALAN MAMPANG PRAPATAN RAYA",
+  "koordinat_x": "-6.262.364",
+  "koordinat_y": "106.829.766"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA ADM. JAKARTA UTARA",
+  "kecamatan": "KELAPA GADING",
+  "kelurahan": "TANJUNG PRIOK",
+  "nama_halte": "KODAMAR",
+  "lokasi": "JALAN YOS SUDARSO",
+  "koordinat_x": "-6.162.043",
+  "koordinat_y": "106.881.693"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA ADM. JAKARTA SELATAN",
+  "kecamatan": "KEBAYORAN BARU",
+  "kelurahan": "GUNUNG",
+  "nama_halte": "CSW 2",
+  "lokasi": "JALAN KYAI MAJA",
+  "koordinat_x": "-6.239.861",
+  "koordinat_y": "106.797.833"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA ADM. JAKARTA PUSAT",
+  "kecamatan": "MENTENG",
+  "kelurahan": "MENTENG",
+  "nama_halte": "KEBON SIRIH ARAH SELATAN",
+  "lokasi": "JALAN MOHAMMAD HUSNI THAMRIN",
+  "koordinat_x": "-6.184.195",
+  "koordinat_y": "1.068.232.317"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA ADM. JAKARTA PUSAT",
+  "kecamatan": "GAMBIR",
+  "kelurahan": "GAMBIR",
+  "nama_halte": "MONUMEN NASIONAL",
+  "lokasi": "JALAN MEDAN MERDEKA BARAT",
+  "koordinat_x": "-6.176.248",
+  "koordinat_y": "106.822.855"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA ADM. JAKARTA PUSAT",
+  "kecamatan": "GAMBIR",
+  "kelurahan": "GAMBIR",
+  "nama_halte": "HARMONI",
+  "lokasi": "JALAN HAYAM WURUK",
+  "koordinat_x": "-6.162.687",
+  "koordinat_y": "10.681.992"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA ADM. JAKARTA BARAT",
+  "kecamatan": "TAMAN SARI",
+  "kelurahan": "TAMAN SARI",
+  "nama_halte": "SAWAH BESAR",
+  "lokasi": "JALAN HAYAM WURUK",
+  "koordinat_x": "-6.157.368",
+  "koordinat_y": "106.818.661"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA ADM. JAKARTA SELATAN",
+  "kecamatan": "TEBET",
+  "kelurahan": "MANGGARAI",
+  "nama_halte": "TIMUR ST. MANGGARAI",
+  "lokasi": "JALAN MANGGARAI UTARA II",
+  "koordinat_x": "-6.209.745",
+  "koordinat_y": "106.850.673"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA ADM. JAKARTA UTARA",
+  "kecamatan": "TANJUNG PRIOK",
+  "kelurahan": "TANJUNG PRIOK",
+  "nama_halte": "JAKARTA INTERNATIONAL STADIUM",
+  "lokasi": "JALAN DANAU SUNTER UTARA",
+  "koordinat_x": "-6.126.689",
+  "koordinat_y": "1.068.558.651"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA ADM. JAKARTA BARAT",
+  "kecamatan": "TAMAN SARI",
+  "kelurahan": "TAMAN SARI",
+  "nama_halte": "MANGGA BESAR",
+  "lokasi": "JALAN GAJAH MADA",
+  "koordinat_x": "-615.325",
+  "koordinat_y": "106.817.536"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA ADM. JAKARTA TIMUR",
+  "kecamatan": "KRAMATJATI",
+  "kelurahan": "KRAMATJATI",
+  "nama_halte": "CAWANG",
+  "lokasi": "JALAN LETNAN JENDERAL MT HARYONO",
+  "koordinat_x": "-6.245.863",
+  "koordinat_y": "106.871.143"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA ADM. JAKARTA BARAT",
+  "kecamatan": "TAMAN SARI",
+  "kelurahan": "TAMAN SARI",
+  "nama_halte": "TAMAN SARI",
+  "lokasi": "JALAN HAYAM WURUK",
+  "koordinat_x": "-61.493",
+  "koordinat_y": "10.681.669"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA ADM. JAKARTA BARAT",
+  "kecamatan": "TAMAN SARI",
+  "kelurahan": "TAMAN SARI",
+  "nama_halte": "GLODOK",
+  "lokasi": "JALAN HAYAM WURUK",
+  "koordinat_x": "-6.143.393",
+  "koordinat_y": "106.815.136"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA ADM. JAKARTA BARAT",
+  "kecamatan": "TAMAN SARI",
+  "kelurahan": "TAMAN SARI",
+  "nama_halte": "KOTA",
+  "lokasi": "JALAN GAJAH MADA",
+  "koordinat_x": "-613.679",
+  "koordinat_y": "106.814.904"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA ADM. JAKARTA SELATAN",
+  "kecamatan": "SETIABUDI",
+  "kelurahan": "SETIA BUDI",
+  "nama_halte": "GALUNGGUNG",
+  "lokasi": "JALAN GALUNGGUNG",
+  "koordinat_x": "-6.204.399",
+  "koordinat_y": "106.823.381"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "BEKASI",
+  "kecamatan": "TARUMAJAYA",
+  "kelurahan": "PUSAKARAKYAT",
+  "nama_halte": "TRANSERA HARAPAN INDAH",
+  "lokasi": "JALAN BOULEVARD HARAPAN INDAH",
+  "koordinat_x": "-6.152.257",
+  "koordinat_y": "106.975.764"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA ADM. JAKARTA PUSAT",
+  "kecamatan": "SENEN",
+  "kelurahan": "SENEN",
+  "nama_halte": "TANAH TINGGI",
+  "lokasi": "JALAN TANAH TINGGI BARAT",
+  "koordinat_x": "-6.171.373",
+  "koordinat_y": "1.068.521.885"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA ADM. JAKARTA UTARA",
+  "kecamatan": "TANJUNG PRIOK",
+  "kelurahan": "TANJUNG PRIOK",
+  "nama_halte": "DANAU SUNTER",
+  "lokasi": "JALAN DANAU SUNTER BARAT",
+  "koordinat_x": "-614.121",
+  "koordinat_y": "10.685.699"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA ADM. JAKARTA UTARA",
+  "kecamatan": "TANJUNG PRIOK",
+  "kelurahan": "TANJUNG PRIOK",
+  "nama_halte": "JEMBATAN ITEM",
+  "lokasi": "JALAN DANAU SUNTER UTARA",
+  "koordinat_x": "-613.098",
+  "koordinat_y": "10.685.515"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA ADM. JAKARTA PUSAT",
+  "kecamatan": "KEMAYORAN",
+  "kelurahan": "KEMAYORAN",
+  "nama_halte": "KEMAYORAN",
+  "lokasi": "JALAN BENYAMIN SUEB",
+  "koordinat_x": "-615.889",
+  "koordinat_y": "10.685.151"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA ADM. JAKARTA TIMUR",
+  "kecamatan": "JATINEGARA",
+  "kelurahan": "JATINEGARA",
+  "nama_halte": "CILIWUNG ARAH TIMUR",
+  "lokasi": "JALAN MT HARYONO",
+  "koordinat_x": "-6.243.012",
+  "koordinat_y": "106.863.537"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA ADM. JAKARTA TIMUR",
+  "kecamatan": "KRAMATJATI",
+  "kelurahan": "CAWANG",
+  "nama_halte": "CILIWUNG ARAH BARAT",
+  "lokasi": "JALAN LETNAN JENDERAL MT HARYONO",
+  "koordinat_x": "-6.243.292",
+  "koordinat_y": "106.863.589"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA ADM. JAKARTA SELATAN",
+  "kecamatan": "TEBET",
+  "kelurahan": "PANCORAN",
+  "nama_halte": "CIKOKO ARAH TIMUR",
+  "lokasi": "JALAN MT HARYONO",
+  "koordinat_x": "-6.243.028",
+  "koordinat_y": "106.858.144"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA ADM. JAKARTA SELATAN",
+  "kecamatan": "PANCORAN",
+  "kelurahan": "PANCORAN",
+  "nama_halte": "CIKOKO ARAH BARAT",
+  "lokasi": "JALAN LETNAN JENDERAL MT HARYONO",
+  "koordinat_x": "-6.243.359",
+  "koordinat_y": "106.858.147"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA ADM. JAKARTA BARAT",
+  "kecamatan": "TAMBORA",
+  "kelurahan": "TAMBORA",
+  "nama_halte": "GEDONG PANJANG",
+  "lokasi": "JALAN GEDONG PANJANG",
+  "koordinat_x": "-6.132.617",
+  "koordinat_y": "106.805.957"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA ADM. JAKARTA TIMUR",
+  "kecamatan": "JATINEGARA",
+  "kelurahan": "JATINEGARA",
+  "nama_halte": "GELANGGANG REMAJA",
+  "lokasi": "JALAN OTTO ISKANDAR DINATA",
+  "koordinat_x": "-6.235.445",
+  "koordinat_y": "106.867.954"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA ADM. JAKARTA PUSAT",
+  "kecamatan": "TANAH ABANG",
+  "kelurahan": "GELORA",
+  "nama_halte": "SENAYAN BANK DKI",
+  "lokasi": "JALAN JENDERAL SUDIRMAN",
+  "koordinat_x": "-6.224.217",
+  "koordinat_y": "106.805.795"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA ADM. JAKARTA PUSAT",
+  "kecamatan": "TANAH ABANG",
+  "kelurahan": "BENDUNGAN HILIR",
+  "nama_halte": "BENDUNGAN HILIR",
+  "lokasi": "JALAN JENDERAL SUDIRMAN",
+  "koordinat_x": "-6.217.137",
+  "koordinat_y": "106.815.283"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA ADM. JAKARTA SELATAN",
+  "kecamatan": "SETIABUDI",
+  "kelurahan": "KARET KUNINGAN",
+  "nama_halte": "RASUNA SAID",
+  "lokasi": "JALAN HAJJAH R. RASUNA SAID",
+  "koordinat_x": "-6.221.618",
+  "koordinat_y": "106.832.245"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA ADM. JAKARTA BARAT",
+  "kecamatan": "GROGOL PETAMBURAN",
+  "kelurahan": "GROGOL",
+  "nama_halte": "GROGOL",
+  "lokasi": "JALAN KYAI TAPA",
+  "koordinat_x": "-6.166.824",
+  "koordinat_y": "106.789.705"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA ADM. JAKARTA BARAT",
+  "kecamatan": "GROGOL PETAMBURAN",
+  "kelurahan": "TANJUNG DUREN UTARA",
+  "nama_halte": "GROGOL REFORMASI",
+  "lokasi": "JALAN S PARMAN",
+  "koordinat_x": "-616.717",
+  "koordinat_y": "10.678.818"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA ADM. JAKARTA UTARA",
+  "kecamatan": "PADEMANGAN",
+  "kelurahan": "PADEMANGAN BARAT",
+  "nama_halte": "GUNUNG SAHARI",
+  "lokasi": "JALAN GUNUNG SAHARI RAYA",
+  "koordinat_x": "-6.136.817",
+  "koordinat_y": "106.832.367"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA ADM. JAKARTA SELATAN",
+  "kecamatan": "SETIABUDI",
+  "kelurahan": "GUNTUR",
+  "nama_halte": "HALIMUN",
+  "lokasi": "JALAN GALUNGGUNG",
+  "koordinat_x": "-6.205.137",
+  "koordinat_y": "106.833.383"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA ADM. JAKARTA SELATAN",
+  "kecamatan": "PANCORAN",
+  "kelurahan": "PANCORAN",
+  "nama_halte": "WARUNG BUNCIT",
+  "lokasi": "JALAN HAJI TUTTY ALAWIYAH",
+  "koordinat_x": "-6.256.977",
+  "koordinat_y": "106.828.078"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA ADM. JAKARTA TIMUR",
+  "kecamatan": "JATINEGARA",
+  "kelurahan": "JATINEGARA",
+  "nama_halte": "FLYOVER CIPINANG",
+  "lokasi": "JALAN HAJI DARIP",
+  "koordinat_x": "-6.214.632",
+  "koordinat_y": "106.882.268"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA ADM. JAKARTA BARAT",
+  "kecamatan": "KEBON JERUK",
+  "kelurahan": "KEBON JERUK",
+  "nama_halte": "DAMAI",
+  "lokasi": "JALAN DAAN MOGOT",
+  "koordinat_x": "-6.163.376",
+  "koordinat_y": "106.775.143"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA ADM. JAKARTA PUSAT",
+  "kecamatan": "GAMBIR",
+  "kelurahan": "GAMBIR",
+  "nama_halte": "ISTIQLAL",
+  "lokasi": "JALAN PERWIRA",
+  "koordinat_x": "-6.172.252",
+  "koordinat_y": "106.830.932"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA ADM. JAKARTA PUSAT",
+  "kecamatan": "TANAH ABANG",
+  "kelurahan": "KAMPUNG BALI",
+  "nama_halte": "TRANSJAKARTA TANAH ABANG 1",
+  "lokasi": "JALAN JATIBARU",
+  "koordinat_x": "-6.185.496",
+  "koordinat_y": "10.681.105"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA ADM. JAKARTA SELATAN",
+  "kecamatan": "PASAR MINGGU",
+  "kelurahan": "PASAR MINGGU",
+  "nama_halte": "JATI PADANG",
+  "lokasi": "JALAN WARUNG JATI BARAT",
+  "koordinat_x": "-6.285.431",
+  "koordinat_y": "106.826.264"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA ADM. JAKARTA TIMUR",
+  "kecamatan": "JATINEGARA",
+  "kelurahan": "JATINEGARA",
+  "nama_halte": "JATINEGARA",
+  "lokasi": "JALAN JATINEGARA TIMUR",
+  "koordinat_x": "-6.221.412",
+  "koordinat_y": "106.868.071"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA ADM. JAKARTA BARAT",
+  "kecamatan": "GROGOL PETAMBURAN",
+  "kelurahan": "JELAMBAR",
+  "nama_halte": "JELAMBAR",
+  "lokasi": "JALAN DAAN MOGOT",
+  "koordinat_x": "-6.166.548",
+  "koordinat_y": "106.786.505"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA ADM. JAKARTA BARAT",
+  "kecamatan": "CENGKARENG",
+  "kelurahan": "CENGKARENG TIMUR",
+  "nama_halte": "JEMBATAN BARU",
+  "lokasi": "JALAN DAAN MOGOT",
+  "koordinat_x": "-6.154.831",
+  "koordinat_y": "106.730.378"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA ADM. JAKARTA BARAT",
+  "kecamatan": "TAMBORA",
+  "kelurahan": "TAMBORA",
+  "nama_halte": "JEMBATAN BESI",
+  "lokasi": "JALAN PROFESOR DOKTOR LATUMETEN",
+  "koordinat_x": "-6.152.005",
+  "koordinat_y": "106.794.901"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA ADM. JAKARTA BARAT",
+  "kecamatan": "TAMBORA",
+  "kelurahan": "TAMBORA",
+  "nama_halte": "JEMBATAN DUA",
+  "lokasi": "JALAN JEMBATAN DUA FLYOVER",
+  "koordinat_x": "-6.143.279",
+  "koordinat_y": "106.793.516"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA ADM. JAKARTA BARAT",
+  "kecamatan": "CENGKARENG",
+  "kelurahan": "KEDAUNG KALI ANGKE",
+  "nama_halte": "JEMBATAN GANTUNG",
+  "lokasi": "JALAN DAAN MOGOT",
+  "koordinat_x": "-6.155.513",
+  "koordinat_y": "106.749.464"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA ADM. JAKARTA PUSAT",
+  "kecamatan": "SAWAH BESAR",
+  "kelurahan": "GUNUNG SAHARI UTARA",
+  "nama_halte": "JEMBATAN MERAH",
+  "lokasi": "JALAN GUNUNG SAHARI RAYA",
+  "koordinat_x": "-6.146.731",
+  "koordinat_y": "106.834.274"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA ADM. JAKARTA UTARA",
+  "kecamatan": "PENJARINGAN",
+  "kelurahan": "PENJARINGAN",
+  "nama_halte": "JEMBATAN TIGA",
+  "lokasi": "JALAN JEMBATAN TIGA RAYA",
+  "koordinat_x": "-6.133.383",
+  "koordinat_y": "106.792.666"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA ADM. JAKARTA UTARA",
+  "kecamatan": "PADEMANGAN",
+  "kelurahan": "PADEMANGAN TIMUR",
+  "nama_halte": "JIEXPO KEMAYORAN",
+  "lokasi": "JALAN PESANGGRAHAN RAYA",
+  "koordinat_x": "-6.144.845",
+  "koordinat_y": "106.848.645"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA ADM. JAKARTA SELATAN",
+  "kecamatan": "PESANGGRAHAN",
+  "kelurahan": "PESANGGRAHAN",
+  "nama_halte": "JORR",
+  "lokasi": "JALAN CILEDUG RAYA",
+  "koordinat_x": "-6.236.104",
+  "koordinat_y": "10.675.488"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA ADM. JAKARTA PUSAT",
+  "kecamatan": "SAWAH BESAR",
+  "kelurahan": "PASAR BARU",
+  "nama_halte": "JUANDA",
+  "lokasi": "JALAN INSINYUR HAJI JUANDA",
+  "koordinat_x": "-6.168.048",
+  "koordinat_y": "106.830.885"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA ADM. JAKARTA BARAT",
+  "kecamatan": "TAMBORA",
+  "kelurahan": "TAMBORA",
+  "nama_halte": "KALI BESAR",
+  "lokasi": "JALAN KALI BESAR TIMUR",
+  "koordinat_x": "-6.135.355",
+  "koordinat_y": "106.811.432"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA ADM. JAKARTA BARAT",
+  "kecamatan": "KALIDERES",
+  "kelurahan": "KALIDERES",
+  "nama_halte": "KALIDERES",
+  "lokasi": "JALAN MADRASAH RAYA",
+  "koordinat_x": "-6.154.412",
+  "koordinat_y": "106.705.503"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA ADM. JAKARTA TIMUR",
+  "kecamatan": "JATINEGARA",
+  "kelurahan": "JATINEGARA",
+  "nama_halte": "KAMPUNG MELAYU",
+  "lokasi": "JALAN JENDERAL BASUKI RAHMAT",
+  "koordinat_x": "-6.224.673",
+  "koordinat_y": "106.866.821"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA ADM. JAKARTA TIMUR",
+  "kecamatan": "CIRACAS",
+  "kelurahan": "RAMBUTAN",
+  "nama_halte": "KAMPUNG RAMBUTAN",
+  "lokasi": "JALAN TERMINAL KAMPUNG RAMBUTAN",
+  "koordinat_x": "-6.309.885",
+  "koordinat_y": "106.882.155"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA ADM. JAKARTA TIMUR",
+  "kecamatan": "DUREN SAWIT",
+  "kelurahan": "DUREN SAWIT",
+  "nama_halte": "KAMPUNG SUMUR",
+  "lokasi": "JALAN I GUSTI NGURAH RAI",
+  "koordinat_x": "-6.214.412",
+  "koordinat_y": "106.911.885"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA ADM. JAKARTA SELATAN",
+  "kecamatan": "SETIABUDI",
+  "kelurahan": "KARET KUNINGAN",
+  "nama_halte": "KARET KUNINGAN",
+  "lokasi": "JALAN HAJJAH R. RASUNA SAID",
+  "koordinat_x": "-621.667",
+  "koordinat_y": "106.830.737"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA ADM. JAKARTA PUSAT",
+  "kecamatan": "TANAH ABANG",
+  "kelurahan": "GELORA",
+  "nama_halte": "POLDA METRO JAYA",
+  "lokasi": "JALAN JENDERAL SUDIRMAN",
+  "koordinat_x": "-6.221.094",
+  "koordinat_y": "106.810.279"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA ADM. JAKARTA TIMUR",
+  "kecamatan": "CEMPAKA PUTIH",
+  "kelurahan": "KAYU PUTIH",
+  "nama_halte": "KAYU PUTIH RAWASARI",
+  "lokasi": "JALAN AHMAD YANI",
+  "koordinat_x": "-6.187.453",
+  "koordinat_y": "106.875.417"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA ADM. JAKARTA SELATAN",
+  "kecamatan": "KEBAYORAN LAMA",
+  "kelurahan": "CIPULIR",
+  "nama_halte": "KEBAYORAN LAMA",
+  "lokasi": "JALAN CILEDUG RAYA",
+  "koordinat_x": "-623.834",
+  "koordinat_y": "106.777.515"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA ADM. JAKARTA SELATAN",
+  "kecamatan": "KEBAYORAN LAMA",
+  "kelurahan": "KEBAYORAN LAMA SELATAN",
+  "nama_halte": "BUNGUR",
+  "lokasi": "JALAN SULTAN ISKANDAR MUDA",
+  "koordinat_x": "-6.252.688",
+  "koordinat_y": "106.781.642"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA ADM. JAKARTA BARAT",
+  "kecamatan": "KEBON JERUK",
+  "kelurahan": "KEBON JERUK",
+  "nama_halte": "KEBON JERUK",
+  "lokasi": "JALAN PANJANG RAYA",
+  "koordinat_x": "-6.194.311",
+  "koordinat_y": "106.768.874"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA ADM. JAKARTA TIMUR",
+  "kecamatan": "JATINEGARA",
+  "kelurahan": "JATINEGARA",
+  "nama_halte": "MATRAMAN BARU",
+  "lokasi": "JALAN MATRAMAN",
+  "koordinat_x": "-621.288",
+  "koordinat_y": "106.861.152"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA ADM. JAKARTA BARAT",
+  "kecamatan": "KEBON JERUK",
+  "kelurahan": "KEBON JERUK",
+  "nama_halte": "KEDOYA PANJANG",
+  "lokasi": "JALAN PANJANG RAYA",
+  "koordinat_x": "-6.174.495",
+  "koordinat_y": "106.765.854"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA ADM. JAKARTA BARAT",
+  "kecamatan": "KEBON JERUK",
+  "kelurahan": "KEBON JERUK",
+  "nama_halte": "KEDOYA",
+  "lokasi": "JALAN PANJANG RAYA",
+  "koordinat_x": "-6.164.435",
+  "koordinat_y": "106.763.013"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA ADM. JAKARTA BARAT",
+  "kecamatan": "KEBON JERUK",
+  "kelurahan": "KEBON JERUK",
+  "nama_halte": "KELAPA DUA SASAK",
+  "lokasi": "JALAN PANJANG RAYA",
+  "koordinat_x": "-6.205.551",
+  "koordinat_y": "106.769.526"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA ADM. JAKARTA UTARA",
+  "kecamatan": "KEMAYORAN",
+  "kelurahan": "KEBON KOSONG",
+  "nama_halte": "LANDASAN PACU",
+  "lokasi": "JALAN HAJI BAGINDO RAJO MOTIK",
+  "koordinat_x": "-6.152.181",
+  "koordinat_y": "106.854.238"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA ADM. JAKARTA SELATAN",
+  "kecamatan": "SETIABUDI",
+  "kelurahan": "KUNINGAN TIMUR",
+  "nama_halte": "DENPASAR ARAH TIMUR",
+  "lokasi": "JALAN GATOT SUBROTO",
+  "koordinat_x": "-6.232.602",
+  "koordinat_y": "10.682.162"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA BEKASI",
+  "kecamatan": "MEDAN SATRIA",
+  "kelurahan": "MEDANSATRIA",
+  "nama_halte": "KOTA HARAPAN INDAH 1",
+  "lokasi": "JALAN SULTAN AGUNG",
+  "koordinat_x": "-6.193.598",
+  "koordinat_y": "106.973.352"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA BEKASI",
+  "kecamatan": "MEDAN SATRIA",
+  "kelurahan": "MEDANSATRIA",
+  "nama_halte": "KOTA HARAPAN INDAH 2",
+  "lokasi": "JALAN SULTAN AGUNG",
+  "koordinat_x": "-6.193.912",
+  "koordinat_y": "106.973.564"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA ADM. JAKARTA PUSAT",
+  "kecamatan": "SENEN",
+  "kelurahan": "SENEN",
+  "nama_halte": "KRAMAT SENTIONG",
+  "lokasi": "JALAN KRAMAT RAYA",
+  "koordinat_x": "-618.798",
+  "koordinat_y": "106.845.951"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA ADM. JAKARTA SELATAN",
+  "kecamatan": "SETIABUDI",
+  "kelurahan": "MAMPANG PRAPATAN",
+  "nama_halte": "SIMPANG KUNINGAN",
+  "lokasi": "JALAN GATOT SUBROTO",
+  "koordinat_x": "-623.725",
+  "koordinat_y": "10.682.794"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA ADM. JAKARTA SELATAN",
+  "kecamatan": "SETIABUDI",
+  "kelurahan": "KARET",
+  "nama_halte": "KUNINGAN MADYA",
+  "lokasi": "JALAN HAJJAH R. RASUNA SAID",
+  "koordinat_x": "-6.213.414",
+  "koordinat_y": "106.830.472"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA ADM. JAKARTA SELATAN",
+  "kecamatan": "SETIABUDI",
+  "kelurahan": "KUNINGAN TIMUR",
+  "nama_halte": "UNDERPASS KUNINGAN",
+  "lokasi": "JALAN HAJJAH R. RASUNA SAID",
+  "koordinat_x": "-6.234.731",
+  "koordinat_y": "106.829.015"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA ADM. JAKARTA PUSAT",
+  "kecamatan": "SENEN",
+  "kelurahan": "SENEN",
+  "nama_halte": "KWITANG",
+  "lokasi": "JALAN PRAJURIT KKO USMAN & HARUN",
+  "koordinat_x": "-6.181.051",
+  "koordinat_y": "10.683.866"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA ADM. JAKARTA UTARA",
+  "kecamatan": "PENJARINGAN",
+  "kelurahan": "PENJARINGAN",
+  "nama_halte": "PLUIT SELATAN",
+  "lokasi": "JALAN PLUIT SELATAN RAYA",
+  "koordinat_x": "-6.125.258",
+  "koordinat_y": "106.799.714"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA ADM. JAKARTA PUSAT",
+  "kecamatan": "MENTENG",
+  "kelurahan": "MENTENG",
+  "nama_halte": "FLYOVER KUNINGAN",
+  "lokasi": "JALAN PURWOREJO",
+  "koordinat_x": "-6.202.761",
+  "koordinat_y": "106.827.706"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA ADM. JAKARTA SELATAN",
+  "kecamatan": "KEBAYORAN LAMA",
+  "kelurahan": "CIPULIR",
+  "nama_halte": "CIPULIR",
+  "lokasi": "JALAN CILEDUG RAYA",
+  "koordinat_x": "-6.237.818",
+  "koordinat_y": "106.765.411"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA ADM. JAKARTA SELATAN",
+  "kecamatan": "KEBAYORAN BARU",
+  "kelurahan": "GUNUNG",
+  "nama_halte": "CSW 1",
+  "lokasi": "JALAN KYAI MAJA",
+  "koordinat_x": "-623.994",
+  "koordinat_y": "106.798.434"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA ADM. JAKARTA UTARA",
+  "kecamatan": "TANJUNG PRIOK",
+  "kelurahan": "TANJUNG PRIOK",
+  "nama_halte": "DANAU AGUNG",
+  "lokasi": "JALAN DANAU SUNTER BARAT",
+  "koordinat_x": "-6.146.869",
+  "koordinat_y": "106.858.054"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA ADM. JAKARTA SELATAN",
+  "kecamatan": "SETIABUDI",
+  "kelurahan": "KUNINGAN TIMUR",
+  "nama_halte": "KUNINGAN",
+  "lokasi": "JALAN HAJJAH R. RASUNA SAID",
+  "koordinat_x": "-6.228.794",
+  "koordinat_y": "106.833.205"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA ADM. JAKARTA SELATAN",
+  "kecamatan": "PASAR MINGGU",
+  "kelurahan": "PASAR MINGGU",
+  "nama_halte": "SIMPANG RAGUNAN AR-RAUDHAH",
+  "lokasi": "JALAN RM HARSONO",
+  "koordinat_x": "-6.294.641",
+  "koordinat_y": "106.822.125"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA ADM. JAKARTA PUSAT",
+  "kecamatan": "SENEN",
+  "kelurahan": "SENEN",
+  "nama_halte": "PEJAMBON",
+  "lokasi": "JALAN ABDULRAHMAN SALEH",
+  "koordinat_x": "-6.173.503",
+  "koordinat_y": "106.834.717"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA ADM. JAKARTA BARAT",
+  "kecamatan": "CENGKARENG",
+  "kelurahan": "CENGKARENG TIMUR",
+  "nama_halte": "PULO NANGKA",
+  "lokasi": "JALAN DAAN MOGOT",
+  "koordinat_x": "-6.154.634",
+  "koordinat_y": "106.738.097"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA ADM. JAKARTA PUSAT",
+  "kecamatan": "TANAH ABANG",
+  "kelurahan": "GELORA",
+  "nama_halte": "BUNDARAN SENAYAN",
+  "lokasi": "JALAN JENDERAL SUDIRMAN",
+  "koordinat_x": "-6.227.869",
+  "koordinat_y": "106.800.939"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA ADM. JAKARTA SELATAN",
+  "kecamatan": "MAMPANG PRAPATAN",
+  "kelurahan": "MAMPANG PRAPATAN",
+  "nama_halte": "DUREN TIGA",
+  "lokasi": "JALAN MAMPANG PRAPATAN RAYA",
+  "koordinat_x": "-6.252.377",
+  "koordinat_y": "106.826.972"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA ADM. JAKARTA BARAT",
+  "kecamatan": "KEBON JERUK",
+  "kelurahan": "KEBON JERUK",
+  "nama_halte": "DURI KEPA",
+  "lokasi": "JALAN PANJANG RAYA",
+  "koordinat_x": "-6.185.266",
+  "koordinat_y": "106.768.418"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA ADM. JAKARTA UTARA",
+  "kecamatan": "TANJUNG PRIOK",
+  "kelurahan": "TANJUNG PRIOK",
+  "nama_halte": "MAMBO",
+  "lokasi": "JALAN ENGGANO",
+  "koordinat_x": "-611.015",
+  "koordinat_y": "106.892.419"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA ADM. JAKARTA PUSAT",
+  "kecamatan": "TANAH ABANG",
+  "kelurahan": "KAMPUNG BALI",
+  "nama_halte": "EXPLORER TANAH ABANG",
+  "lokasi": "JALAN JATIBARU",
+  "koordinat_x": "-6.184.305",
+  "koordinat_y": "10.681.158"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA ADM. JAKARTA TIMUR",
+  "kecamatan": "DUREN SAWIT",
+  "kelurahan": "KLENDER",
+  "nama_halte": "KLENDER",
+  "lokasi": "JALAN I GUSTI NGURAH RAI",
+  "koordinat_x": "-6.213.596",
+  "koordinat_y": "106.903.063"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA ADM. JAKARTA TIMUR",
+  "kecamatan": "DUREN SAWIT",
+  "kelurahan": "DUREN SAWIT",
+  "nama_halte": "SIMPANG BUARAN",
+  "lokasi": "JALAN I GUSTI NGURAH RAI",
+  "koordinat_x": "-6.215.982",
+  "koordinat_y": "106.924.383"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA ADM. JAKARTA TIMUR",
+  "kecamatan": "CIRACAS",
+  "kelurahan": "SUSUKAN",
+  "nama_halte": "FLYOVER RAYA BOGOR",
+  "lokasi": "JALAN SUPRIYADI",
+  "koordinat_x": "-63.065",
+  "koordinat_y": "1.068.657"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA ADM. JAKARTA PUSAT",
+  "kecamatan": "JOHAR BARU",
+  "kelurahan": "JOHAR BARU",
+  "nama_halte": "GALUR",
+  "lokasi": "JALAN LETNAN JENDERAL SUPRAPTO",
+  "koordinat_x": "-6.174.388",
+  "koordinat_y": "106.854.845"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA ADM. JAKARTA PUSAT",
+  "kecamatan": "GAMBIR",
+  "kelurahan": "GAMBIR",
+  "nama_halte": "GAMBIR",
+  "lokasi": "JALAN MEDAN MERDEKA TIMUR",
+  "koordinat_x": "-6.174.612",
+  "koordinat_y": "106.830.402"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA ADM. JAKARTA PUSAT",
+  "kecamatan": "GAMBIR",
+  "kelurahan": "GAMBIR",
+  "nama_halte": "GAMBIR 2",
+  "lokasi": "JALAN MEDAN MERDEKA SELATAN",
+  "koordinat_x": "-6.178.929",
+  "koordinat_y": "106.831.062"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA ADM. JAKARTA TIMUR",
+  "kecamatan": "MAKASAR",
+  "kelurahan": "MAKASAR",
+  "nama_halte": "MAKASAR",
+  "lokasi": "JALAN PONDOK GEDE",
+  "koordinat_x": "-6.290.154",
+  "koordinat_y": "106.881.164"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA ADM. JAKARTA SELATAN",
+  "kecamatan": "MAMPANG PRAPATAN",
+  "kelurahan": "MAMPANG PRAPATAN",
+  "nama_halte": "DENPASAR ARAH BARAT",
+  "lokasi": "JALAN JENDERAL GATOT SUBROTO",
+  "koordinat_x": "-6.233.551",
+  "koordinat_y": "106.822.084"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA ADM. JAKARTA SELATAN",
+  "kecamatan": "SETIABUDI",
+  "kelurahan": "KARET SEMANGGI",
+  "nama_halte": "WIDYA CHANDRA TELKOMSEL ARAH TIMUR",
+  "lokasi": "JALAN GATOT SUBROTO",
+  "koordinat_x": "-6.226.549",
+  "koordinat_y": "1.068.174"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA ADM. JAKARTA TIMUR",
+  "kecamatan": "PULOGADUNG",
+  "kelurahan": "PULO GADUNG",
+  "nama_halte": "LAYUR",
+  "lokasi": "JALAN PEMUDA",
+  "koordinat_x": "-6.193.539",
+  "koordinat_y": "10.689.909"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA ADM. JAKARTA SELATAN",
+  "kecamatan": "CILANDAK",
+  "kelurahan": "LEBAK BULUS",
+  "nama_halte": "LEBAK BULUS",
+  "lokasi": "JALAN RAYA PASAR JUMAT",
+  "koordinat_x": "-6.289.413",
+  "koordinat_y": "106.774.151"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA ADM. JAKARTA SELATAN",
+  "kecamatan": "MAMPANG PRAPATAN",
+  "kelurahan": "MAMPANG PRAPATAN",
+  "nama_halte": "MAMPANG PRAPATAN",
+  "lokasi": "JALAN MAMPANG PRAPATAN RAYA",
+  "koordinat_x": "-6.242.699",
+  "koordinat_y": "106.825.717"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA ADM. JAKARTA PUSAT",
+  "kecamatan": "SAWAH BESAR",
+  "kelurahan": "MANGGA DUA SELATAN",
+  "nama_halte": "MANGGA DUA",
+  "lokasi": "JALAN MANGGA DUA RAYA",
+  "koordinat_x": "-6.136.148",
+  "koordinat_y": "106.825.968"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA ADM. JAKARTA SELATAN",
+  "kecamatan": "SETIABUDI",
+  "kelurahan": "MENTENG",
+  "nama_halte": "MANGGARAI",
+  "lokasi": "JALAN SULTAN AGUNG",
+  "koordinat_x": "-620.888",
+  "koordinat_y": "106.847.391"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA ADM. JAKARTA PUSAT",
+  "kecamatan": "TANAH ABANG",
+  "kelurahan": "KARET TENGSIN",
+  "nama_halte": "KARET",
+  "lokasi": "JALAN JENDERAL SUDIRMAN",
+  "koordinat_x": "-6.212.457",
+  "koordinat_y": "106.820.031"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA ADM. JAKARTA TIMUR",
+  "kecamatan": "MATRAMAN",
+  "kelurahan": "PALMERIAM",
+  "nama_halte": "MATRAMAN",
+  "lokasi": "JALAN MATRAMAN",
+  "koordinat_x": "-619.998",
+  "koordinat_y": "106.854.429"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA ADM. JAKARTA PUSAT",
+  "kecamatan": "SENEN",
+  "kelurahan": "SENEN",
+  "nama_halte": "FLYOVER PRAMUKA",
+  "lokasi": "FLYOVER PRAMUKA MATRAMAN",
+  "koordinat_x": "-619.891",
+  "koordinat_y": "106.854.496"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA ADM. JAKARTA SELATAN",
+  "kecamatan": "KEBAYORAN BARU",
+  "kelurahan": "GUNUNG",
+  "nama_halte": "MAYESTIK",
+  "lokasi": "JALAN KYAI MAJA",
+  "koordinat_x": "-6.241.921",
+  "koordinat_y": "106.790.767"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA ADM. JAKARTA PUSAT",
+  "kecamatan": "TANAH ABANG",
+  "kelurahan": "KARET TENGSIN",
+  "nama_halte": "DUKUH ATAS",
+  "lokasi": "JALAN JENDERAL SUDIRMAN",
+  "koordinat_x": "-6.205.702",
+  "koordinat_y": "106.822.225"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA ADM. JAKARTA BARAT",
+  "kecamatan": "TAMAN SARI",
+  "kelurahan": "TAMAN SARI",
+  "nama_halte": "MUSEUM SEJARAH JAKARTA",
+  "lokasi": "JALAN KUNIR",
+  "koordinat_x": "-613.393",
+  "koordinat_y": "106.812.088"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA ADM. JAKARTA PUSAT",
+  "kecamatan": "MENTENG",
+  "kelurahan": "MENTENG",
+  "nama_halte": "TOSARI",
+  "lokasi": "JALAN JENDERAL SUDIRMAN",
+  "koordinat_x": "-6.196.892",
+  "koordinat_y": "106.823.092"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA ADM. JAKARTA UTARA",
+  "kecamatan": "PADEMANGAN",
+  "kelurahan": "PADEMANGAN BARAT",
+  "nama_halte": "PADEMANGAN",
+  "lokasi": "JALAN GUNUNG SAHARI RAYA",
+  "koordinat_x": "-6.133.704",
+  "koordinat_y": "106.831.637"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA ADM. JAKARTA UTARA",
+  "kecamatan": "PENJARINGAN",
+  "kelurahan": "PENJARINGAN",
+  "nama_halte": "PAKIN",
+  "lokasi": "JALAN GEDONG PANJANG",
+  "koordinat_x": "-6.127.982",
+  "koordinat_y": "106.804.743"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA ADM. JAKARTA PUSAT",
+  "kecamatan": "SENEN",
+  "kelurahan": "SENEN",
+  "nama_halte": "PAL PUTIH",
+  "lokasi": "JALAN KRAMAT RAYA",
+  "koordinat_x": "-6.184.631",
+  "koordinat_y": "106.844.024"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA ADM. JAKARTA SELATAN",
+  "kecamatan": "MAMPANG PRAPATAN",
+  "kelurahan": "KUNINGAN BARAT",
+  "nama_halte": "WIDYA CHANDRA TELKOMSEL ARAH BARAT",
+  "lokasi": "JALAN JENDERAL GATOT SUBROTO",
+  "koordinat_x": "-6.227.392",
+  "koordinat_y": "106.817.628"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA ADM. JAKARTA BARAT",
+  "kecamatan": "GROGOL PETAMBURAN",
+  "kelurahan": "JELAMBAR",
+  "nama_halte": "KALI GROGOL ARAH UTARA",
+  "lokasi": "JALAN PROF. DR. LATUMENTEN",
+  "koordinat_x": "-616.106",
+  "koordinat_y": "106.790.397"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA ADM. JAKARTA SELATAN",
+  "kecamatan": "TEBET",
+  "kelurahan": "PANCORAN",
+  "nama_halte": "PANCORAN TUGU",
+  "lokasi": "JALAN MT HARYONO",
+  "koordinat_x": "-62.433",
+  "koordinat_y": "10.684.388"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA ADM. JAKARTA BARAT",
+  "kecamatan": "TAMAN SARI",
+  "kelurahan": "TAMAN SARI",
+  "nama_halte": "MANGGA DUA RAYA",
+  "lokasi": "JALAN MANGGA DUA RAYA",
+  "koordinat_x": "-6.137.611",
+  "koordinat_y": "106.817.918"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA ADM. JAKARTA PUSAT",
+  "kecamatan": "SAWAH BESAR",
+  "kelurahan": "PASAR BARU",
+  "nama_halte": "PASAR BARU",
+  "lokasi": "JALAN POS",
+  "koordinat_x": "-6.166.129",
+  "koordinat_y": "106.834.834"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA ADM. JAKARTA PUSAT",
+  "kecamatan": "KEMAYORAN",
+  "kelurahan": "GUNUNG SAHARI SELATAN",
+  "nama_halte": "PASAR BARU TIMUR",
+  "lokasi": "JALAN GUNUNG SAHARI RAYA",
+  "koordinat_x": "-6.162.272",
+  "koordinat_y": "106.838.114"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA ADM. JAKARTA PUSAT",
+  "kecamatan": "CEMPAKA PUTIH",
+  "kelurahan": "CEMPAKA PUTIH TIMUR",
+  "nama_halte": "PASAR CEMPAKA PUTIH",
+  "lokasi": "JALAN LETNAN JENDERAL SUPRAPTO",
+  "koordinat_x": "-6.172.325",
+  "koordinat_y": "106.862.455"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA ADM. JAKARTA TIMUR",
+  "kecamatan": "JATINEGARA",
+  "kelurahan": "JATINEGARA",
+  "nama_halte": "PASAR ENJO",
+  "lokasi": "JALAN HAJI DARIP",
+  "koordinat_x": "-6.214.881",
+  "koordinat_y": "106.878.194"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA ADM. JAKARTA PUSAT",
+  "kecamatan": "CEMPAKA PUTIH",
+  "kelurahan": "RAWASARI",
+  "nama_halte": "PASAR GENJING",
+  "lokasi": "JALAN PRAMUKA",
+  "koordinat_x": "-6.194.446",
+  "koordinat_y": "106.860.915"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA ADM. JAKARTA TIMUR",
+  "kecamatan": "CIRACAS",
+  "kelurahan": "RAMBUTAN",
+  "nama_halte": "PASAR INDUK",
+  "lokasi": "JALAN RAYA BOGOR",
+  "koordinat_x": "-6.294.215",
+  "koordinat_y": "106.872.032"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA ADM. JAKARTA TIMUR",
+  "kecamatan": "JATINEGARA",
+  "kelurahan": "JATINEGARA",
+  "nama_halte": "BALI MESTER",
+  "lokasi": "JALAN JATINEGARA TIMUR",
+  "koordinat_x": "-6.215.744",
+  "koordinat_y": "106.866.318"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA ADM. JAKARTA SELATAN",
+  "kecamatan": "KEBAYORAN LAMA",
+  "kelurahan": "KEBAYORAN LAMA UTARA",
+  "nama_halte": "KEBAYORAN",
+  "lokasi": "JALAN TEUKU NYAK ARIEF",
+  "koordinat_x": "-6.238.413",
+  "koordinat_y": "106.783.229"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA ADM. JAKARTA TIMUR",
+  "kecamatan": "KRAMATJATI",
+  "kelurahan": "KRAMATJATI",
+  "nama_halte": "KRAMAT JATI",
+  "lokasi": "JALAN RAYA BOGOR",
+  "koordinat_x": "-6.268.822",
+  "koordinat_y": "106.866.632"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "BEKASI",
+  "kecamatan": "MEDAN SATRIA",
+  "kelurahan": "MEDANSATRIA",
+  "nama_halte": "PASAR MODERN HARAPAN INDAH",
+  "lokasi": "JALAN HARAPAN INDAH BULEVAR",
+  "koordinat_x": "-6.168.544",
+  "koordinat_y": "10.697.431"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA ADM. JAKARTA TIMUR",
+  "kecamatan": "PULOGADUNG",
+  "kelurahan": "PULO GADUNG",
+  "nama_halte": "PASAR PULO GADUNG",
+  "lokasi": "JALAN BEKASI RAYA",
+  "koordinat_x": "-6.187.434",
+  "koordinat_y": "106.905.913"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA ADM. JAKARTA SELATAN",
+  "kecamatan": "SETIABUDI",
+  "kelurahan": "GUNTUR",
+  "nama_halte": "PASAR RUMPUT",
+  "lokasi": "JALAN SULTAN AGUNG",
+  "koordinat_x": "-6.207.125",
+  "koordinat_y": "106.841.118"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA ADM. JAKARTA SELATAN",
+  "kecamatan": "SETIABUDI",
+  "kelurahan": "KUNINGAN TIMUR",
+  "nama_halte": "PATRA KUNINGAN",
+  "lokasi": "JALAN HAJJAH R. RASUNA SAID",
+  "koordinat_x": "-6.232.677",
+  "koordinat_y": "106.832.087"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA ADM. JAKARTA PUSAT",
+  "kecamatan": "GAMBIR",
+  "kelurahan": "GAMBIR",
+  "nama_halte": "PECENONGAN",
+  "lokasi": "JALAN INSINYUR HAJI JUANDA",
+  "koordinat_x": "-616.771",
+  "koordinat_y": "10.682.819"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA ADM. JAKARTA TIMUR",
+  "kecamatan": "JATINEGARA",
+  "kelurahan": "JATINEGARA",
+  "nama_halte": "PEDATI PRUMPUNG",
+  "lokasi": "JALAN DI PANJAITAN",
+  "koordinat_x": "-622.016",
+  "koordinat_y": "106.874.386"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA ADM. JAKARTA TIMUR",
+  "kecamatan": "PULOGADUNG",
+  "kelurahan": "PULO GADUNG",
+  "nama_halte": "PEDONGKELAN",
+  "lokasi": "JALAN PERINTIS KEMERDEKAAN",
+  "koordinat_x": "-6.167.962",
+  "koordinat_y": "106.882.464"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA ADM. JAKARTA SELATAN",
+  "kecamatan": "PASAR MINGGU",
+  "kelurahan": "PASAR MINGGU",
+  "nama_halte": "PEJATEN",
+  "lokasi": "JALAN BUNCIT RAYA",
+  "koordinat_x": "-6.278.404",
+  "koordinat_y": "106.829.724"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA ADM. JAKARTA TIMUR",
+  "kecamatan": "PULOGADUNG",
+  "kelurahan": "PULO GADUNG",
+  "nama_halte": "PEMUDA PRAMUKA",
+  "lokasi": "JEMBATAN PENYEBRANGAN ORANG PEMUDA PRAMUKA",
+  "koordinat_x": "-6.192.795",
+  "koordinat_y": "106.874.979"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA ADM. JAKARTA TIMUR",
+  "kecamatan": "PULOGADUNG",
+  "kelurahan": "PULO GADUNG",
+  "nama_halte": "PEMUDA RAWAMANGUN",
+  "lokasi": "JALAN PEMUDA",
+  "koordinat_x": "-6.193.488",
+  "koordinat_y": "10.689.165"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA ADM. JAKARTA TIMUR",
+  "kecamatan": "JATINEGARA",
+  "kelurahan": "JATINEGARA",
+  "nama_halte": "HALIM",
+  "lokasi": "JALAN DI PANJAITAN",
+  "koordinat_x": "-623.907",
+  "koordinat_y": "106.878"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA ADM. JAKARTA TIMUR",
+  "kecamatan": "CAKUNG",
+  "kelurahan": "PENGGILINGAN",
+  "nama_halte": "PENGGILINGAN",
+  "lokasi": "PENGGILINGAN RAYA",
+  "koordinat_x": "-6.214.132",
+  "koordinat_y": "106.939.609"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA ADM. JAKARTA UTARA",
+  "kecamatan": "PENJARINGAN",
+  "kelurahan": "PENJARINGAN",
+  "nama_halte": "PENJARINGAN",
+  "lokasi": "JALAN PLUIT SELATAN RAYA",
+  "koordinat_x": "-6.126.306",
+  "koordinat_y": "106.792.026"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA ADM. JAKARTA UTARA",
+  "kecamatan": "TANJUNG PRIOK",
+  "kelurahan": "KOJA",
+  "nama_halte": "KOJA",
+  "lokasi": "JALAN YOS SUDARSO",
+  "koordinat_x": "-611.413",
+  "koordinat_y": "10.689.309"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA ADM. JAKARTA SELATAN",
+  "kecamatan": "KEBAYORAN LAMA",
+  "kelurahan": "GROGOL UTARA",
+  "nama_halte": "PERMATA HIJAU",
+  "lokasi": "JALAN LETNAN JENDERAL SOEPENO",
+  "koordinat_x": "-6.221.427",
+  "koordinat_y": "106.783.246"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA ADM. JAKARTA BARAT",
+  "kecamatan": "KEBON JERUK",
+  "kelurahan": "KEBON JERUK",
+  "nama_halte": "ARTERI",
+  "lokasi": "JALAN ARTERI POS PENGUMBEN",
+  "koordinat_x": "-6.218.401",
+  "koordinat_y": "106.777.613"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA ADM. JAKARTA TIMUR",
+  "kecamatan": "DUREN SAWIT",
+  "kelurahan": "DUREN SAWIT",
+  "nama_halte": "FLYOVER PONDOK KOPI",
+  "lokasi": "JALAN I GUSTI NGURAH RAI",
+  "koordinat_x": "-6.216.689",
+  "koordinat_y": "10.693.054"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA ADM. JAKARTA BARAT",
+  "kecamatan": "KALIDERES",
+  "kelurahan": "KALIDERES",
+  "nama_halte": "PESAKIH",
+  "lokasi": "JALAN DAAN MOGOT",
+  "koordinat_x": "-6.154.803",
+  "koordinat_y": "106.715.266"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA ADM. JAKARTA PUSAT",
+  "kecamatan": "GAMBIR",
+  "kelurahan": "GAMBIR",
+  "nama_halte": "PETOJO",
+  "lokasi": "JALAN SURYOPRANOTO",
+  "koordinat_x": "-6.169.984",
+  "koordinat_y": "106.816.983"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA ADM. JAKARTA TIMUR",
+  "kecamatan": "KRAMATJATI",
+  "kelurahan": "CILILITAN",
+  "nama_halte": "CILILITAN",
+  "lokasi": "JALAN MAYOR JENDERAL SUTOYO",
+  "koordinat_x": "-6.262.494",
+  "koordinat_y": "106.866.352"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA ADM. JAKARTA TIMUR",
+  "kecamatan": "KRAMATJATI",
+  "kelurahan": "CILILITAN",
+  "nama_halte": "PGC",
+  "lokasi": "TRANSJAKARTA BUSWAY KORIDOR 10",
+  "koordinat_x": "-62.619",
+  "koordinat_y": "106.865.696"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA ADM. JAKARTA TIMUR",
+  "kecamatan": "MAKASAR",
+  "kelurahan": "MAKASAR",
+  "nama_halte": "PINANG RANTI",
+  "lokasi": "GANG GOMBRANG II",
+  "koordinat_x": "-6.291.075",
+  "koordinat_y": "106.886.338"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA ADM. JAKARTA UTARA",
+  "kecamatan": "PENJARINGAN",
+  "kelurahan": "PENJARINGAN",
+  "nama_halte": "PLUIT",
+  "lokasi": "JALAN PLUIT PERMAI",
+  "koordinat_x": "-6.115.795",
+  "koordinat_y": "106.790.371"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA ADM. JAKARTA UTARA",
+  "kecamatan": "TANJUNG PRIOK",
+  "kelurahan": "KOJA",
+  "nama_halte": "PLUMPANG",
+  "lokasi": "JALAN YOS SUDARSO",
+  "koordinat_x": "-612.848",
+  "koordinat_y": "1.068.937"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA ADM. JAKARTA PUSAT",
+  "kecamatan": "MENTENG",
+  "kelurahan": "MENTENG",
+  "nama_halte": "BUNDARAN HI ASTRA",
+  "lokasi": "JALAN MOHAMMAD HUSNI THAMRIN",
+  "koordinat_x": "-6.193.021",
+  "koordinat_y": "106.822.997"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA ADM. JAKARTA SELATAN",
+  "kecamatan": "KEBAYORAN LAMA",
+  "kelurahan": "PONDOK PINANG",
+  "nama_halte": "UNDERPASS LEBAK BULUS",
+  "lokasi": "JALAN METRO PONDOK INDAH",
+  "koordinat_x": "-6.286.761",
+  "koordinat_y": "106.779.986"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA ADM. JAKARTA SELATAN",
+  "kecamatan": "KEBAYORAN LAMA",
+  "kelurahan": "PONDOK PINANG",
+  "nama_halte": "PONDOK INDAH",
+  "lokasi": "JALAN METRO PONDOK INDAH",
+  "koordinat_x": "-6.267.231",
+  "koordinat_y": "106.783.649"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA ADM. JAKARTA SELATAN",
+  "kecamatan": "KEBAYORAN LAMA",
+  "kelurahan": "PONDOK PINANG",
+  "nama_halte": "PONDOK PINANG",
+  "lokasi": "JALAN PONDOK PINANG RAYA",
+  "koordinat_x": "-628.217",
+  "koordinat_y": "106.772.043"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA ADM. JAKARTA BARAT",
+  "kecamatan": "KEBON JERUK",
+  "kelurahan": "KEBON JERUK",
+  "nama_halte": "POS PENGUMBEN",
+  "lokasi": "JALAN PANJANG RAYA",
+  "koordinat_x": "-6.212.935",
+  "koordinat_y": "10.677.226"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA ADM. JAKARTA PUSAT",
+  "kecamatan": "CEMPAKA PUTIH",
+  "kelurahan": "CEMPAKA PUTIH TIMUR",
+  "nama_halte": "SIMPANG PRAMUKA",
+  "lokasi": "JALAN PRAMUKA",
+  "koordinat_x": "-6.192.192",
+  "koordinat_y": "106.874.011"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA ADM. JAKARTA PUSAT",
+  "kecamatan": "CEMPAKA PUTIH",
+  "kelurahan": "RAWASARI",
+  "nama_halte": "PRAMUKA SARI",
+  "lokasi": "JALAN PRAMUKA",
+  "koordinat_x": "-6.192.238",
+  "koordinat_y": "106.868.576"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA ADM. JAKARTA TIMUR",
+  "kecamatan": "CAKUNG",
+  "kelurahan": "RAWA TERATE",
+  "nama_halte": "PTC PULO GADUNG",
+  "lokasi": "JALAN BEKASI RAYA",
+  "koordinat_x": "-6.182.622",
+  "koordinat_y": "106.915.612"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA ADM. JAKARTA TIMUR",
+  "kecamatan": "PULOGADUNG",
+  "kelurahan": "PULO GADUNG",
+  "nama_halte": "PULO GADUNG",
+  "lokasi": "JALAN BEKASI RAYA",
+  "koordinat_x": "-6.183.325",
+  "koordinat_y": "10.690.885"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA ADM. JAKARTA TIMUR",
+  "kecamatan": "CAKUNG",
+  "kelurahan": "PULO GEBANG",
+  "nama_halte": "PULO GEBANG",
+  "lokasi": "JALAN TOL LINGKAR LUAR JAKARTA",
+  "koordinat_x": "-6.212.697",
+  "koordinat_y": "106.952.651"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA ADM. JAKARTA TIMUR",
+  "kecamatan": "KELAPA GADING",
+  "kelurahan": "KAYU PUTIH",
+  "nama_halte": "PULO MAS",
+  "lokasi": "JALAN PERINTIS KEMERDEKAAN",
+  "koordinat_x": "-6.174.736",
+  "koordinat_y": "106.892.774"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA ADM. JAKARTA TIMUR",
+  "kecamatan": "PULOGADUNG",
+  "kelurahan": "PULO GADUNG",
+  "nama_halte": "PULO MAS BYPASS",
+  "lokasi": "JALAN AHMAD YANI",
+  "koordinat_x": "-6.176.953",
+  "koordinat_y": "106.876.002"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA TANGERANG",
+  "kecamatan": "CILEDUG",
+  "kelurahan": "LARANGAN UTARA",
+  "nama_halte": "PURI BETA 1",
+  "lokasi": "JALAN CILEDUG RAYA",
+  "koordinat_x": "-6.230.596",
+  "koordinat_y": "106.726.023"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA TANGERANG",
+  "kecamatan": "CILEDUG",
+  "kelurahan": "LARANGAN UTARA",
+  "nama_halte": "PURI BETA 2",
+  "lokasi": "JALAN HAJI OEMAR SAID COKROAMINOTO",
+  "koordinat_x": "-6.230.532",
+  "koordinat_y": "106.723.705"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA ADM. JAKARTA SELATAN",
+  "kecamatan": "PASAR MINGGU",
+  "kelurahan": "PASAR MINGGU",
+  "nama_halte": "RAGUNAN",
+  "lokasi": "TRANS JAKARTA BUSWAY KORIDOR 6",
+  "koordinat_x": "-6.305.769",
+  "koordinat_y": "106.819.485"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA ADM. JAKARTA SELATAN",
+  "kecamatan": "KEBAYORAN BARU",
+  "kelurahan": "PETOGOGAN",
+  "nama_halte": "RAWA BARAT",
+  "lokasi": "JALAN ROBERT WOLTER MONGINSIDI",
+  "koordinat_x": "-6.238.947",
+  "koordinat_y": "106.816.243"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA ADM. JAKARTA BARAT",
+  "kecamatan": "CENGKARENG",
+  "kelurahan": "CENGKARENG BARAT",
+  "nama_halte": "RAWA BUAYA",
+  "lokasi": "JALAN DAAN MOGOT",
+  "koordinat_x": "-6.153.916",
+  "koordinat_y": "106.726.188"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA ADM. JAKARTA PUSAT",
+  "kecamatan": "CEMPAKA PUTIH",
+  "kelurahan": "CEMPAKA PUTIH BARAT",
+  "nama_halte": "RAWA SELATAN",
+  "lokasi": "JALAN LETNAN JENDERAL SUPRAPTO",
+  "koordinat_x": "-6.173.925",
+  "koordinat_y": "106.858.088"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA ADM. JAKARTA TIMUR",
+  "kecamatan": "CAKUNG",
+  "kelurahan": "UJUNG MENTENG",
+  "nama_halte": "RAYA BEKASI PULO GEBANG",
+  "lokasi": "JALAN BEKASI RAYA",
+  "koordinat_x": "-6.187.604",
+  "koordinat_y": "106.959.869"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA ADM. JAKARTA TIMUR",
+  "kecamatan": "CIRACAS",
+  "kelurahan": "RAMBUTAN",
+  "nama_halte": "TRIKORA",
+  "lokasi": "JALAN RAYA BOGOR",
+  "koordinat_x": "-6.301.956",
+  "koordinat_y": "106.868.028"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA ADM. JAKARTA BARAT",
+  "kecamatan": "GROGOL PETAMBURAN",
+  "kelurahan": "GROGOL",
+  "nama_halte": "KALI GROGOL ARAH SELATAN",
+  "lokasi": "JALAN LATU MENTEN",
+  "koordinat_x": "-6.160.376",
+  "koordinat_y": "106.790.973"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA ADM. JAKARTA SELATAN",
+  "kecamatan": "TEBET",
+  "kelurahan": "MENTENG DALAM",
+  "nama_halte": "PANCORAN ARAH TIMUR",
+  "lokasi": "JALAN MT HARYONO",
+  "koordinat_x": "-6.241.571",
+  "koordinat_y": "106.838.075"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA ADM. JAKARTA PUSAT",
+  "kecamatan": "CEMPAKA PUTIH",
+  "kelurahan": "CEMPAKA PUTIH BARAT",
+  "nama_halte": "SUMUR BATU",
+  "lokasi": "JALAN LETNAN JENDERAL SUPRAPTO",
+  "koordinat_x": "-6.168.676",
+  "koordinat_y": "10.687.027"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA ADM. JAKARTA BARAT",
+  "kecamatan": "GROGOL PETAMBURAN",
+  "kelurahan": "GROGOL",
+  "nama_halte": "ROXY",
+  "lokasi": "JALAN KYAI TAPA",
+  "koordinat_x": "-6.166.294",
+  "koordinat_y": "106.796.746"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA ADM. JAKARTA PUSAT",
+  "kecamatan": "GAMBIR",
+  "kelurahan": "GAMBIR",
+  "nama_halte": "TARAKAN",
+  "lokasi": "JALAN KYAI CARINGIN",
+  "koordinat_x": "-6.171.146",
+  "koordinat_y": "10.681.011"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA ADM. JAKARTA PUSAT",
+  "kecamatan": "SENEN",
+  "kelurahan": "SENEN",
+  "nama_halte": "RSPAD",
+  "lokasi": "SAL PHB JALAN KWINI",
+  "koordinat_x": "-6.175.485",
+  "koordinat_y": "106.836.739"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA ADM. JAKARTA SELATAN",
+  "kecamatan": "PANCORAN",
+  "kelurahan": "PANCORAN",
+  "nama_halte": "PANCORAN ARAH BARAT",
+  "lokasi": "JALAN JENDERAL GATOT SUBROTO",
+  "koordinat_x": "-6.241.672",
+  "koordinat_y": "1.068.372"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA ADM. JAKARTA BARAT",
+  "kecamatan": "PAL MERAH",
+  "kelurahan": "PALMERAH",
+  "nama_halte": "KOTA BAMBU ARAH UTARA",
+  "lokasi": "JALAN LETNAN JENDERAL SISWONDO PARMAN",
+  "koordinat_x": "-6.184.489",
+  "koordinat_y": "106.796.743"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA ADM. JAKARTA PUSAT",
+  "kecamatan": "SENEN",
+  "kelurahan": "SENEN",
+  "nama_halte": "PASEBAN",
+  "lokasi": "JALAN SALEMBA RAYA",
+  "koordinat_x": "-6.196.781",
+  "koordinat_y": "106.851.016"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA ADM. JAKARTA PUSAT",
+  "kecamatan": "SENEN",
+  "kelurahan": "SENEN",
+  "nama_halte": "SALEMBA",
+  "lokasi": "JALAN SALEMBA RAYA",
+  "koordinat_x": "-6.193.373",
+  "koordinat_y": "106.848.912"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA ADM. JAKARTA PUSAT",
+  "kecamatan": "MENTENG",
+  "kelurahan": "MENTENG",
+  "nama_halte": "MH THAMRIN",
+  "lokasi": "JALAN MOHAMMAD HUSNI THAMRIN",
+  "koordinat_x": "-6.188.149",
+  "koordinat_y": "106.822.987"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA ADM. JAKARTA BARAT",
+  "kecamatan": "PAL MERAH",
+  "kelurahan": "PALMERAH",
+  "nama_halte": "KOTA BAMBU ARAH SELATAN",
+  "lokasi": "JALAN S PARMAN",
+  "koordinat_x": "-6.185.221",
+  "koordinat_y": "106.797.088"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA ADM. JAKARTA BARAT",
+  "kecamatan": "GROGOL PETAMBURAN",
+  "kelurahan": "TOMANG",
+  "nama_halte": "TANJUNG DUREN ARAH BARAT",
+  "lokasi": "JALAN LETNAN JENDERAL S. PARMAN",
+  "koordinat_x": "-6.175.587",
+  "koordinat_y": "106.792.228"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA ADM. JAKARTA BARAT",
+  "kecamatan": "GROGOL PETAMBURAN",
+  "kelurahan": "TOMANG",
+  "nama_halte": "TANJUNG DUREN ARAH TIMUR",
+  "lokasi": "JALAN LETNAN JENDERAL S. PARMAN",
+  "koordinat_x": "-6.175.799",
+  "koordinat_y": "106.793.075"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA ADM. JAKARTA PUSAT",
+  "kecamatan": "SENEN",
+  "kelurahan": "SENEN",
+  "nama_halte": "PASAR SENEN",
+  "lokasi": "JALAN LETNAN JENDERAL SUPRAPTO",
+  "koordinat_x": "-6.178.211",
+  "koordinat_y": "106.842.505"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA ADM. JAKARTA PUSAT",
+  "kecamatan": "SENEN",
+  "kelurahan": "SENEN",
+  "nama_halte": "SENEN SENTRAL",
+  "lokasi": "JALAN KRAMAT RAYA",
+  "koordinat_x": "-6.178.287",
+  "koordinat_y": "106.841.973"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA ADM. JAKARTA SELATAN",
+  "kecamatan": "KEBAYORAN LAMA",
+  "kelurahan": "CIPULIR",
+  "nama_halte": "SESKOAL",
+  "lokasi": "JALAN CILEDUG RAYA",
+  "koordinat_x": "-6.238.064",
+  "koordinat_y": "106.771.205"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA ADM. JAKARTA SELATAN",
+  "kecamatan": "SETIABUDI",
+  "kelurahan": "SETIA BUDI",
+  "nama_halte": "SETIABUDI",
+  "lokasi": "JALAN HAJJAH R. RASUNA SAID",
+  "koordinat_x": "-6.209.189",
+  "koordinat_y": "106.830.237"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA ADM. JAKARTA SELATAN",
+  "kecamatan": "KEBAYORAN LAMA",
+  "kelurahan": "GROGOL SELATAN",
+  "nama_halte": "SIMPRUG",
+  "lokasi": "JALAN TEUKU NYAK ARIEF",
+  "koordinat_x": "-6.233.935",
+  "koordinat_y": "106.786.471"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA ADM. JAKARTA TIMUR",
+  "kecamatan": "MATRAMAN",
+  "kelurahan": "PALMERIAM",
+  "nama_halte": "KESATRIAN",
+  "lokasi": "JALAN MATRAMAN",
+  "koordinat_x": "-6.208.533",
+  "koordinat_y": "106.859.289"
+ },
+ {
+  "periode_data": 2025,
+  "wilayah": "KOTA ADM. JAKARTA PUSAT",
+  "kecamatan": "TANAH ABANG",
+  "kelurahan": "GELORA",
+  "nama_halte": "GERBANG PEMUDA ARAH BARAT",
+  "lokasi": "JALAN JENDERAL GATOT SUBROTO",
+  "koordinat_x": "-6.213.906",
+  "koordinat_y": "106.808.407"
+ }
+]

@@ -1,0 +1,7 @@
+@import "tailwindcss";
+body {
+  margin: 0;
+  font-family: "Plus Jakarta Sans", sans-serif;
+  font-optical-sizing: auto;
+  overflow-x: hidden;
+}

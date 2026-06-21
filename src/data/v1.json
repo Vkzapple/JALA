@@ -1,0 +1,992 @@
+[
+  {
+    "periode_data": "2025",
+    "kategori": "ANGKUTAN UMUM INTEGRASI",
+    "kode": "8M",
+    "jurusan": "TANJUNG DUREN - TANAH ABANG"
+  },
+  {
+    "periode_data": "2025",
+    "kategori": "ANGKUTAN UMUM INTEGRASI",
+    "kode": "8N",
+    "jurusan": "KEBAYORAN - PETAMBURAN VIA ASIA AFRIKA"
+  },
+  {
+    "periode_data": "2025",
+    "kategori": "ANGKUTAN UMUM INTEGRASI",
+    "kode": "9D",
+    "jurusan": "PASAR MINGGU - TANAH ABANG"
+  },
+  {
+    "periode_data": "2025",
+    "kategori": "ANGKUTAN UMUM INTEGRASI",
+    "kode": "9E",
+    "jurusan": "KEBAYORAN LAMA - JELAMBAR"
+  },
+  {
+    "periode_data": "2025",
+    "kategori": "ANGKUTAN UMUM INTEGRASI",
+    "kode": "9H",
+    "jurusan": "CIPEDAK - PASAR MINGGU"
+  },
+  {
+    "periode_data": "2025",
+    "kategori": "ANGKUTAN UMUM INTEGRASI",
+    "kode": "10C",
+    "jurusan": "PELABUHAN TANJUNG PRIOK - TANJUNG PRIOK"
+  },
+  {
+    "periode_data": "2025",
+    "kategori": "ANGKUTAN UMUM INTEGRASI",
+    "kode": "11D",
+    "jurusan": "PULO GEBANG - PULO GADUNG VIA PIK"
+  },
+  {
+    "periode_data": "2025",
+    "kategori": "ANGKUTAN UMUM INTEGRASI",
+    "kode": "11Q",
+    "jurusan": "KAMPUNG MELAYU - PULO GEBANG VIA BKT"
+  },
+  {
+    "periode_data": "2025",
+    "kategori": "ANGKUTAN UMUM INTEGRASI",
+    "kode": "11W",
+    "jurusan": "ST. KLENDER - PULO GADUNG VIA JIEP"
+  },
+  {
+    "periode_data": "2025",
+    "kategori": "ANGKUTAN UMUM INTEGRASI",
+    "kode": "12A",
+    "jurusan": "PELABUHAN KALIADEM - KOTA"
+  },
+  {
+    "periode_data": "2025",
+    "kategori": "ANGKUTAN UMUM INTEGRASI",
+    "kode": "12B",
+    "jurusan": "PLUIT - SENEN"
+  },
+  {
+    "periode_data": "2025",
+    "kategori": "ANGKUTAN UMUM INTEGRASI",
+    "kode": "12P",
+    "jurusan": "ST. LRT PEGANGSAAN DUA - JIS"
+  },
+  {
+    "periode_data": "2025",
+    "kategori": "ANGKUTAN UMUM INTEGRASI",
+    "kode": "14A",
+    "jurusan": "JUANDA - JAKARTA INTERNATIONAL STADIUM"
+  },
+  {
+    "periode_data": "2025",
+    "kategori": "ANGKUTAN UMUM INTEGRASI",
+    "kode": "14B",
+    "jurusan": "TANJUNG PRIOK - SENEN VIA JIS"
+  },
+  {
+    "periode_data": "2025",
+    "kategori": "ANGKUTAN UMUM INTEGRASI",
+    "kode": "21ST",
+    "jurusan": "SHUTTLE SENEN"
+  },
+  {
+    "periode_data": "2025",
+    "kategori": "MIKROTRANS",
+    "kode": "JAK.25",
+    "jurusan": "KAMPUNG RAMBUTAN - KALISARI"
+  },
+  {
+    "periode_data": "2025",
+    "kategori": "MIKROTRANS",
+    "kode": "JAK.26",
+    "jurusan": "RAWAMANGUN - DUREN SAWIT"
+  },
+  {
+    "periode_data": "2025",
+    "kategori": "MIKROTRANS",
+    "kode": "JAK.27",
+    "jurusan": "PULO GEBANG - ROROTAN"
+  },
+  {
+    "periode_data": "2025",
+    "kategori": "MIKROTRANS",
+    "kode": "JAK.28",
+    "jurusan": "PASAR REBO - ST. LRT HARJAMUKTI"
+  },
+  {
+    "periode_data": "2025",
+    "kategori": "MIKROTRANS",
+    "kode": "JAK.29",
+    "jurusan": "TANJUNG PRIOK - SUKAPURA"
+  },
+  {
+    "periode_data": "2025",
+    "kategori": "MIKROTRANS",
+    "kode": "JAK.30",
+    "jurusan": "GROGOL - MERUYA VIA ROXY"
+  },
+  {
+    "periode_data": "2025",
+    "kategori": "MIKROTRANS",
+    "kode": "JAK.31",
+    "jurusan": "BLOK M - ANDARA"
+  },
+  {
+    "periode_data": "2025",
+    "kategori": "MIKROTRANS",
+    "kode": "JAK.32",
+    "jurusan": "LEBAK BULUS - PETUKANGAN"
+  },
+  {
+    "periode_data": "2025",
+    "kategori": "MIKROTRANS",
+    "kode": "JAK.33",
+    "jurusan": "PULO GADUNG - KOTA"
+  },
+  {
+    "periode_data": "2025",
+    "kategori": "MIKROTRANS",
+    "kode": "JAK.34",
+    "jurusan": "RAWAMANGUN - KLENDER"
+  },
+  {
+    "periode_data": "2025",
+    "kategori": "MIKROTRANS",
+    "kode": "JAK.35",
+    "jurusan": "PANGKALAN JATI - RAWAMANGUN"
+  },
+  {
+    "periode_data": "2025",
+    "kategori": "MIKROTRANS",
+    "kode": "JAK.36",
+    "jurusan": "CILANGKAP - CILILITAN"
+  },
+  {
+    "periode_data": "2025",
+    "kategori": "MIKROTRANS",
+    "kode": "JAK.37",
+    "jurusan": "CILILITAN - CONDET VIA KAYU MANIS"
+  },
+  {
+    "periode_data": "2025",
+    "kategori": "MIKROTRANS",
+    "kode": "JAK.38",
+    "jurusan": "BULAK RINGIN - KAMPUNG RAMBUTAN"
+  },
+  {
+    "periode_data": "2025",
+    "kategori": "MIKROTRANS",
+    "kode": "JAK.39",
+    "jurusan": "KALIMALANG - DUREN SAWIT"
+  },
+  {
+    "periode_data": "2025",
+    "kategori": "MIKROTRANS",
+    "kode": "JAK.40",
+    "jurusan": "HARAPAN BARU - PULO GEBANG VIA RAWA KUNING"
+  },
+  {
+    "periode_data": "2025",
+    "kategori": "MIKROTRANS",
+    "kode": "JAK.41",
+    "jurusan": "KAMPUNG MELAYU - PULO GADUNG"
+  },
+  {
+    "periode_data": "2025",
+    "kategori": "MIKROTRANS",
+    "kode": "JAK.42",
+    "jurusan": "KAMPUNG MELAYU - PONDOK KELAPA"
+  },
+  {
+    "periode_data": "2025",
+    "kategori": "MIKROTRANS",
+    "kode": "JAK.43B",
+    "jurusan": "TONGTEK - TEBET ECO PARK (TEP) - CILILITAN"
+  },
+  {
+    "periode_data": "2025",
+    "kategori": "MIKROTRANS",
+    "kode": "JAK.43C",
+    "jurusan": "SARANA JAYA - TEBET ECO PARK (TEP) - STASIUN CAWANG"
+  },
+  {
+    "periode_data": "2025",
+    "kategori": "MIKROTRANS",
+    "kode": "JAK.44",
+    "jurusan": "ANDARA - STASIUN UNIVERSITAS PANCASILA"
+  },
+  {
+    "periode_data": "2025",
+    "kategori": "MIKROTRANS",
+    "kode": "JAK.45",
+    "jurusan": "LEBAK BULUS - RAGUNAN"
+  },
+  {
+    "periode_data": "2025",
+    "kategori": "MIKROTRANS",
+    "kode": "JAK.46",
+    "jurusan": "PASAR MINGGU - JAGAKARSA"
+  },
+  {
+    "periode_data": "2025",
+    "kategori": "MIKROTRANS",
+    "kode": "JAK.47",
+    "jurusan": "PASAR MINGGU - CIGANJUR VIA KB RAGUNAN"
+  },
+  {
+    "periode_data": "2025",
+    "kategori": "MIKROTRANS",
+    "kode": "JAK.48A",
+    "jurusan": "STASIUN TEBET - KARET"
+  },
+  {
+    "periode_data": "2025",
+    "kategori": "MIKROTRANS",
+    "kode": "JAK.49",
+    "jurusan": "LEBAK BULUS - CIPULIR"
+  },
+  {
+    "periode_data": "2025",
+    "kategori": "MIKROTRANS",
+    "kode": "JAK.50",
+    "jurusan": "KALIDERES - PURI KEMBANGAN"
+  },
+  {
+    "periode_data": "2025",
+    "kategori": "MIKROTRANS",
+    "kode": "JAK.51",
+    "jurusan": "TAMAN KOTA - BUDI LUHUR"
+  },
+  {
+    "periode_data": "2025",
+    "kategori": "MIKROTRANS",
+    "kode": "JAK.52",
+    "jurusan": "KALIDERES - MUARA ANGKE"
+  },
+  {
+    "periode_data": "2025",
+    "kategori": "MIKROTRANS",
+    "kode": "JAK.53",
+    "jurusan": "GROGOL - POS PENGUMBEN VIA SLIPI"
+  },
+  {
+    "periode_data": "2025",
+    "kategori": "MIKROTRANS",
+    "kode": "JAK.54",
+    "jurusan": "GROGOL - BENHIL"
+  },
+  {
+    "periode_data": "2025",
+    "kategori": "MIKROTRANS",
+    "kode": "JAK.56",
+    "jurusan": "GROGOL - SRENGSENG"
+  },
+  {
+    "periode_data": "2025",
+    "kategori": "MIKROTRANS",
+    "kode": "JAK.58",
+    "jurusan": "CILINCING - ROROTAN"
+  },
+  {
+    "periode_data": "2025",
+    "kategori": "MIKROTRANS",
+    "kode": "JAK.59",
+    "jurusan": "RAWAMANGUN - TANAH MERAH"
+  },
+  {
+    "periode_data": "2025",
+    "kategori": "MIKROTRANS",
+    "kode": "JAK.60",
+    "jurusan": "KELAPA GADING - RUSUN KEMAYORAN"
+  },
+  {
+    "periode_data": "2025",
+    "kategori": "MIKROTRANS",
+    "kode": "JAK.61",
+    "jurusan": "CEMPAKA PUTIH - PULO GADUNG VIA KELAPA GADING"
+  },
+  {
+    "periode_data": "2025",
+    "kategori": "MIKROTRANS",
+    "kode": "JAK.64",
+    "jurusan": "LENTENG AGUNG - ASELI"
+  },
+  {
+    "periode_data": "2025",
+    "kategori": "MIKROTRANS",
+    "kode": "JAK.71",
+    "jurusan": "KAMPUNG RAMBUTAN - PINANG RANTI"
+  },
+  {
+    "periode_data": "2025",
+    "kategori": "MIKROTRANS",
+    "kode": "JAK.72",
+    "jurusan": "KAMPUNG RAMBUTAN - PASAR REBO VIA PONCOL"
+  },
+  {
+    "periode_data": "2025",
+    "kategori": "MIKROTRANS",
+    "kode": "JAK.73",
+    "jurusan": "ST. LRT HARJAMUKTI - KRAMAT JATI"
+  },
+  {
+    "periode_data": "2025",
+    "kategori": "MIKROTRANS",
+    "kode": "JAK.74",
+    "jurusan": "TERMINAL RAWAMANGUN - CIPINANG MUARA"
+  },
+  {
+    "periode_data": "2025",
+    "kategori": "MIKROTRANS",
+    "kode": "JAK.75",
+    "jurusan": "CILILITAN - KAMPUNG PULO"
+  },
+  {
+    "periode_data": "2025",
+    "kategori": "MIKROTRANS",
+    "kode": "JAK.76",
+    "jurusan": "JLN. INDUSTRI RAYA - PERINTIS KEMERDEKAAN"
+  },
+  {
+    "periode_data": "2025",
+    "kategori": "MIKROTRANS",
+    "kode": "JAK.77",
+    "jurusan": "TANJUNG PRIOK - JEMBATAN ITEM"
+  },
+  {
+    "periode_data": "2025",
+    "kategori": "MIKROTRANS",
+    "kode": "JAK.78A",
+    "jurusan": "BENDA - CENGKARENG TIMUR"
+  },
+  {
+    "periode_data": "2025",
+    "kategori": "MIKROTRANS",
+    "kode": "JAK.78B",
+    "jurusan": "JEMBATAN TIGA - TELUK GONG"
+  },
+  {
+    "periode_data": "2025",
+    "kategori": "MIKROTRANS",
+    "kode": "JAK.79",
+    "jurusan": "CENGKARENG - TUBAGUS ANGKE"
+  },
+  {
+    "periode_data": "2025",
+    "kategori": "MIKROTRANS",
+    "kode": "JAK.80",
+    "jurusan": "RAWA BUAYA - RAWA KOMPENI"
+  },
+  {
+    "periode_data": "2025",
+    "kategori": "MIKROTRANS",
+    "kode": "JAK.84",
+    "jurusan": "TERMINAL KAMPUNG MELAYU - KAPIN RAYA"
+  },
+  {
+    "periode_data": "2025",
+    "kategori": "MIKROTRANS",
+    "kode": "JAK.85",
+    "jurusan": "BINTARA - CIPINANG INDAH"
+  },
+  {
+    "periode_data": "2025",
+    "kategori": "MIKROTRANS",
+    "kode": "JAK.86",
+    "jurusan": "TERM. RAWAMANGUN - TERM. MANGGARAI"
+  },
+  {
+    "periode_data": "2025",
+    "kategori": "MIKROTRANS",
+    "kode": "JAK.87",
+    "jurusan": "TERMINAL TANJUNG PRIOK - TERMINAL RAWAMANGUN"
+  },
+  {
+    "periode_data": "2025",
+    "kategori": "MIKROTRANS",
+    "kode": "JAK.88",
+    "jurusan": "TERMINAL TANJUNG PRIOK - ANCOL BARAT"
+  },
+  {
+    "periode_data": "2025",
+    "kategori": "MIKROTRANS",
+    "kode": "JAK.89",
+    "jurusan": "TERMINAL TANJUNG PRIOK - TAMAN KOTA INTAN"
+  },
+  {
+    "periode_data": "2025",
+    "kategori": "MIKROTRANS",
+    "kode": "JAK.90",
+    "jurusan": "TERMINAL TANJUNG PRIOK - RUSUN KEMAYORAN"
+  },
+  {
+    "periode_data": "2025",
+    "kategori": "MIKROTRANS",
+    "kode": "JAK.93",
+    "jurusan": "JERUK PURUT - KEBAYORAN LAMA"
+  },
+  {
+    "periode_data": "2025",
+    "kategori": "MIKROTRANS",
+    "kode": "JAK.95",
+    "jurusan": "TERM. LEBAK BULUS - TERM. PASAR MINGGU"
+  },
+  {
+    "periode_data": "2025",
+    "kategori": "MIKROTRANS",
+    "kode": "JAK.98",
+    "jurusan": "TERM. KAMPUNG RAMBUTAN - MUNJUL"
+  },
+  {
+    "periode_data": "2025",
+    "kategori": "MIKROTRANS",
+    "kode": "JAK.99",
+    "jurusan": "TERM. PULO GADUNG - LAMPIRI"
+  },
+  {
+    "periode_data": "2025",
+    "kategori": "MIKROTRANS",
+    "kode": "JAK.100",
+    "jurusan": "TERM. PULO GEBANG - RUSUN PINUS ELOK"
+  },
+  {
+    "periode_data": "2025",
+    "kategori": "MIKROTRANS",
+    "kode": "JAK.102",
+    "jurusan": "BLOK M - LEBAK BULUS"
+  },
+  {
+    "periode_data": "2025",
+    "kategori": "MIKROTRANS",
+    "kode": "JAK.105",
+    "jurusan": "STASIUN TEBET - RUSUN CIPINANG MUARA"
+  },
+  {
+    "periode_data": "2025",
+    "kategori": "MIKROTRANS",
+    "kode": "JAK.106",
+    "jurusan": "TERM. KAMPUNG MELAYU - TERM. KLENDER"
+  },
+  {
+    "periode_data": "2025",
+    "kategori": "MIKROTRANS",
+    "kode": "JAK.107",
+    "jurusan": "PURI BETA - JEMBATAN GARDEN"
+  },
+  {
+    "periode_data": "2025",
+    "kategori": "MIKROTRANS",
+    "kode": "JAK.108",
+    "jurusan": "KRAMAT JATI - BAMBU APUS"
+  },
+  {
+    "periode_data": "2025",
+    "kategori": "MIKROTRANS",
+    "kode": "JAK.110A",
+    "jurusan": "RUSUN MARUNDA - TERMINAL TERPADU PULO GEBANG"
+  },
+  {
+    "periode_data": "2025",
+    "kategori": "MIKROTRANS",
+    "kode": "JAK.112",
+    "jurusan": "TERMINAL TANAH MERAH - PULO GADUNG"
+  },
+  {
+    "periode_data": "2025",
+    "kategori": "MIKROTRANS",
+    "kode": "JAK.113",
+    "jurusan": "RUSUN SINDANG KOJA - KAMPUNG SAWAH"
+  },
+  {
+    "periode_data": "2025",
+    "kategori": "MIKROTRANS",
+    "kode": "JAK.115",
+    "jurusan": "TERM. TJ. PRIOK - PEGANGSAAN II IGI"
+  },
+  {
+    "periode_data": "2025",
+    "kategori": "MIKROTRANS",
+    "kode": "JAK.117",
+    "jurusan": "TANJUNG PRIOK - TANAH MERDEKA"
+  },
+  {
+    "periode_data": "2025",
+    "kategori": "MIKROTRANS",
+    "kode": "JAK.118",
+    "jurusan": "TAMAN WADUK PAPANGGO - KOTA TUA"
+  },
+  {
+    "periode_data": "2025",
+    "kategori": "MIKROTRANS",
+    "kode": "JAK.120",
+    "jurusan": "JIS - TERM. MUARA ANGKE"
+  },
+  {
+    "periode_data": "2025",
+    "kategori": "MIKROTRANS",
+    "kode": "JAK.01",
+    "jurusan": "TANJUNG PRIOK - PLUMPANG"
+  },
+  {
+    "periode_data": "2025",
+    "kategori": "MIKROTRANS",
+    "kode": "JAK.02",
+    "jurusan": "KAMPUNG MELAYU - DUREN SAWIT"
+  },
+  {
+    "periode_data": "2025",
+    "kategori": "MIKROTRANS",
+    "kode": "JAK.03",
+    "jurusan": "LEBAK BULUS - ANDARA"
+  },
+  {
+    "periode_data": "2025",
+    "kategori": "MIKROTRANS",
+    "kode": "JAK.04",
+    "jurusan": "GROGOL - TUBAGUS ANGKE"
+  },
+  {
+    "periode_data": "2025",
+    "kategori": "MIKROTRANS",
+    "kode": "JAK.05",
+    "jurusan": "SEMPER - ROROTAN"
+  },
+  {
+    "periode_data": "2025",
+    "kategori": "MIKROTRANS",
+    "kode": "JAK.06",
+    "jurusan": "KAMPUNG RAMBUTAN - PONDOK GEDE"
+  },
+  {
+    "periode_data": "2025",
+    "kategori": "MIKROTRANS",
+    "kode": "JAK.07",
+    "jurusan": "TANAH ABANG - GROGOL VIA TAWAKAL"
+  },
+  {
+    "periode_data": "2025",
+    "kategori": "MIKROTRANS",
+    "kode": "JAK.08",
+    "jurusan": "ROXY - BENHIL"
+  },
+  {
+    "periode_data": "2025",
+    "kategori": "MIKROTRANS",
+    "kode": "JAK.09",
+    "jurusan": "ROXY MAS - KARET"
+  },
+  {
+    "periode_data": "2025",
+    "kategori": "MIKROTRANS",
+    "kode": "JAK.10",
+    "jurusan": "TANAH ABANG - KOTA"
+  },
+  {
+    "periode_data": "2025",
+    "kategori": "MIKROTRANS",
+    "kode": "JAK.10A",
+    "jurusan": "GONDANGDIA - CIKINI VIA SALEMBA RAYA"
+  },
+  {
+    "periode_data": "2025",
+    "kategori": "MIKROTRANS",
+    "kode": "JAK.10B",
+    "jurusan": "GONDANGDIA - CIKINI VIA KRAMAT RAYA"
+  },
+  {
+    "periode_data": "2025",
+    "kategori": "MIKROTRANS",
+    "kode": "JAK.11",
+    "jurusan": "TANAH ABANG - KEBAYORAN LAMA"
+  },
+  {
+    "periode_data": "2025",
+    "kategori": "MIKROTRANS",
+    "kode": "JAK.12",
+    "jurusan": "TANAH ABANG - KEBAYORAN LAMA VIA POS PENGUMBEN"
+  },
+  {
+    "periode_data": "2025",
+    "kategori": "MIKROTRANS",
+    "kode": "JAK.13",
+    "jurusan": "TANAH ABANG - JEMBATAN LIMA"
+  },
+  {
+    "periode_data": "2025",
+    "kategori": "MIKROTRANS",
+    "kode": "JAK.14",
+    "jurusan": "TANAH ABANG - MERUYA"
+  },
+  {
+    "periode_data": "2025",
+    "kategori": "MIKROTRANS",
+    "kode": "JAK.15",
+    "jurusan": "TERMINAL TANJUNG PRIOK - RUSUN MARUNDA"
+  },
+  {
+    "periode_data": "2025",
+    "kategori": "MIKROTRANS",
+    "kode": "JAK.16",
+    "jurusan": "CILILITAN - CONDET"
+  },
+  {
+    "periode_data": "2025",
+    "kategori": "MIKROTRANS",
+    "kode": "JAK.17",
+    "jurusan": "SENEN - PULO GADUNG"
+  },
+  {
+    "periode_data": "2025",
+    "kategori": "MIKROTRANS",
+    "kode": "JAK.18",
+    "jurusan": "KALIBATA - KUNINGAN"
+  },
+  {
+    "periode_data": "2025",
+    "kategori": "MIKROTRANS",
+    "kode": "JAK.19",
+    "jurusan": "PINANG RANTI - KAMPUNG RAMBUTAN"
+  },
+  {
+    "periode_data": "2025",
+    "kategori": "MIKROTRANS",
+    "kode": "JAK.20",
+    "jurusan": "CAWANG SENTRAL - LUBANG BUAYA"
+  },
+  {
+    "periode_data": "2025",
+    "kategori": "MIKROTRANS",
+    "kode": "JAK.21",
+    "jurusan": "CILILITAN - DWIKORA"
+  },
+  {
+    "periode_data": "2025",
+    "kategori": "MIKROTRANS",
+    "kode": "JAK.22",
+    "jurusan": "DWIKORA - HALIM"
+  },
+  {
+    "periode_data": "2025",
+    "kategori": "MIKROTRANS",
+    "kode": "JAK.23",
+    "jurusan": "SENEN - PISANGAN BARU"
+  },
+  {
+    "periode_data": "2025",
+    "kategori": "MIKROTRANS",
+    "kode": "JAK.24",
+    "jurusan": "SENEN - PULO GADUNG VIA KELAPA GADING"
+  },
+  {
+    "periode_data": "2025",
+    "kategori": "ANGKUTAN UMUM INTEGRASI",
+    "kode": "1A",
+    "jurusan": "PANTAI MAJU - BALAI KOTA"
+  },
+  {
+    "periode_data": "2025",
+    "kategori": "ANGKUTAN UMUM INTEGRASI",
+    "kode": "1B",
+    "jurusan": "STASIUN PALMERAH - TRANSPORT HUB DUKUH ATAS"
+  },
+  {
+    "periode_data": "2025",
+    "kategori": "ANGKUTAN UMUM INTEGRASI",
+    "kode": "1C",
+    "jurusan": "PESANGGRAHAN - BLOK M"
+  },
+  {
+    "periode_data": "2025",
+    "kategori": "ANGKUTAN UMUM INTEGRASI",
+    "kode": "1E",
+    "jurusan": "PONDOK LABU - BLOK M"
+  },
+  {
+    "periode_data": "2025",
+    "kategori": "ANGKUTAN UMUM INTEGRASI",
+    "kode": "1F",
+    "jurusan": "STASIUN PALMERAH - BUNDARAN SENAYAN"
+  },
+  {
+    "periode_data": "2025",
+    "kategori": "ANGKUTAN UMUM INTEGRASI",
+    "kode": "1H",
+    "jurusan": "TANAH ABANG - STASIUN GONDANGDIA"
+  },
+  {
+    "periode_data": "2025",
+    "kategori": "ANGKUTAN UMUM INTEGRASI",
+    "kode": "1M",
+    "jurusan": "MERUYA - BLOK M"
+  },
+  {
+    "periode_data": "2025",
+    "kategori": "ANGKUTAN UMUM INTEGRASI",
+    "kode": "1N",
+    "jurusan": "TANAH ABANG - BLOK M"
+  },
+  {
+    "periode_data": "2025",
+    "kategori": "ANGKUTAN UMUM INTEGRASI",
+    "kode": "1P",
+    "jurusan": "SENEN - BLOK M"
+  },
+  {
+    "periode_data": "2025",
+    "kategori": "ANGKUTAN UMUM INTEGRASI",
+    "kode": "1Q",
+    "jurusan": "REMPOA - BLOK M"
+  },
+  {
+    "periode_data": "2025",
+    "kategori": "ANGKUTAN UMUM INTEGRASI",
+    "kode": "1R",
+    "jurusan": "SENEN - TANAH ABANG"
+  },
+  {
+    "periode_data": "2025",
+    "kategori": "ANGKUTAN UMUM INTEGRASI",
+    "kode": "1W",
+    "jurusan": "BLOK M - ANCOL"
+  },
+  {
+    "periode_data": "2025",
+    "kategori": "ANGKUTAN UMUM INTEGRASI",
+    "kode": "2B",
+    "jurusan": "HARAPAN INDAH - PULO GADUNG"
+  },
+  {
+    "periode_data": "2025",
+    "kategori": "ANGKUTAN UMUM INTEGRASI",
+    "kode": "2M",
+    "jurusan": "PULO GADUNG - KOTA VIA KEMAYORAN"
+  },
+  {
+    "periode_data": "2025",
+    "kategori": "ANGKUTAN UMUM INTEGRASI",
+    "kode": "2P",
+    "jurusan": "SENEN - TRANSPORT HUB DUKUH ATAS"
+  },
+  {
+    "periode_data": "2025",
+    "kategori": "ANGKUTAN UMUM INTEGRASI",
+    "kode": "2Q",
+    "jurusan": "GONDANGDIA - BALAI KOTA"
+  },
+  {
+    "periode_data": "2025",
+    "kategori": "ANGKUTAN UMUM INTEGRASI",
+    "kode": "3D",
+    "jurusan": "TAMAN KOTA - PENJARINGAN VIA TUBAGUS ANGKE"
+  },
+  {
+    "periode_data": "2025",
+    "kategori": "ANGKUTAN UMUM INTEGRASI",
+    "kode": "3E",
+    "jurusan": "PURI KEMBANGAN - SENTRALAND CENGKARENG"
+  },
+  {
+    "periode_data": "2025",
+    "kategori": "ANGKUTAN UMUM INTEGRASI",
+    "kode": "4B",
+    "jurusan": "STASIUN MANGGARAI - UI"
+  },
+  {
+    "periode_data": "2025",
+    "kategori": "ANGKUTAN UMUM INTEGRASI",
+    "kode": "4C",
+    "jurusan": "PEMUDA MERDEKA - BUNDARAN SENAYAN"
+  },
+  {
+    "periode_data": "2025",
+    "kategori": "ANGKUTAN UMUM INTEGRASI",
+    "kode": "4F",
+    "jurusan": "PINANG RANTI - PULO GADUNG"
+  },
+  {
+    "periode_data": "2025",
+    "kategori": "ANGKUTAN UMUM INTEGRASI",
+    "kode": "4K",
+    "jurusan": "PULO GADUNG - KEJAKSAAN AGUNG"
+  },
+  {
+    "periode_data": "2025",
+    "kategori": "ANGKUTAN UMUM INTEGRASI",
+    "kode": "5B",
+    "jurusan": "STASIUN TEBET - BIDARA CINA"
+  },
+  {
+    "periode_data": "2025",
+    "kategori": "ANGKUTAN UMUM INTEGRASI",
+    "kode": "5F",
+    "jurusan": "KAMPUNG MELAYU - TANAH ABANG"
+  },
+  {
+    "periode_data": "2025",
+    "kategori": "ANGKUTAN UMUM INTEGRASI",
+    "kode": "5M",
+    "jurusan": "KAMPUNG MELAYU - TANAH ABANG VIA CIKINI"
+  },
+  {
+    "periode_data": "2025",
+    "kategori": "ANGKUTAN UMUM INTEGRASI",
+    "kode": "5N",
+    "jurusan": "KAMPUNG MELAYU - RAGUNAN"
+  },
+  {
+    "periode_data": "2025",
+    "kategori": "ANGKUTAN UMUM INTEGRASI",
+    "kode": "6C",
+    "jurusan": "STASIUN TEBET - KUNINGAN"
+  },
+  {
+    "periode_data": "2025",
+    "kategori": "ANGKUTAN UMUM INTEGRASI",
+    "kode": "6D",
+    "jurusan": "STASIUN TEBET - BUNDARAN SENAYAN"
+  },
+  {
+    "periode_data": "2025",
+    "kategori": "ANGKUTAN UMUM INTEGRASI",
+    "kode": "6H",
+    "jurusan": "SENEN - LEBAK BULUS"
+  },
+  {
+    "periode_data": "2025",
+    "kategori": "ANGKUTAN UMUM INTEGRASI",
+    "kode": "6K",
+    "jurusan": "KUNINGAN - KARET"
+  },
+  {
+    "periode_data": "2025",
+    "kategori": "ANGKUTAN UMUM INTEGRASI",
+    "kode": "6M",
+    "jurusan": "STASIUN MANGGARAI - BLOK M"
+  },
+  {
+    "periode_data": "2025",
+    "kategori": "ANGKUTAN UMUM INTEGRASI",
+    "kode": "6N",
+    "jurusan": "RAGUNAN - BLOK M VIA KEMANG"
+  },
+  {
+    "periode_data": "2025",
+    "kategori": "ANGKUTAN UMUM INTEGRASI",
+    "kode": "6Q",
+    "jurusan": "GALUNGGUNG - CASABLANCA VIA EPICENTRUM RAYA"
+  },
+  {
+    "periode_data": "2025",
+    "kategori": "ANGKUTAN UMUM INTEGRASI",
+    "kode": "6T",
+    "jurusan": "PASAR MINGGU - VELBAK VIA JERUK PURUT"
+  },
+  {
+    "periode_data": "2025",
+    "kategori": "ANGKUTAN UMUM INTEGRASI",
+    "kode": "6U",
+    "jurusan": "BLOK M - PASAR MINGGU"
+  },
+  {
+    "periode_data": "2025",
+    "kategori": "ANGKUTAN UMUM INTEGRASI",
+    "kode": "6W",
+    "jurusan": "DUREN TIGA - BLOK M VIA BANGKA RAYA"
+  },
+  {
+    "periode_data": "2025",
+    "kategori": "ANGKUTAN UMUM INTEGRASI",
+    "kode": "7A",
+    "jurusan": "KAMPUNG RAMBUTAN - LEBAK BULUS"
+  },
+  {
+    "periode_data": "2025",
+    "kategori": "ANGKUTAN UMUM INTEGRASI",
+    "kode": "7B",
+    "jurusan": "KAMPUNG RAMBUTAN - BLOK M"
+  },
+  {
+    "periode_data": "2025",
+    "kategori": "ANGKUTAN UMUM INTEGRASI",
+    "kode": "7C",
+    "jurusan": "CIBUBUR - CAWANG SENTRAL"
+  },
+  {
+    "periode_data": "2025",
+    "kategori": "ANGKUTAN UMUM INTEGRASI",
+    "kode": "7D",
+    "jurusan": "TMII - PANCORAN"
+  },
+  {
+    "periode_data": "2025",
+    "kategori": "ANGKUTAN UMUM INTEGRASI",
+    "kode": "7E",
+    "jurusan": "KAMPUNG RAMBUTAN - RAGUNAN"
+  },
+  {
+    "periode_data": "2025",
+    "kategori": "ANGKUTAN UMUM INTEGRASI",
+    "kode": "7P",
+    "jurusan": "PONDOK KELAPA - CAWANG SENTRAL"
+  },
+  {
+    "periode_data": "2025",
+    "kategori": "ANGKUTAN UMUM INTEGRASI",
+    "kode": "7Q",
+    "jurusan": "BLOK M - PGC"
+  },
+  {
+    "periode_data": "2025",
+    "kategori": "ANGKUTAN UMUM INTEGRASI",
+    "kode": "7R",
+    "jurusan": "CIBUBUR - PLUIT"
+  },
+  {
+    "periode_data": "2025",
+    "kategori": "ANGKUTAN UMUM INTEGRASI",
+    "kode": "7T",
+    "jurusan": "CIBUBUR - TANJUNG PRIOK"
+  },
+  {
+    "periode_data": "2025",
+    "kategori": "ANGKUTAN UMUM INTEGRASI",
+    "kode": "7U",
+    "jurusan": "CIBUBUR - ANCOL"
+  },
+  {
+    "periode_data": "2025",
+    "kategori": "ANGKUTAN UMUM INTEGRASI",
+    "kode": "7V",
+    "jurusan": "CIBUBUR - KAMPUNG RAMBUTAN"
+  },
+  {
+    "periode_data": "2025",
+    "kategori": "ANGKUTAN UMUM INTEGRASI",
+    "kode": "7W",
+    "jurusan": "CAWANG - ST. KERETA CEPAT HALIM"
+  },
+  {
+    "periode_data": "2025",
+    "kategori": "ANGKUTAN UMUM INTEGRASI",
+    "kode": "8C",
+    "jurusan": "KEBAYORAN - TANAH ABANG"
+  },
+  {
+    "periode_data": "2025",
+    "kategori": "ANGKUTAN UMUM INTEGRASI",
+    "kode": "8D",
+    "jurusan": "JOGLO - BLOK M"
+  },
+  {
+    "periode_data": "2025",
+    "kategori": "ANGKUTAN UMUM INTEGRASI",
+    "kode": "8E",
+    "jurusan": "BINTARO - BLOK M"
+  },
+  {
+    "periode_data": "2025",
+    "kategori": "ANGKUTAN UMUM INTEGRASI",
+    "kode": "8K",
+    "jurusan": "BATUSARI - GROGOL"
+  }
+]
