@@ -1,5 +1,5 @@
 import Navbar from "../components/Navbar"
-import MainFeature from "../components/ui/MainFeature"
+import MainFeature from "../components/feature/MainFeature"
 
 const Home = () => {
     return (

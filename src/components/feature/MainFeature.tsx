@@ -28,7 +28,6 @@ const MainFeature = () => {
 
     const handleData = (data: Data, a: HalteProps, b: HalteProps, c: PenumpangProps) => {
         setData(data)
-        console.log(a, b)
         setHalteAwal(a)
         setHalteAkhir(b)
         setPassenger(c)
