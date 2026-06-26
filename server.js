@@ -1,25 +1,3 @@
-/*
- * JALA - Backend Server (Penghubung ESP32 <-> Web App React)
- * -------------------------------------------------------------
- * Fungsi:
- *   1. Menerima trigger "ada penumpang" dari ESP32 via POST /api/trigger
- *   2. Menyimpan status tiap halte di memory (sementara, belum pakai DB)
- *   3. Auto-reset status ke "tidak ada penumpang" setelah beberapa detik
- *   4. Web app React polling GET /api/status untuk update dashboard
- *
- * Cara jalanin:
- *   1. npm init -y
- *   2. npm install express cors
- *   3. node server.js
- *   4. Server jalan di http://localhost:3000 (atau IP laptop kamu di
- *      jaringan WiFi yang sama, supaya ESP32 bisa akses)
- *
- * Cara cari IP laptop kamu (biar ESP32 bisa connect):
- *   - Windows: jalankan "ipconfig" di cmd, cari "IPv4 Address"
- *   - Mac/Linux: jalankan "ifconfig" atau "ip addr"
- *   Pastikan laptop & ESP32 konek ke WiFi yang SAMA.
- */
-
 const express = require("express");
 const cors = require("cors");
 
