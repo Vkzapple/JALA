@@ -8,6 +8,7 @@ import { Badge } from '../ui/badge'
 import { useEffect, useRef, useState } from 'react'
 import axios from 'axios'
 import { countZoomValue, fetchRoutes, formatDistance, formatDuration, type RouteData } from '@/api/routemap';
+import { useStatusPenumpang, cekAdaPenumpang } from '@/api/routePenumpang';
 
 interface MapProps {
     tujuan: HalteProps
@@ -27,11 +28,17 @@ const MapElement = ({ ruteAwal, ruteAkhir, tujuan, zoom }: MapProps) => {
     const [zoomDigital, setZoomDigital] = useState<number>()
     const cardRef = useRef<HTMLDivElement>(null)
 
+    // Polling status "ada penumpang" dari backend JALA (ESP32 -> server -> sini)
+    const statusPenumpang = useStatusPenumpang(3000); // refresh tiap 3 detik
+
     useEffect(() => {
         axios.get("/")
             .then(() => {
-                setAwal(ruteAwal)
-                setAkhir(ruteAkhir)
+                if (ruteAwal) {
+                    setAwal(ruteAwal)
+                } else if (ruteAkhir) {
+                    setAkhir(ruteAkhir)
+                }
                 setTarget(tujuan)
                 if (!zoom && ruteAwal && ruteAkhir) {
 
@@ -72,6 +79,10 @@ const MapElement = ({ ruteAwal, ruteAkhir, tujuan, zoom }: MapProps) => {
         dark: "https://tiles.openfreemap.org/styles/bright"
     }
 
+    // Cek status ada penumpang untuk masing-masing halte awal/akhir
+    const adaPenumpangAwal = cekAdaPenumpang(statusPenumpang, awal?.nama_halte);
+    const adaPenumpangAkhir = cekAdaPenumpang(statusPenumpang, akhir?.nama_halte);
+
     return (
         <Card className="w-full h-full p-0 overflow-hidden" ref={cardRef}>
             {target && (
@@ -101,12 +112,25 @@ const MapElement = ({ ruteAwal, ruteAkhir, tujuan, zoom }: MapProps) => {
                             longitude={akhir.koordinat_y}
                             latitude={akhir.koordinat_x}>
                             <MarkerContent>
-                                <Badge className=' bg-green-600'>
-                                    <BusFrontIcon className='h-36 w-36 text-neutral-100' />
-                                    <div className=" text-neutral-100">
-                                        {akhir.nama_halte}
-                                    </div>
-                                </Badge>
+                                <div className="relative">
+                                    {adaPenumpangAkhir && (
+                                        <span className="absolute -top-1 -right-1 flex h-3 w-3 z-10">
+                                            <span className="animate-ping absolute inline-flex h-full w-full rounded-full bg-orange-400 opacity-75"></span>
+                                            <span className="relative inline-flex rounded-full h-3 w-3 bg-orange-500"></span>
+                                        </span>
+                                    )}
+                                    <Badge className={`bg-green-600 ${adaPenumpangAkhir ? "ring-2 ring-orange-400 ring-offset-1" : ""}`}>
+                                        <BusFrontIcon className='h-36 w-36 text-neutral-100' />
+                                        <div className=" text-neutral-100">
+                                            {akhir.nama_halte}
+                                            {adaPenumpangAkhir && (
+                                                <span className="block text-[10px] font-semibold text-orange-200">
+                                                    Ada Penumpang
+                                                </span>
+                                            )}
+                                        </div>
+                                    </Badge>
+                                </div>
                             </MarkerContent>
                         </MapMarker>
                     )}
@@ -115,12 +139,25 @@ const MapElement = ({ ruteAwal, ruteAkhir, tujuan, zoom }: MapProps) => {
                             longitude={awal.koordinat_y}
                             latitude={awal.koordinat_x}>
                             <MarkerContent>
-                                <Badge className=' bg-red-600'>
-                                    <BusFrontIcon className='h-36 w-36 text-neutral-100' />
-                                    <div className=" text-neutral-100">
-                                        {awal.nama_halte}
-                                    </div>
-                                </Badge>
+                                <div className="relative">
+                                    {adaPenumpangAwal && (
+                                        <span className="absolute -top-1 -right-1 flex h-3 w-3 z-10">
+                                            <span className="animate-ping absolute inline-flex h-full w-full rounded-full bg-orange-400 opacity-75"></span>
+                                            <span className="relative inline-flex rounded-full h-3 w-3 bg-orange-500"></span>
+                                        </span>
+                                    )}
+                                    <Badge className={`bg-red-600 ${adaPenumpangAwal ? "ring-2 ring-orange-400 ring-offset-1" : ""}`}>
+                                        <BusFrontIcon className='h-36 w-36 text-neutral-100' />
+                                        <div className=" text-neutral-100">
+                                            {awal.nama_halte}
+                                            {adaPenumpangAwal && (
+                                                <span className="block text-[10px] font-semibold text-orange-200">
+                                                    Ada Penumpang
+                                                </span>
+                                            )}
+                                        </div>
+                                    </Badge>
+                                </div>
                             </MarkerContent>
                         </MapMarker>
                     )}
