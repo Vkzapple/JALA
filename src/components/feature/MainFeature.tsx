@@ -6,6 +6,8 @@ import type { HalteProps, PenumpangProps } from "../../api/routeHalte"
 import Routemap from "./Routemap"
 import Routeinfo from "./Routeinfo"
 import StatusElem from "./StatusElem"
+import AbsensiElem from "./AbsensiElem"
+import MulaiPerjalananElem from "./MulaiPerjalananElem"
 import { editTask, getTasks, type TaskProps } from "../../api/routeTask"
 import axios from "axios"
 
@@ -39,6 +41,8 @@ const MainFeature = () => {
         editTask(order + 1, "current")
     }
 
+    const currentTask = tasks?.find((t) => t.status === "current")
+
     return (
         <>
             <main className=" flex flex-col gap-8 items-center">
@@ -54,11 +58,26 @@ const MainFeature = () => {
                         <div>
                             <RoutesElem func={handleData} func2={handleUpBtn}/>
                             <Routeinfo halte_awal={halteAwal} halte_akhir={halteAkhir}/>
+
+                            {currentTask?.order === 3 && (
+                                <AbsensiElem
+                                    halteAwal={halteAwal}
+                                    onSukses={() => handleUpBtn(3)}
+                                />
+                            )}
                         </div>
                     </aside>
                     <Routemap data={data} halte_awal={halteAwal} halte_akhir={halteAkhir} passenger={passenger} func={handleUpBtn}/>
                 </section>
             </main>
+
+            {currentTask?.order === 4 && (
+                <MulaiPerjalananElem
+                    halteAwal={halteAwal}
+                    halteAkhir={halteAkhir}
+                    onSelesai={() => handleUpBtn(4)}
+                />
+            )}
         </>
     )
 }
