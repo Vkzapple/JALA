@@ -1,0 +1,19 @@
+
+export interface HalteProps {
+    periode_data: number;
+    wilayah:      string;
+    kecamatan:    string;
+    kelurahan:    string;
+    nama_halte:   string;
+    lokasi:       string;
+    koordinat_x:  number;
+    koordinat_y:  number;
+}
+
+export interface PenumpangProps {
+    periode_data:     number;
+    jenis:            string;
+    kode_trayek:      number | string;
+    trayek:           string;
+    jumlah_penumpang: number;
+}
