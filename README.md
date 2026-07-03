@@ -158,12 +158,6 @@ Sinyal Fisik → Data → AI → Keputusan → Aksi Fisik
 - **Manajemen Driver** — lihat status semua driver, assign rute manual.
 - **Alert Center** — log insiden terbaru.
 
-**Halaman Publik Warga — Cek JALA** — diakses siapa saja via browser (bisa scan QR di tiang halte):
-- Pilih nama halte dari dropdown (data resmi dari dataset Jakarta).
-- Status real-time: "Ada warga menunggu" (dari trigger sensor IoT).
-- Prediksi kepadatan AI (level RENDAH/SEDANG/TINGGI + estimasi jumlah orang).
-- Widget Chat JALA Assistant (chatbot yang menjawab berdasarkan data real sistem).
-
 ### 5.2 Backend — Node.js/Express
 
 File: `server.js`  
