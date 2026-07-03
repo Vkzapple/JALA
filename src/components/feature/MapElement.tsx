@@ -28,8 +28,7 @@ const MapElement = ({ ruteAwal, ruteAkhir, tujuan, zoom }: MapProps) => {
     const [zoomDigital, setZoomDigital] = useState<number>()
     const cardRef = useRef<HTMLDivElement>(null)
 
-    // Polling status "ada penumpang" dari backend JALA (ESP32 -> server -> sini)
-    const statusPenumpang = useStatusPenumpang(3000); // refresh tiap 3 detik
+    const statusPenumpang = useStatusPenumpang(3000); 
 
     useEffect(() => {
         axios.get("/")
@@ -79,7 +78,6 @@ const MapElement = ({ ruteAwal, ruteAkhir, tujuan, zoom }: MapProps) => {
         dark: "https://tiles.openfreemap.org/styles/bright"
     }
 
-    // Cek status ada penumpang untuk masing-masing halte awal/akhir
     const adaPenumpangAwal = cekAdaPenumpang(statusPenumpang, awal?.nama_halte);
     const adaPenumpangAkhir = cekAdaPenumpang(statusPenumpang, akhir?.nama_halte);
 

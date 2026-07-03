@@ -7,7 +7,7 @@ const Navbar = () => {
             <i className="bi bi-bus-front-fill me-4 text-blue-600 drop-shadow text-4xl"></i>
           </div>
           <div className=" flex flex-col">
-            <span className=" font-semibold text-blue-600">E-Halte-Support</span>
+            <span className=" font-semibold text-blue-600">JALA-Support</span>
             <span className=" text-neutral-600">Software for Driver</span>
           </div>
         </section>

@@ -9,7 +9,11 @@ import StatusElem from "./StatusElem"
 import AbsensiElem from "./AbsensiElem"
 import MulaiPerjalananElem from "./MulaiPerjalananElem"
 import { editTask, getTasks, type TaskProps } from "../../api/routeTask"
+import { checkinDriver } from "../../api/routeOps"
 import axios from "axios"
+
+const DRIVER_ID = "driver-demo-01"
+const DRIVER_NAMA = "Driver Demo"
 
 const MainFeature = () => {
 
@@ -43,6 +47,18 @@ const MainFeature = () => {
 
     const currentTask = tasks?.find((t) => t.status === "current")
 
+    useEffect(() => {
+        const statusMap: Record<number, string> = {
+            1: "idle",
+            2: "idle",
+            3: "menuju_halte",
+            4: "dalam_perjalanan",
+        }
+        const statusSaatIni = currentTask ? statusMap[currentTask.order] : "idle"
+
+        checkinDriver(DRIVER_ID, DRIVER_NAMA, data?.kode, statusSaatIni)
+    }, [data, currentTask])
+
     return (
         <>
             <main className=" flex flex-col gap-8 items-center">
@@ -59,6 +75,7 @@ const MainFeature = () => {
                             <RoutesElem func={handleData} func2={handleUpBtn}/>
                             <Routeinfo halte_awal={halteAwal} halte_akhir={halteAkhir}/>
 
+                            {/* Step 3: Absensi - tampil hanya kalau task ini sedang current */}
                             {currentTask?.order === 3 && (
                                 <AbsensiElem
                                     halteAwal={halteAwal}
@@ -71,6 +88,7 @@ const MainFeature = () => {
                 </section>
             </main>
 
+            {/* Step 4: Mulai Perjalanan - full screen map, menutupi seluruh halaman */}
             {currentTask?.order === 4 && (
                 <MulaiPerjalananElem
                     halteAwal={halteAwal}
